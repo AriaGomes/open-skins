@@ -1,0 +1,3364 @@
+[
+  {
+    "id": "patch-4550",
+    "name": "Patch | Crazy Banana",
+    "description": "<i>Agent for scale</i>",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_banana_large.1884779d23d1d51ea190fbd24b9fb5a73a67ae9b.png",
+    "price": {
+      "7_days": {
+        "average": 1.75,
+        "median": 1.8,
+        "sold": "35",
+        "standard_deviation": "6.06",
+        "lowest_price": 1.47,
+        "highest_price": 1.88
+      },
+      "30_days": {
+        "average": 1.82,
+        "median": 1.84,
+        "sold": "882",
+        "standard_deviation": "9.3",
+        "lowest_price": 0.75,
+        "highest_price": 2.01
+      },
+      "all_time": {
+        "average": 1.81,
+        "median": 1.89,
+        "sold": "36965",
+        "standard_deviation": "28.65",
+        "lowest_price": 0.75,
+        "highest_price": 4.54
+      }
+    }
+  },
+  {
+    "id": "patch-4551",
+    "name": "Patch | The Boss",
+    "description": "<i>Heavy is the agent that wears the crown</i>",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_boss_large.6ce60d2d911d6cb53d809a17aeb64030915e1177.png",
+    "price": {
+      "7_days": {
+        "average": 27.02,
+        "median": 26.7,
+        "sold": "15",
+        "standard_deviation": "3.37",
+        "lowest_price": 25.57,
+        "highest_price": 28.13
+      },
+      "30_days": {
+        "average": 30.46,
+        "median": 31.1,
+        "sold": "295",
+        "standard_deviation": "9.31",
+        "lowest_price": 23.1,
+        "highest_price": 35.07
+      },
+      "all_time": {
+        "average": 26.35,
+        "median": 28.63,
+        "sold": "16231",
+        "standard_deviation": "30.67",
+        "lowest_price": 10.63,
+        "highest_price": 59.63
+      }
+    }
+  },
+  {
+    "id": "patch-4552",
+    "name": "Patch | Chicken Lover",
+    "description": "<i>Thank you for sparing them</i>",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_chickenlover_large.4bdead6008a0f22d1c270edc45ba60894e97b322.png",
+    "price": {
+      "7_days": {
+        "average": 1.79,
+        "median": 1.81,
+        "sold": "34",
+        "standard_deviation": "3.55",
+        "lowest_price": 1.67,
+        "highest_price": 1.85
+      },
+      "30_days": {
+        "average": 1.72,
+        "median": 1.76,
+        "sold": "896",
+        "standard_deviation": "9.2",
+        "lowest_price": 0.76,
+        "highest_price": 1.93
+      },
+      "all_time": {
+        "average": 1.56,
+        "median": 1.77,
+        "sold": "34503",
+        "standard_deviation": "31.29",
+        "lowest_price": 0.76,
+        "highest_price": 3.56
+      }
+    }
+  },
+  {
+    "id": "patch-4553",
+    "name": "Patch | Welcome to the Clutch",
+    "description": "<i>4K's are the norm to an agent wearing this patch</i>",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_clutch_large.92abf882c5b0532ed02a28105850a5bfae37e06d.png",
+    "price": {
+      "7_days": {
+        "average": 1.78,
+        "median": 1.79,
+        "sold": "49",
+        "standard_deviation": "5.95",
+        "lowest_price": 1.41,
+        "highest_price": 1.88
+      },
+      "30_days": {
+        "average": 1.78,
+        "median": 1.81,
+        "sold": "938",
+        "standard_deviation": "7.14",
+        "lowest_price": 1.25,
+        "highest_price": 2.02
+      },
+      "all_time": {
+        "average": 2.49,
+        "median": 2.56,
+        "sold": "35771",
+        "standard_deviation": "42.98",
+        "lowest_price": 1.02,
+        "highest_price": 6.36
+      }
+    }
+  },
+  {
+    "id": "patch-4554",
+    "name": "Patch | Dragon",
+    "description": "<i>This patch features a dragon flanked on either side by the iconic AK-47</i>",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_dragon_large.61fa9db7abf3d3f3e12ffc67339c32fe04f4020e.png",
+    "price": {
+      "7_days": {
+        "average": 5.71,
+        "median": 5.54,
+        "sold": "46",
+        "standard_deviation": "8.15",
+        "lowest_price": 4.71,
+        "highest_price": 6.64
+      },
+      "30_days": {
+        "average": 5.77,
+        "median": 5.72,
+        "sold": "326",
+        "standard_deviation": "8.44",
+        "lowest_price": 3.6,
+        "highest_price": 7.32
+      },
+      "all_time": {
+        "average": 5.24,
+        "median": 5.51,
+        "sold": "14124",
+        "standard_deviation": "22.02",
+        "lowest_price": 2.41,
+        "highest_price": 10.98
+      }
+    }
+  },
+  {
+    "id": "patch-4555",
+    "name": "Patch | Easy Peasy",
+    "description": "<i>This patch somehow made it through quality control misspelling \\\"SQEEZY\\\"</i>",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_easypeasy_large.55d6ba3c7922e1d5a826192dd767a5ba8ccca160.png",
+    "price": {
+      "7_days": {
+        "average": 1.34,
+        "median": 1.36,
+        "sold": "143",
+        "standard_deviation": "5.51",
+        "lowest_price": 1.18,
+        "highest_price": 1.46
+      },
+      "30_days": {
+        "average": 1.34,
+        "median": 1.36,
+        "sold": "1019",
+        "standard_deviation": "8.66",
+        "lowest_price": 0.76,
+        "highest_price": 1.47
+      },
+      "all_time": {
+        "average": 1.38,
+        "median": 1.4,
+        "sold": "37157",
+        "standard_deviation": "33.85",
+        "lowest_price": 0.71,
+        "highest_price": 3.24
+      }
+    }
+  },
+  {
+    "id": "patch-4556",
+    "name": "Patch | Rage",
+    "description": "<i>A patch signifying rage, anger, or fury</i>",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_fury_large.1a3e546039c43307cd9fa2548479ffda6c7d40c1.png",
+    "price": {
+      "7_days": {
+        "average": 5.49,
+        "median": 5.66,
+        "sold": "21",
+        "standard_deviation": "5.01",
+        "lowest_price": 5.02,
+        "highest_price": 5.79
+      },
+      "30_days": {
+        "average": 5.4,
+        "median": 5.37,
+        "sold": "370",
+        "standard_deviation": "8.04",
+        "lowest_price": 3.71,
+        "highest_price": 6.32
+      },
+      "all_time": {
+        "average": 5.44,
+        "median": 5.9,
+        "sold": "14692",
+        "standard_deviation": "29.18",
+        "lowest_price": 0.03,
+        "highest_price": 11.66
+      }
+    }
+  },
+  {
+    "id": "patch-4557",
+    "name": "Patch | Howl",
+    "description": "<i>This patch is worth its weight in red, orange, and gold</i>",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_howl_large.a13362718c6e9a94dc4dda21ae4eca270311c3ee.png",
+    "price": {
+      "7_days": {
+        "average": 18.39,
+        "median": 18.62,
+        "sold": "18",
+        "standard_deviation": "3.91",
+        "lowest_price": 17.07,
+        "highest_price": 19.17
+      },
+      "30_days": {
+        "average": 19.7,
+        "median": 19.81,
+        "sold": "348",
+        "standard_deviation": "7.89",
+        "lowest_price": 15.85,
+        "highest_price": 22.93
+      },
+      "all_time": {
+        "average": 23.02,
+        "median": 20.97,
+        "sold": "18345",
+        "standard_deviation": "13.19",
+        "lowest_price": 11.08,
+        "highest_price": 38.45
+      }
+    }
+  },
+  {
+    "id": "patch-4558",
+    "name": "Patch | Koi",
+    "description": "<i>This patch features two Koi fish atop swirling blue water</i>",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_koi_large.709896af0a549875cd4b104f7721c3c9cb22f804.png",
+    "price": {
+      "7_days": {
+        "average": 1.14,
+        "median": 1.13,
+        "sold": "57",
+        "standard_deviation": "6.48",
+        "lowest_price": 0.96,
+        "highest_price": 1.23
+      },
+      "30_days": {
+        "average": 1.16,
+        "median": 1.18,
+        "sold": "919",
+        "standard_deviation": "6.36",
+        "lowest_price": 0.81,
+        "highest_price": 1.29
+      },
+      "all_time": {
+        "average": 1.14,
+        "median": 1.22,
+        "sold": "35416",
+        "standard_deviation": "31.48",
+        "lowest_price": 0.68,
+        "highest_price": 2.54
+      }
+    }
+  },
+  {
+    "id": "patch-4559",
+    "name": "Patch | Longevity",
+    "description": "<i>This red and white patch features an artistic take on the \\\"CSGO\\\" logo</i>",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_longevity_large.293c1408f607b90d8f22a4f71bf844cd65828253.png",
+    "price": {
+      "7_days": {
+        "average": 0.89,
+        "median": 0.89,
+        "sold": "29",
+        "standard_deviation": "16.67",
+        "lowest_price": 0.34,
+        "highest_price": 0.99
+      },
+      "30_days": {
+        "average": 0.93,
+        "median": 0.93,
+        "sold": "740",
+        "standard_deviation": "9.09",
+        "lowest_price": 0.34,
+        "highest_price": 1.1
+      },
+      "all_time": {
+        "average": 1.08,
+        "median": 1.08,
+        "sold": "33202",
+        "standard_deviation": "31.37",
+        "lowest_price": 0.34,
+        "highest_price": 2.59
+      }
+    }
+  },
+  {
+    "id": "patch-4560",
+    "name": "Patch | Wildfire",
+    "description": "<i>This patch features iconography from Operation Wildfire, which launched on February 17th, 2016</i>",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_wildfire_large.6998e584962ca97c39021fe9e9ad8b6d512cdd21.png",
+    "price": {
+      "7_days": {
+        "average": 0.74,
+        "median": 0.74,
+        "sold": "377",
+        "standard_deviation": "4.29",
+        "lowest_price": 0.68,
+        "highest_price": 0.79
+      },
+      "30_days": {
+        "average": 0.8,
+        "median": 0.8,
+        "sold": "3163",
+        "standard_deviation": "5.26",
+        "lowest_price": 0.62,
+        "highest_price": 0.89
+      },
+      "all_time": {
+        "average": 1.15,
+        "median": 0.95,
+        "sold": "128647",
+        "standard_deviation": "28.44",
+        "lowest_price": 0.61,
+        "highest_price": 1.97
+      }
+    }
+  },
+  {
+    "id": "patch-4561",
+    "name": "Patch | Vigilance",
+    "description": "<i>A patch for the lurker; a teammate who keeps a careful watch</i>",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_vigilance_large.7d50d8e73f6feb8918ec8687b60b020ec116db34.png",
+    "price": {
+      "7_days": {
+        "average": 0.52,
+        "median": 0.53,
+        "sold": "145",
+        "standard_deviation": "10.2",
+        "lowest_price": 0.35,
+        "highest_price": 0.57
+      },
+      "30_days": {
+        "average": 0.52,
+        "median": 0.52,
+        "sold": "1017",
+        "standard_deviation": "10.2",
+        "lowest_price": 0.25,
+        "highest_price": 0.72
+      },
+      "all_time": {
+        "average": 0.65,
+        "median": 0.59,
+        "sold": "34805",
+        "standard_deviation": "36.07",
+        "lowest_price": 0.25,
+        "highest_price": 1.71
+      }
+    }
+  },
+  {
+    "id": "patch-4562",
+    "name": "Patch | Bloodhound",
+    "description": "<i>This patch features iconography from Operation Bloodhound, which launched on May 26th, 2015</i>",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_bloodhound_large.93673f15892d2db61dc899d94e36d54813138541.png",
+    "price": {
+      "7_days": {
+        "average": 0.43,
+        "median": 0.42,
+        "sold": "139",
+        "standard_deviation": "4.88",
+        "lowest_price": 0.36,
+        "highest_price": 0.45
+      },
+      "30_days": {
+        "average": 0.42,
+        "median": 0.42,
+        "sold": "3621",
+        "standard_deviation": "5",
+        "lowest_price": 0.28,
+        "highest_price": 0.48
+      },
+      "all_time": {
+        "average": 0.53,
+        "median": 0.49,
+        "sold": "156327",
+        "standard_deviation": "34",
+        "lowest_price": 0.26,
+        "highest_price": 1.09
+      }
+    }
+  },
+  {
+    "id": "patch-4563",
+    "name": "Patch | Bravo",
+    "description": "<i>This patch features iconography from Operation Bravo, which launched on September 19th, 2013</i>",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_bravo_large.79afa9036904b07f77e62c563a4680ebcc5dc795.png",
+    "price": {
+      "7_days": {
+        "average": 0.26,
+        "median": 0.26,
+        "sold": "643",
+        "standard_deviation": "8",
+        "lowest_price": 0.2,
+        "highest_price": 0.29
+      },
+      "30_days": {
+        "average": 0.28,
+        "median": 0.28,
+        "sold": "4511",
+        "standard_deviation": "7.69",
+        "lowest_price": 0.19,
+        "highest_price": 0.32
+      },
+      "all_time": {
+        "average": 0.38,
+        "median": 0.36,
+        "sold": "162817",
+        "standard_deviation": "36.11",
+        "lowest_price": 0.17,
+        "highest_price": 0.73
+      }
+    }
+  },
+  {
+    "id": "patch-4564",
+    "name": "Patch | Breakout",
+    "description": "<i>This patch features iconography from Operation Breakout, which launched on July 1st, 2014</i>",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_breakout_large.e6ddb72182539272151b24e4fa450f80c5e80ce8.png",
+    "price": {
+      "7_days": {
+        "average": 0.2,
+        "median": 0.2,
+        "sold": "529",
+        "standard_deviation": "5.26",
+        "lowest_price": 0.16,
+        "highest_price": 0.22
+      },
+      "30_days": {
+        "average": 0.2,
+        "median": 0.21,
+        "sold": "4044",
+        "standard_deviation": "10.53",
+        "lowest_price": 0.05,
+        "highest_price": 0.24
+      },
+      "all_time": {
+        "average": 0.33,
+        "median": 0.3,
+        "sold": "164719",
+        "standard_deviation": "35.48",
+        "lowest_price": 0.05,
+        "highest_price": 0.58
+      }
+    }
+  },
+  {
+    "id": "patch-4565",
+    "name": "Patch | Danger Zone",
+    "description": "<i>This patch features iconography from Danger Zone, which launched on December 6th, 2018</i>",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_dangerzone_large.2616fbc776d97512bf74cddc2728b0b0c5f7780d.png",
+    "price": {
+      "7_days": {
+        "average": 0.62,
+        "median": 0.63,
+        "sold": "30",
+        "standard_deviation": "5.08",
+        "lowest_price": 0.55,
+        "highest_price": 0.68
+      },
+      "30_days": {
+        "average": 0.63,
+        "median": 0.62,
+        "sold": "849",
+        "standard_deviation": "10",
+        "lowest_price": 0.34,
+        "highest_price": 0.9
+      },
+      "all_time": {
+        "average": 0.76,
+        "median": 0.72,
+        "sold": "37679",
+        "standard_deviation": "33.33",
+        "lowest_price": 0.34,
+        "highest_price": 2
+      }
+    }
+  },
+  {
+    "id": "patch-4566",
+    "name": "Patch | Hydra",
+    "description": "<i>This patch features iconography from Operation Hydra, which launched on May 23rd, 2017</i>",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_hydra_large.d09bf4a92b7fa99b8595df9c237194f37edd9345.png",
+    "price": {
+      "7_days": {
+        "average": 0.54,
+        "median": 0.54,
+        "sold": "496",
+        "standard_deviation": "5.88",
+        "lowest_price": 0.42,
+        "highest_price": 0.57
+      },
+      "30_days": {
+        "average": 0.56,
+        "median": 0.56,
+        "sold": "3684",
+        "standard_deviation": "5.66",
+        "lowest_price": 0.42,
+        "highest_price": 0.6
+      },
+      "all_time": {
+        "average": 0.69,
+        "median": 0.63,
+        "sold": "149949",
+        "standard_deviation": "30.77",
+        "lowest_price": 0.36,
+        "highest_price": 1.28
+      }
+    }
+  },
+  {
+    "id": "patch-4567",
+    "name": "Patch | Payback",
+    "description": "<i>This patch features iconography from Operation Payback, which launched on April 25th, 2013</i>",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_payback_large.1e71de0b262ef752e3584ffd74b732820f1da7a3.png",
+    "price": {
+      "7_days": {
+        "average": 0.2,
+        "median": 0.2,
+        "sold": "614",
+        "standard_deviation": "5.26",
+        "lowest_price": 0.13,
+        "highest_price": 0.21
+      },
+      "30_days": {
+        "average": 0.2,
+        "median": 0.2,
+        "sold": "4531",
+        "standard_deviation": "5.26",
+        "lowest_price": 0.1,
+        "highest_price": 0.24
+      },
+      "all_time": {
+        "average": 0.31,
+        "median": 0.28,
+        "sold": "172933",
+        "standard_deviation": "34.48",
+        "lowest_price": 0.1,
+        "highest_price": 0.6
+      }
+    }
+  },
+  {
+    "id": "patch-4568",
+    "name": "Patch | Phoenix",
+    "description": "<i>This patch features iconography from Operation Phoenix, which launched on February 20th, 2014</i>",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_phoenix_large.341a3a1242877c7c5d8ea550b85fcd16f387b388.png",
+    "price": {
+      "7_days": {
+        "average": 0.4,
+        "median": 0.4,
+        "sold": "509",
+        "standard_deviation": "5.26",
+        "lowest_price": 0.35,
+        "highest_price": 0.44
+      },
+      "30_days": {
+        "average": 0.41,
+        "median": 0.41,
+        "sold": "3742",
+        "standard_deviation": "5.13",
+        "lowest_price": 0.21,
+        "highest_price": 0.48
+      },
+      "all_time": {
+        "average": 0.58,
+        "median": 0.53,
+        "sold": "142132",
+        "standard_deviation": "36.36",
+        "lowest_price": 0.21,
+        "highest_price": 1.11
+      }
+    }
+  },
+  {
+    "id": "patch-4569",
+    "name": "Patch | Shattered Web",
+    "description": "<i>This patch features iconography from Operation Shattered Web, which launched on November 18th, 2019</i>",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_shatteredweb_large.ebe44be62bba9022f77cc1af55c325f1f30f5a54.png",
+    "price": {
+      "7_days": {
+        "average": 0.41,
+        "median": 0.4,
+        "sold": "148",
+        "standard_deviation": "5.13",
+        "lowest_price": 0.35,
+        "highest_price": 0.44
+      },
+      "30_days": {
+        "average": 0.45,
+        "median": 0.45,
+        "sold": "3595",
+        "standard_deviation": "6.98",
+        "lowest_price": 0.32,
+        "highest_price": 0.52
+      },
+      "all_time": {
+        "average": 0.59,
+        "median": 0.49,
+        "sold": "170463",
+        "standard_deviation": "28.57",
+        "lowest_price": 0.32,
+        "highest_price": 3.15
+      }
+    }
+  },
+  {
+    "id": "patch-4570",
+    "name": "Patch | Vanguard",
+    "description": "<i>This patch features iconography from Operation Vanguard, which launched on November 11th, 2014</i>",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_vanguard_large.3f30c3679ca9c8b6f1a96894cd78cea570fea80b.png",
+    "price": {
+      "7_days": {
+        "average": 0.25,
+        "median": 0.25,
+        "sold": "182",
+        "standard_deviation": "8.33",
+        "lowest_price": 0.21,
+        "highest_price": 0.26
+      },
+      "30_days": {
+        "average": 0.25,
+        "median": 0.25,
+        "sold": "3295",
+        "standard_deviation": "8.33",
+        "lowest_price": 0.12,
+        "highest_price": 0.3
+      },
+      "all_time": {
+        "average": 0.37,
+        "median": 0.34,
+        "sold": "145312",
+        "standard_deviation": "37.14",
+        "lowest_price": 0.12,
+        "highest_price": 0.76
+      }
+    }
+  },
+  {
+    "id": "patch-4571",
+    "name": "Patch | Metal Silver",
+    "description": "<i>A patch for those taking their first step on the road to Global.</i>",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_silver_large.3f8cda8378e0fb17a339d4ffffc05c7e257f1b8c.png",
+    "price": {
+      "7_days": {
+        "average": 4.25,
+        "median": 4.34,
+        "sold": "38",
+        "standard_deviation": "15.67",
+        "lowest_price": 0.99,
+        "highest_price": 4.58
+      },
+      "30_days": {
+        "average": 4.28,
+        "median": 4.38,
+        "sold": "308",
+        "standard_deviation": "13.58",
+        "lowest_price": 0.99,
+        "highest_price": 5.16
+      },
+      "all_time": {
+        "average": 0.7,
+        "median": 1.15,
+        "sold": "68625",
+        "standard_deviation": "203.03",
+        "lowest_price": 0.28,
+        "highest_price": 5.16
+      }
+    }
+  },
+  {
+    "id": "patch-4572",
+    "name": "Patch | Metal Gold Nova I",
+    "description": "<i>Made it out of Silver? There's still work to do.</i>",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_goldnova1_large.4c2c1b63569cf111b4054ab1e28a937da04ae3a9.png",
+    "price": {
+      "7_days": {
+        "average": 0.86,
+        "median": 0.85,
+        "sold": "12",
+        "standard_deviation": "3.7",
+        "lowest_price": 0.84,
+        "highest_price": 0.93
+      },
+      "30_days": {
+        "average": 0.95,
+        "median": 0.99,
+        "sold": "236",
+        "standard_deviation": "12.22",
+        "lowest_price": 0.39,
+        "highest_price": 1.09
+      },
+      "all_time": {
+        "average": 0.29,
+        "median": 0.4,
+        "sold": "60827",
+        "standard_deviation": "111.11",
+        "lowest_price": 0.14,
+        "highest_price": 1.46
+      }
+    }
+  },
+  {
+    "id": "patch-4575",
+    "name": "Patch | Metal Gold Nova Master",
+    "description": "<i>And you thought Silver was hard to get out of...</i>",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_goldnovamaster_large.52b9963612d17b1c64159757797113247032c910.png",
+    "price": {
+      "7_days": {
+        "average": 0.93,
+        "median": 0.95,
+        "sold": "14",
+        "standard_deviation": "5.68",
+        "lowest_price": 0.83,
+        "highest_price": 0.96
+      },
+      "30_days": {
+        "average": 1.03,
+        "median": 1,
+        "sold": "470",
+        "standard_deviation": "9.28",
+        "lowest_price": 0.6,
+        "highest_price": 1.12
+      },
+      "all_time": {
+        "average": 0.29,
+        "median": 0.39,
+        "sold": "60767",
+        "standard_deviation": "107.41",
+        "lowest_price": 0.14,
+        "highest_price": 1.27
+      }
+    }
+  },
+  {
+    "id": "patch-4576",
+    "name": "Patch | Metal Master Guardian I",
+    "description": "<i>Escaped Gold Nova? Good, you're learning.</i>",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_masterguardian1_large.e161345a1b7093f76ba65d4694e9f29392a9235f.png",
+    "price": {
+      "7_days": {
+        "average": 0.84,
+        "median": 0.86,
+        "sold": "10",
+        "standard_deviation": "2.53",
+        "lowest_price": 0.79,
+        "highest_price": 0.86
+      },
+      "30_days": {
+        "average": 0.92,
+        "median": 0.88,
+        "sold": "247",
+        "standard_deviation": "9.2",
+        "lowest_price": 0.54,
+        "highest_price": 1.17
+      },
+      "all_time": {
+        "average": 0.32,
+        "median": 0.38,
+        "sold": "58515",
+        "standard_deviation": "86.67",
+        "lowest_price": 0.15,
+        "highest_price": 1.39
+      }
+    }
+  },
+  {
+    "id": "patch-4578",
+    "name": "Patch | Metal Master Guardian Elite",
+    "description": "<i>Expertly crafted, the silver thread on this MGE patch jumps off the navy background.</i>",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_masterguardianelite_large.d203b10966f572543bfdaba6d0772c8f4b383a72.png",
+    "price": {
+      "7_days": {
+        "average": 0.88,
+        "median": 0.89,
+        "sold": "47",
+        "standard_deviation": "4.82",
+        "lowest_price": 0.75,
+        "highest_price": 0.91
+      },
+      "30_days": {
+        "average": 0.89,
+        "median": 0.9,
+        "sold": "287",
+        "standard_deviation": "8.33",
+        "lowest_price": 0.42,
+        "highest_price": 1.02
+      },
+      "all_time": {
+        "average": 0.3,
+        "median": 0.38,
+        "sold": "58314",
+        "standard_deviation": "89.29",
+        "lowest_price": 0.16,
+        "highest_price": 1.15
+      }
+    }
+  },
+  {
+    "id": "patch-4579",
+    "name": "Patch | Metal Distinguished Master Guardian ★",
+    "description": "<i>Individuals must bend, adapt, and work together to achieve the Skill Group of DMG. Keep climbing.</i>",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_dmg_large.3fd018ad9a5bea54b69441eb3bf0ebba302fb9e7.png",
+    "price": {
+      "7_days": {
+        "average": 1.13,
+        "median": 1.15,
+        "sold": "6",
+        "standard_deviation": "6.54",
+        "lowest_price": 0.96,
+        "highest_price": 1.17
+      },
+      "30_days": {
+        "average": 1.47,
+        "median": 1.53,
+        "sold": "127",
+        "standard_deviation": "17.27",
+        "lowest_price": 0.76,
+        "highest_price": 1.78
+      },
+      "all_time": {
+        "average": 0.42,
+        "median": 0.5,
+        "sold": "23531",
+        "standard_deviation": "100",
+        "lowest_price": 0.21,
+        "highest_price": 1.78
+      }
+    }
+  },
+  {
+    "id": "patch-4580",
+    "name": "Patch | Metal Legendary Eagle",
+    "description": "<i>This Legendary Eagle patch includes a pair of golden wings.</i>",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_legendaryeagle_large.9de7000b46dadf93f50d90bbb73ce109e6a0c66e.png",
+    "price": {
+      "7_days": {
+        "average": 1,
+        "median": 1.02,
+        "sold": "13",
+        "standard_deviation": "5.26",
+        "lowest_price": 0.85,
+        "highest_price": 1.03
+      },
+      "30_days": {
+        "average": 1,
+        "median": 1.02,
+        "sold": "261",
+        "standard_deviation": "7.37",
+        "lowest_price": 0.76,
+        "highest_price": 1.2
+      },
+      "all_time": {
+        "average": 0.32,
+        "median": 0.47,
+        "sold": "55892",
+        "standard_deviation": "96.67",
+        "lowest_price": 0.16,
+        "highest_price": 1.33
+      }
+    }
+  },
+  {
+    "id": "patch-4581",
+    "name": "Patch | Metal Legendary Eagle Master ★",
+    "description": "<i>You're nearing the top, but those awaiting your challenge will show no mercy.</i>",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_legendaryeaglemaster_large.f312a0441967a4e26dd5fa1c290644902022db43.png",
+    "price": {
+      "7_days": {
+        "average": 3.52,
+        "median": 3.98,
+        "sold": "6",
+        "standard_deviation": "33.63",
+        "lowest_price": 0.95,
+        "highest_price": 4.28
+      },
+      "30_days": {
+        "average": 4.31,
+        "median": 4.24,
+        "sold": "92",
+        "standard_deviation": "17.44",
+        "lowest_price": 0.95,
+        "highest_price": 5.08
+      },
+      "all_time": {
+        "average": 1.02,
+        "median": 1.28,
+        "sold": "24508",
+        "standard_deviation": "112.5",
+        "lowest_price": 0.4,
+        "highest_price": 5.2
+      }
+    }
+  },
+  {
+    "id": "patch-4582",
+    "name": "Patch | Metal Supreme Master First Class",
+    "description": "<i>This Supreme patch features a heart-shaped globe and red and blue details.</i>",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_supreme_large.dcd2dd0efa108a8b6482a4dfbf9b727a9d0d32ac.png",
+    "price": {
+      "7_days": {
+        "average": 3.79,
+        "median": 3.7,
+        "sold": "14",
+        "standard_deviation": "5.59",
+        "lowest_price": 3.52,
+        "highest_price": 4.05
+      },
+      "30_days": {
+        "average": 3.86,
+        "median": 3.91,
+        "sold": "95",
+        "standard_deviation": "21.37",
+        "lowest_price": 0.99,
+        "highest_price": 4.7
+      },
+      "all_time": {
+        "average": 0.97,
+        "median": 1.24,
+        "sold": "24373",
+        "standard_deviation": "118.48",
+        "lowest_price": 0.47,
+        "highest_price": 5.62
+      }
+    }
+  },
+  {
+    "id": "patch-4583",
+    "name": "Patch | Metal The Global Elite ★",
+    "description": "<i>Congratulations, you've arrived. Now the real challenge begins.</i>",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_globalelite_large.d7d31d314dc4ab060c70db25c5d82dc71190d687.png",
+    "price": {
+      "7_days": {
+        "average": 16.98,
+        "median": 17.18,
+        "sold": "6",
+        "standard_deviation": "3.36",
+        "lowest_price": 15.87,
+        "highest_price": 17.54
+      },
+      "30_days": {
+        "average": 17.29,
+        "median": 17.24,
+        "sold": "50",
+        "standard_deviation": "8.81",
+        "lowest_price": 14.18,
+        "highest_price": 19.88
+      },
+      "all_time": {
+        "average": 3.76,
+        "median": 4.42,
+        "sold": "17378",
+        "standard_deviation": "112.39",
+        "lowest_price": 1.89,
+        "highest_price": 19.88
+      }
+    }
+  },
+  {
+    "id": "patch-4584",
+    "name": "Patch | Metal Distinguished Master Guardian",
+    "description": "<i>Individuals must bend, adapt, and work together to achieve the Skill Group of DMG. Keep climbing.</i>",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_dmg2_large.cd6c07968e4ca5af6deef4924f44d200da5b1f7a.png",
+    "price": {
+      "7_days": {
+        "average": 1.06,
+        "median": 1.1,
+        "sold": "6",
+        "standard_deviation": "8",
+        "lowest_price": 0.87,
+        "highest_price": 1.12
+      },
+      "30_days": {
+        "average": 1.14,
+        "median": 1.07,
+        "sold": "488",
+        "standard_deviation": "12.04",
+        "lowest_price": 0.7,
+        "highest_price": 1.35
+      },
+      "all_time": {
+        "average": 0.3,
+        "median": 0.37,
+        "sold": "57888",
+        "standard_deviation": "100",
+        "lowest_price": 0.16,
+        "highest_price": 1.35
+      }
+    }
+  },
+  {
+    "id": "patch-4585",
+    "name": "Patch | Metal Legendary Eagle",
+    "description": "<i>This Legendary Eagle patch includes a pair of golden wings.</i>",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_legendaryeagle2_large.8f31aa3018c448fc34a4861d72b4de8b6accb27f.png",
+    "price": {
+      "7_days": {
+        "average": 1,
+        "median": 1.02,
+        "sold": "13",
+        "standard_deviation": "5.26",
+        "lowest_price": 0.85,
+        "highest_price": 1.03
+      },
+      "30_days": {
+        "average": 1,
+        "median": 1.02,
+        "sold": "261",
+        "standard_deviation": "7.37",
+        "lowest_price": 0.76,
+        "highest_price": 1.2
+      },
+      "all_time": {
+        "average": 0.32,
+        "median": 0.47,
+        "sold": "55892",
+        "standard_deviation": "96.67",
+        "lowest_price": 0.16,
+        "highest_price": 1.33
+      }
+    }
+  },
+  {
+    "id": "patch-4586",
+    "name": "Patch | Metal Legendary Eagle Master",
+    "description": "<i>You're nearing the top, but those awaiting your challenge will show no mercy.</i>",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_legendaryeaglemaster2_large.1c441fb5bcede67c0d1b22273a3da4746c89919f.png",
+    "price": {
+      "7_days": {
+        "average": 1.56,
+        "median": 1.62,
+        "sold": "9",
+        "standard_deviation": "14.97",
+        "lowest_price": 1.04,
+        "highest_price": 1.63
+      },
+      "30_days": {
+        "average": 1.64,
+        "median": 1.68,
+        "sold": "179",
+        "standard_deviation": "14.84",
+        "lowest_price": 0.75,
+        "highest_price": 1.96
+      },
+      "all_time": {
+        "average": 0.47,
+        "median": 0.61,
+        "sold": "53269",
+        "standard_deviation": "111.36",
+        "lowest_price": 0.23,
+        "highest_price": 2.4
+      }
+    }
+  },
+  {
+    "id": "patch-4587",
+    "name": "Patch | Metal Silver Demon",
+    "description": "<i>\\\"Silver Hell\\\" isn't a place, it's a state of mind. And you can leave at any time.</i>",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_silver_demon_large.30ccd701de2f3edcecbac3789b04adcede0f5971.png",
+    "price": {
+      "7_days": {
+        "average": 21.49,
+        "median": 21.91,
+        "sold": "6",
+        "standard_deviation": "3.64",
+        "lowest_price": 20.36,
+        "highest_price": 22.24
+      },
+      "30_days": {
+        "average": 21.43,
+        "median": 22.15,
+        "sold": "65",
+        "standard_deviation": "7.65",
+        "lowest_price": 15.06,
+        "highest_price": 23.53
+      },
+      "all_time": {
+        "average": 7.87,
+        "median": 8.42,
+        "sold": "18386",
+        "standard_deviation": "70.97",
+        "lowest_price": 4.36,
+        "highest_price": 32.54
+      }
+    }
+  },
+  {
+    "id": "patch-4588",
+    "name": "Patch | Metal Supreme Master",
+    "description": "<i>A winged defuser is flanked by six stars on this SMFC patch.</i>",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_suprememaster_large.c548b494374644c727057e59696448a0ff76a45f.png",
+    "price": {
+      "7_days": {
+        "average": 1.4,
+        "median": 1.45,
+        "sold": "31",
+        "standard_deviation": "11.36",
+        "lowest_price": 0.99,
+        "highest_price": 1.49
+      },
+      "30_days": {
+        "average": 1.6,
+        "median": 1.6,
+        "sold": "254",
+        "standard_deviation": "12.58",
+        "lowest_price": 0.84,
+        "highest_price": 1.98
+      },
+      "all_time": {
+        "average": 0.41,
+        "median": 0.56,
+        "sold": "53823",
+        "standard_deviation": "123.08",
+        "lowest_price": 0.2,
+        "highest_price": 1.98
+      }
+    }
+  },
+  {
+    "id": "patch-4589",
+    "name": "Patch | Alyx",
+    "description": "Half-Life: Alyx Commemorative Patch",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_alyx_large.0a79e889cd9e30a21193c51315fbafb26bbafb82.png",
+    "price": {
+      "7_days": {
+        "average": 4.95,
+        "median": 4.91,
+        "sold": "6",
+        "standard_deviation": "6.2",
+        "lowest_price": 4.39,
+        "highest_price": 5.24
+      },
+      "30_days": {
+        "average": 5.44,
+        "median": 5.37,
+        "sold": "105",
+        "standard_deviation": "7.98",
+        "lowest_price": 4.39,
+        "highest_price": 6.79
+      },
+      "all_time": {
+        "average": 5.8,
+        "median": 5.51,
+        "sold": "3671",
+        "standard_deviation": "23.54",
+        "lowest_price": 0.99,
+        "highest_price": 13.56
+      }
+    }
+  },
+  {
+    "id": "patch-4591",
+    "name": "Patch | Sustenance!",
+    "description": "Half-Life: Alyx Commemorative Patch",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_headcrab_green_large.d8c9a68dcb2a4d2706ff89dfaa9b76ca2fbeffa2.png",
+    "price": {
+      "7_days": {
+        "average": 2.05,
+        "median": 2.09,
+        "sold": "21",
+        "standard_deviation": "10.82",
+        "lowest_price": 1.35,
+        "highest_price": 2.26
+      },
+      "30_days": {
+        "average": 2.26,
+        "median": 2.25,
+        "sold": "457",
+        "standard_deviation": "11.21",
+        "lowest_price": 0.76,
+        "highest_price": 2.71
+      },
+      "all_time": {
+        "average": 2.4,
+        "median": 2.37,
+        "sold": "18163",
+        "standard_deviation": "16.74",
+        "lowest_price": 0.76,
+        "highest_price": 4.47
+      }
+    }
+  },
+  {
+    "id": "patch-4592",
+    "name": "Patch | Vortigaunt",
+    "description": "Half-Life: Alyx Commemorative Patch",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_vort_large.7494a03bb0e99db083415b295007b27db725ec4a.png",
+    "price": {
+      "7_days": {
+        "average": 0.39,
+        "median": 0.38,
+        "sold": "197",
+        "standard_deviation": "8.11",
+        "lowest_price": 0.3,
+        "highest_price": 0.44
+      },
+      "30_days": {
+        "average": 0.42,
+        "median": 0.42,
+        "sold": "1574",
+        "standard_deviation": "7.5",
+        "lowest_price": 0.26,
+        "highest_price": 0.51
+      },
+      "all_time": {
+        "average": 0.5,
+        "median": 0.45,
+        "sold": "47949",
+        "standard_deviation": "21.28",
+        "lowest_price": 0.23,
+        "highest_price": 0.91
+      }
+    }
+  },
+  {
+    "id": "patch-4593",
+    "name": "Patch | Headcrab Glyph",
+    "description": "Half-Life: Alyx Commemorative Patch",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_headcrab_teal_large.21fd7236ec2dd39c0fcbfe43ee7879d782264368.png",
+    "price": {
+      "7_days": {
+        "average": 0.43,
+        "median": 0.42,
+        "sold": "74",
+        "standard_deviation": "4.88",
+        "lowest_price": 0.39,
+        "highest_price": 0.47
+      },
+      "30_days": {
+        "average": 0.43,
+        "median": 0.43,
+        "sold": "1415",
+        "standard_deviation": "7.32",
+        "lowest_price": 0.24,
+        "highest_price": 0.51
+      },
+      "all_time": {
+        "average": 0.55,
+        "median": 0.49,
+        "sold": "47529",
+        "standard_deviation": "23.08",
+        "lowest_price": 0.24,
+        "highest_price": 0.93
+      }
+    }
+  },
+  {
+    "id": "patch-4594",
+    "name": "Patch | Copper Lambda",
+    "description": "Half-Life: Alyx Commemorative Patch",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_lambda_copper_large.7c1d89caba547cd8c31f4d7a83dfc2a52f2aa3cd.png",
+    "price": {
+      "7_days": {
+        "average": 6.97,
+        "median": 7.08,
+        "sold": "3",
+        "standard_deviation": "4.4",
+        "lowest_price": 6.77,
+        "highest_price": 7.38
+      },
+      "30_days": {
+        "average": 6.92,
+        "median": 7.08,
+        "sold": "115",
+        "standard_deviation": "8.56",
+        "lowest_price": 5.49,
+        "highest_price": 7.54
+      },
+      "all_time": {
+        "average": 6.73,
+        "median": 6.64,
+        "sold": "3920",
+        "standard_deviation": "22.96",
+        "lowest_price": 0.03,
+        "highest_price": 18.76
+      }
+    }
+  },
+  {
+    "id": "patch-4595",
+    "name": "Patch | Health",
+    "description": "Half-Life: Alyx Commemorative Patch",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_hearts_large.1b62ae672dd16c74ac2484643c64e3e649fef6c1.png",
+    "price": {
+      "7_days": {
+        "average": 23.47,
+        "median": 23.47,
+        "sold": "2",
+        "standard_deviation": "4.87",
+        "lowest_price": 22.33,
+        "highest_price": 24.62
+      },
+      "30_days": {
+        "average": 24.6,
+        "median": 24.58,
+        "sold": "91",
+        "standard_deviation": "7.91",
+        "lowest_price": 20.08,
+        "highest_price": 29.03
+      },
+      "all_time": {
+        "average": 24.71,
+        "median": 26.95,
+        "sold": "3521",
+        "standard_deviation": "23.67",
+        "lowest_price": 5.46,
+        "highest_price": 54.55
+      }
+    }
+  },
+  {
+    "id": "patch-4596",
+    "name": "Patch | Combine Helmet",
+    "description": "Half-Life: Alyx Commemorative Patch",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_combine_front_large.ea5c7c736d43279b77ecddc4b61a4f92c7dea714.png",
+    "price": {
+      "7_days": {
+        "average": 0.56,
+        "median": 0.62,
+        "sold": "180",
+        "standard_deviation": "7.55",
+        "lowest_price": 0.53,
+        "highest_price": 0.65
+      },
+      "30_days": {
+        "average": 0.66,
+        "median": 0.66,
+        "sold": "1434",
+        "standard_deviation": "8.06",
+        "lowest_price": 0.35,
+        "highest_price": 0.75
+      },
+      "all_time": {
+        "average": 0.73,
+        "median": 0.71,
+        "sold": "48044",
+        "standard_deviation": "18.84",
+        "lowest_price": 0.35,
+        "highest_price": 1.31
+      }
+    }
+  },
+  {
+    "id": "patch-4597",
+    "name": "Patch | Black Mesa",
+    "description": "Half-Life: Alyx Commemorative Patch",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_blackmesa_large.197a5b77558ee5a235fa3036f33aa97d809e747e.png",
+    "price": {
+      "7_days": {
+        "average": 1.36,
+        "median": 1.36,
+        "sold": "22",
+        "standard_deviation": "8.53",
+        "lowest_price": 1.06,
+        "highest_price": 1.48
+      },
+      "30_days": {
+        "average": 1.53,
+        "median": 1.54,
+        "sold": "544",
+        "standard_deviation": "9.66",
+        "lowest_price": 0.98,
+        "highest_price": 2.07
+      },
+      "all_time": {
+        "average": 1.22,
+        "median": 1.32,
+        "sold": "18539",
+        "standard_deviation": "22.61",
+        "lowest_price": 0.79,
+        "highest_price": 2.32
+      }
+    }
+  },
+  {
+    "id": "patch-4598",
+    "name": "Patch | CMB",
+    "description": "Half-Life: Alyx Commemorative Patch",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_cmb_large.0d7fbe754815be19e7b6f57819f6c3222be2c37f.png",
+    "price": {
+      "7_days": {
+        "average": 0.31,
+        "median": 0.31,
+        "sold": "55",
+        "standard_deviation": "3.45",
+        "lowest_price": 0.26,
+        "highest_price": 0.33
+      },
+      "30_days": {
+        "average": 0.37,
+        "median": 0.36,
+        "sold": "1367",
+        "standard_deviation": "11.43",
+        "lowest_price": 0.22,
+        "highest_price": 0.5
+      },
+      "all_time": {
+        "average": 0.45,
+        "median": 0.4,
+        "sold": "47922",
+        "standard_deviation": "23.26",
+        "lowest_price": 0.22,
+        "highest_price": 0.87
+      }
+    }
+  },
+  {
+    "id": "patch-4599",
+    "name": "Patch | Lambda",
+    "description": "Half-Life: Alyx Commemorative Patch",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_lambda_orange_large.11224c79f11bf68d16f0aa34f53f94b66829d313.png",
+    "price": {
+      "7_days": {
+        "average": 3.29,
+        "median": 3.19,
+        "sold": "20",
+        "standard_deviation": "3.22",
+        "lowest_price": 3.11,
+        "highest_price": 3.45
+      },
+      "30_days": {
+        "average": 3.58,
+        "median": 3.66,
+        "sold": "577",
+        "standard_deviation": "7.99",
+        "lowest_price": 2.31,
+        "highest_price": 4.04
+      },
+      "all_time": {
+        "average": 3.33,
+        "median": 3.41,
+        "sold": "18171",
+        "standard_deviation": "28.25",
+        "lowest_price": 1.73,
+        "highest_price": 11.17
+      }
+    }
+  },
+  {
+    "id": "patch-4600",
+    "name": "Patch | City 17",
+    "description": "Half-Life: Alyx Commemorative Patch",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_c17_large.25afd2b9a785c18987c1aebfd8873416f7965497.png",
+    "price": {
+      "7_days": {
+        "average": 0.28,
+        "median": 0.28,
+        "sold": "174",
+        "standard_deviation": "11.54",
+        "lowest_price": 0.17,
+        "highest_price": 0.31
+      },
+      "30_days": {
+        "average": 0.29,
+        "median": 0.29,
+        "sold": "1527",
+        "standard_deviation": "7.41",
+        "lowest_price": 0.16,
+        "highest_price": 0.32
+      },
+      "all_time": {
+        "average": 0.43,
+        "median": 0.37,
+        "sold": "47631",
+        "standard_deviation": "29.27",
+        "lowest_price": 0.16,
+        "highest_price": 0.79
+      }
+    }
+  },
+  {
+    "id": "patch-4697",
+    "name": "Patch | Metal The Global Elite",
+    "description": "<i>Congratulations, you've arrived. Now the real challenge begins.</i>",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_globalelite2_large.af50fd126bb48687763911e4248e1d5825aa531c.png",
+    "price": {
+      "7_days": {
+        "average": 2.39,
+        "median": 2.39,
+        "sold": "9",
+        "standard_deviation": "0.44",
+        "lowest_price": 2.38,
+        "highest_price": 2.4
+      },
+      "30_days": {
+        "average": 2.74,
+        "median": 2.92,
+        "sold": "237",
+        "standard_deviation": "19.69",
+        "lowest_price": 0.9,
+        "highest_price": 3.28
+      },
+      "all_time": {
+        "average": 0.52,
+        "median": 0.72,
+        "sold": "58813",
+        "standard_deviation": "177.55",
+        "lowest_price": 0.23,
+        "highest_price": 3.44
+      }
+    }
+  },
+  {
+    "id": "patch-4699",
+    "name": "Patch | Metal Master Guardian",
+    "description": "<i>Escaped Gold Nova? Good, you're learning.</i>",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_masterguardian3_large.bc4a6065dbbb483a46dbaf7969d9068f03c84d2d.png",
+    "price": {
+      "7_days": {
+        "average": 1.83,
+        "median": 1.84,
+        "sold": "18",
+        "standard_deviation": "12.72",
+        "lowest_price": 1.04,
+        "highest_price": 1.96
+      },
+      "30_days": {
+        "average": 1.83,
+        "median": 1.85,
+        "sold": "98",
+        "standard_deviation": "13.87",
+        "lowest_price": 0.74,
+        "highest_price": 2.06
+      },
+      "all_time": {
+        "average": 0.55,
+        "median": 0.62,
+        "sold": "24907",
+        "standard_deviation": "94.23",
+        "lowest_price": 0.26,
+        "highest_price": 2.37
+      }
+    }
+  },
+  {
+    "id": "patch-4700",
+    "name": "Patch | Metal Gold Nova",
+    "description": "<i>Made it out of Silver? There's still work to do.</i>",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_goldnova4_large.8b14e84ad2cd95724d86661f6c6e347eab1f4a02.png",
+    "price": {
+      "7_days": {
+        "average": 1.24,
+        "median": 1.18,
+        "sold": "8",
+        "standard_deviation": "7.69",
+        "lowest_price": 1.08,
+        "highest_price": 1.35
+      },
+      "30_days": {
+        "average": 1.3,
+        "median": 1.32,
+        "sold": "84",
+        "standard_deviation": "12.2",
+        "lowest_price": 0.76,
+        "highest_price": 1.51
+      },
+      "all_time": {
+        "average": 0.41,
+        "median": 0.5,
+        "sold": "25490",
+        "standard_deviation": "94.87",
+        "lowest_price": 0.19,
+        "highest_price": 2
+      }
+    }
+  },
+  {
+    "id": "patch-4937",
+    "name": "Patch | Abandon Hope",
+    "description": "<i>All ye who dare enter...</i>",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_abandon_hope_large.320d00ae5227e81f626056d043dc95f9102f3963.png",
+    "price": {
+      "7_days": {
+        "average": 13.09,
+        "median": 13.29,
+        "sold": "40",
+        "standard_deviation": "4.85",
+        "lowest_price": 11.32,
+        "highest_price": 14.02
+      },
+      "30_days": {
+        "average": 14.81,
+        "median": 14.69,
+        "sold": "228",
+        "standard_deviation": "10.86",
+        "lowest_price": 10.89,
+        "highest_price": 17.95
+      },
+      "all_time": {
+        "average": 1.22,
+        "median": 2.58,
+        "sold": "43159",
+        "standard_deviation": "445.22",
+        "lowest_price": 0.2,
+        "highest_price": 17.95
+      }
+    }
+  },
+  {
+    "id": "patch-4938",
+    "name": "Patch | Anchors Aweigh",
+    "description": "<i>Staying still in stormy seas...</i>",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_anchor_large.0b9918fe1371a4914d503ce48c3ae6e0e10b5080.png",
+    "price": {
+      "7_days": {
+        "average": 2.25,
+        "median": 2.28,
+        "sold": "50",
+        "standard_deviation": "12.68",
+        "lowest_price": 1.06,
+        "highest_price": 2.61
+      },
+      "30_days": {
+        "average": 2.21,
+        "median": 2.22,
+        "sold": "290",
+        "standard_deviation": "14.35",
+        "lowest_price": 0.81,
+        "highest_price": 2.61
+      },
+      "all_time": {
+        "average": 0.33,
+        "median": 0.6,
+        "sold": "43211",
+        "standard_deviation": "245.16",
+        "lowest_price": 0.08,
+        "highest_price": 2.95
+      }
+    }
+  },
+  {
+    "id": "patch-4939",
+    "name": "Patch | Cruising Ray",
+    "description": "<i>Glides below the waves...</i>",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_cruising_large.5ec27fb0c015535b71c65c1a49b0a23f8e50f685.png",
+    "price": {
+      "7_days": {
+        "average": 3.86,
+        "median": 3.65,
+        "sold": "37",
+        "standard_deviation": "10.14",
+        "lowest_price": 2.69,
+        "highest_price": 4.39
+      },
+      "30_days": {
+        "average": 4.62,
+        "median": 4.78,
+        "sold": "238",
+        "standard_deviation": "16.02",
+        "lowest_price": 0.97,
+        "highest_price": 5.98
+      },
+      "all_time": {
+        "average": 0.44,
+        "median": 0.83,
+        "sold": "40643",
+        "standard_deviation": "388.1",
+        "lowest_price": 0.1,
+        "highest_price": 5.98
+      }
+    }
+  },
+  {
+    "id": "patch-4940",
+    "name": "Patch | Bayonet Frog",
+    "description": "<i>Don't give up 'till you croak...</i>",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_frog_skeleton_large.1c7a78d071c05b27ea260f7e4dba3612c78560b9.png",
+    "price": {
+      "7_days": {
+        "average": 186.37,
+        "median": 186.37,
+        "sold": "1",
+        "standard_deviation": "0",
+        "lowest_price": 186.37,
+        "highest_price": 186.37
+      },
+      "30_days": {
+        "average": 216.81,
+        "median": 217.94,
+        "sold": "15",
+        "standard_deviation": "10.55",
+        "lowest_price": 160.76,
+        "highest_price": 242.83
+      },
+      "all_time": {
+        "average": 11.82,
+        "median": 9.54,
+        "sold": "5472",
+        "standard_deviation": "432.41",
+        "lowest_price": 1.61,
+        "highest_price": 242.83
+      }
+    }
+  },
+  {
+    "id": "patch-4941",
+    "name": "Patch | Mad Sushi",
+    "description": "<i>Roll the enemy!</i>",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_mad_sushi_large.f6129615a53ed497ef1a3ad1d5c8d6bd1f7f6354.png",
+    "price": {
+      "7_days": {
+        "average": 2.39,
+        "median": 2.41,
+        "sold": "7",
+        "standard_deviation": "2.21",
+        "lowest_price": 2.31,
+        "highest_price": 2.48
+      },
+      "30_days": {
+        "average": 2.6,
+        "median": 2.53,
+        "sold": "197",
+        "standard_deviation": "14.63",
+        "lowest_price": 1,
+        "highest_price": 3.27
+      },
+      "all_time": {
+        "average": 0.34,
+        "median": 0.61,
+        "sold": "42348",
+        "standard_deviation": "306.25",
+        "lowest_price": 0.07,
+        "highest_price": 4.58
+      }
+    }
+  },
+  {
+    "id": "patch-4942",
+    "name": "Patch | Giant Squid",
+    "description": "<i>Draws its prey into the depths...</i>",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_pink_squid_large.22fe91d13b26950311fdbbe82177f70bc18291ec.png",
+    "price": {
+      "7_days": {
+        "average": 2.03,
+        "median": 2.31,
+        "sold": "10",
+        "standard_deviation": "21.88",
+        "lowest_price": 1.26,
+        "highest_price": 2.35
+      },
+      "30_days": {
+        "average": 2.41,
+        "median": 2.42,
+        "sold": "251",
+        "standard_deviation": "14.47",
+        "lowest_price": 0.75,
+        "highest_price": 2.71
+      },
+      "all_time": {
+        "average": 0.35,
+        "median": 0.57,
+        "sold": "44375",
+        "standard_deviation": "251.52",
+        "lowest_price": 0.08,
+        "highest_price": 3.62
+      }
+    }
+  },
+  {
+    "id": "patch-4943",
+    "name": "Patch | El Pirata",
+    "description": "<i>Small bites; team effort...</i>",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_piranha_large.70f1ade5c948d9ac7f9ae14749b6904c4fd69e54.png",
+    "price": {
+      "30_days": {
+        "average": 2.21,
+        "median": 2.31,
+        "sold": "166",
+        "standard_deviation": "14.83",
+        "lowest_price": 0.88,
+        "highest_price": 2.46
+      },
+      "all_time": {
+        "average": 0.33,
+        "median": 0.68,
+        "sold": "39754",
+        "standard_deviation": "241.94",
+        "lowest_price": 0.08,
+        "highest_price": 2.78
+      }
+    }
+  },
+  {
+    "id": "patch-4944",
+    "name": "Patch | Death From Below",
+    "description": "<i>Look out above...</i>",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_siren_large.a165156185914a185fcd197460537339f9993303.png",
+    "price": {
+      "7_days": {
+        "average": 10.55,
+        "median": 10.79,
+        "sold": "9",
+        "standard_deviation": "5.32",
+        "lowest_price": 9.49,
+        "highest_price": 11.04
+      },
+      "30_days": {
+        "average": 10.8,
+        "median": 10.91,
+        "sold": "67",
+        "standard_deviation": "8.91",
+        "lowest_price": 6.56,
+        "highest_price": 12.55
+      },
+      "all_time": {
+        "average": 1.11,
+        "median": 1.94,
+        "sold": "14093",
+        "standard_deviation": "320.95",
+        "lowest_price": 0.2,
+        "highest_price": 13.66
+      }
+    }
+  },
+  {
+    "id": "patch-4945",
+    "name": "Patch | Dead Men",
+    "description": "<i>Universal sigil of danger...</i>",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_skull_crossswords_large.c681792eed260dd56ff93c0a861c5c4f18d55c0e.png",
+    "price": {
+      "7_days": {
+        "average": 66.83,
+        "median": 65.85,
+        "sold": "10",
+        "standard_deviation": "4.24",
+        "lowest_price": 64.78,
+        "highest_price": 74.39
+      },
+      "30_days": {
+        "average": 78.19,
+        "median": 75.17,
+        "sold": "61",
+        "standard_deviation": "11.04",
+        "lowest_price": 64.78,
+        "highest_price": 97.67
+      },
+      "all_time": {
+        "average": 4.56,
+        "median": 10.66,
+        "sold": "15974",
+        "standard_deviation": "486.54",
+        "lowest_price": 0.94,
+        "highest_price": 98.61
+      }
+    }
+  },
+  {
+    "id": "patch-4946",
+    "name": "Patch | Sunset Wave",
+    "description": "<i>A new day on the ocean...</i>",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_sunset_wave_large.8b26780cf440601c0618e13875412a6b376d0d6c.png",
+    "price": {
+      "7_days": {
+        "average": 15.54,
+        "median": 15.43,
+        "sold": "4",
+        "standard_deviation": "2.65",
+        "lowest_price": 15.17,
+        "highest_price": 16.14
+      },
+      "30_days": {
+        "average": 18.49,
+        "median": 19.31,
+        "sold": "41",
+        "standard_deviation": "8.41",
+        "lowest_price": 15.17,
+        "highest_price": 20.89
+      },
+      "all_time": {
+        "average": 2.03,
+        "median": 2.98,
+        "sold": "15267",
+        "standard_deviation": "271.35",
+        "lowest_price": 0.47,
+        "highest_price": 20.89
+      }
+    }
+  },
+  {
+    "id": "patch-4947",
+    "name": "Patch | Aquatic Offensive",
+    "description": "<i>Fish on the Go</i>",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_fish_go_large.8566c56f42038f76b3ef92543d40867871f752ea.png",
+    "price": {
+      "7_days": {
+        "average": 40.4,
+        "median": 40.4,
+        "sold": "1",
+        "standard_deviation": "0",
+        "lowest_price": 40.4,
+        "highest_price": 40.4
+      },
+      "30_days": {
+        "average": 46.85,
+        "median": 47.74,
+        "sold": "16",
+        "standard_deviation": "7.27",
+        "lowest_price": 40.4,
+        "highest_price": 50.23
+      },
+      "all_time": {
+        "average": 3.92,
+        "median": 3.95,
+        "sold": "5019",
+        "standard_deviation": "291.37",
+        "lowest_price": 0.68,
+        "highest_price": 50.25
+      }
+    }
+  },
+  {
+    "id": "patch-4948",
+    "name": "Patch | Elder God",
+    "description": "<i>Cthulhu approves those who defuse...</i>",
+    "rarity": {
+      "id": "rarity_legendary",
+      "name": "Exotic"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_cthulhu_large.b3885a847dbcf13d2eccf1953467553fbcac2609.png",
+    "price": {
+      "7_days": {
+        "average": 50.34,
+        "median": 50.34,
+        "sold": "1",
+        "standard_deviation": "0",
+        "lowest_price": 50.34,
+        "highest_price": 50.34
+      },
+      "30_days": {
+        "average": 55.04,
+        "median": 57.23,
+        "sold": "22",
+        "standard_deviation": "8.46",
+        "lowest_price": 49.22,
+        "highest_price": 62.11
+      },
+      "all_time": {
+        "average": 5.01,
+        "median": 4.98,
+        "sold": "4722",
+        "standard_deviation": "367.72",
+        "lowest_price": 0.83,
+        "highest_price": 78.43
+      }
+    }
+  },
+  {
+    "id": "patch-4949",
+    "name": "Patch | Meal Time",
+    "description": "<i>Hungry for victory...</i>",
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_meal_time_large.0b7a3f90ccf1b44477a45af28d5c4b0d6a3b92e9.png",
+    "price": {
+      "7_days": {
+        "average": 11.94,
+        "median": 11.94,
+        "sold": "1",
+        "standard_deviation": "0",
+        "lowest_price": 11.94,
+        "highest_price": 11.94
+      },
+      "30_days": {
+        "average": 11.86,
+        "median": 12.06,
+        "sold": "56",
+        "standard_deviation": "8.83",
+        "lowest_price": 6.07,
+        "highest_price": 13.06
+      },
+      "all_time": {
+        "average": 1.21,
+        "median": 2.67,
+        "sold": "12355",
+        "standard_deviation": "288.6",
+        "lowest_price": 0.3,
+        "highest_price": 13.49
+      }
+    }
+  },
+  {
+    "id": "patch-5079",
+    "name": "Patch | Ninjas in Pyjamas | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_nip_large.0e3bf9d3c7cab8fb86233992b6f4a569071b9992.png",
+    "price": {
+      "7_days": {
+        "average": 9.21,
+        "median": 9.18,
+        "sold": "6",
+        "standard_deviation": "1.49",
+        "lowest_price": 9.02,
+        "highest_price": 9.38
+      },
+      "30_days": {
+        "average": 9.18,
+        "median": 9.08,
+        "sold": "57",
+        "standard_deviation": "6.57",
+        "lowest_price": 8.63,
+        "highest_price": 11.29
+      },
+      "all_time": {
+        "average": 3.13,
+        "median": 3.08,
+        "sold": "9136",
+        "standard_deviation": "126.01",
+        "lowest_price": 0.52,
+        "highest_price": 24.66
+      }
+    }
+  },
+  {
+    "id": "patch-5080",
+    "name": "Patch | Ninjas in Pyjamas (Gold) | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_nip_gold_large.04da42e2efe6c2d205c8e93701f39f66189a4fb4.png"
+  },
+  {
+    "id": "patch-5081",
+    "name": "Patch | FURIA | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_furi_large.e28c916c72d0729bf5a1af3ae1d18cbf1bfb9d92.png",
+    "price": {
+      "7_days": {
+        "average": 12.58,
+        "median": 11.8,
+        "sold": "3",
+        "standard_deviation": "9",
+        "lowest_price": 11.75,
+        "highest_price": 14.18
+      },
+      "30_days": {
+        "average": 13.95,
+        "median": 13.68,
+        "sold": "45",
+        "standard_deviation": "9.25",
+        "lowest_price": 11.27,
+        "highest_price": 15.94
+      },
+      "all_time": {
+        "average": 3.28,
+        "median": 4.12,
+        "sold": "8871",
+        "standard_deviation": "155.16",
+        "lowest_price": 0.9,
+        "highest_price": 21.16
+      }
+    }
+  },
+  {
+    "id": "patch-5082",
+    "name": "Patch | FURIA (Gold) | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_furi_gold_large.ecf8f79e00437220bb55b2cf050f25627d2b2762.png"
+  },
+  {
+    "id": "patch-5083",
+    "name": "Patch | Natus Vincere | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_navi_large.4468eb72f310c700d752caafc605b9c963c4d2d7.png",
+    "price": {
+      "7_days": {
+        "average": 13.73,
+        "median": 14.41,
+        "sold": "5",
+        "standard_deviation": "8.24",
+        "lowest_price": 12.32,
+        "highest_price": 14.86
+      },
+      "30_days": {
+        "average": 14.79,
+        "median": 14.56,
+        "sold": "49",
+        "standard_deviation": "9.59",
+        "lowest_price": 11.05,
+        "highest_price": 17.45
+      },
+      "all_time": {
+        "average": 6.71,
+        "median": 9,
+        "sold": "8706",
+        "standard_deviation": "83.28",
+        "lowest_price": 3.08,
+        "highest_price": 28.95
+      }
+    }
+  },
+  {
+    "id": "patch-5084",
+    "name": "Patch | Natus Vincere (Gold) | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_navi_gold_large.a9b824310d1bd558181f16f4c38647734c4c7425.png"
+  },
+  {
+    "id": "patch-5085",
+    "name": "Patch | Vitality | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_vita_large.d209414f14d36dee94b6cc48279b37744a819d8c.png",
+    "price": {
+      "7_days": {
+        "average": 10.01,
+        "median": 9.85,
+        "sold": "7",
+        "standard_deviation": "3.91",
+        "lowest_price": 9.52,
+        "highest_price": 10.64
+      },
+      "30_days": {
+        "average": 10.56,
+        "median": 10.37,
+        "sold": "33",
+        "standard_deviation": "6.51",
+        "lowest_price": 9.52,
+        "highest_price": 11.69
+      },
+      "all_time": {
+        "average": 2.28,
+        "median": 2.64,
+        "sold": "8176",
+        "standard_deviation": "211.11",
+        "lowest_price": 0.5,
+        "highest_price": 19.03
+      }
+    }
+  },
+  {
+    "id": "patch-5086",
+    "name": "Patch | Vitality (Gold) | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_vita_gold_large.1855e820e179f045727fac622fd1c93ea7a8bf48.png"
+  },
+  {
+    "id": "patch-5087",
+    "name": "Patch | Team Liquid | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_liq_large.668048a3b59f47cb317c345767529a0884ef3877.png",
+    "price": {
+      "30_days": {
+        "average": 11.07,
+        "median": 10.97,
+        "sold": "50",
+        "standard_deviation": "12.72",
+        "lowest_price": 4.56,
+        "highest_price": 12.81
+      },
+      "all_time": {
+        "average": 2.57,
+        "median": 3,
+        "sold": "8287",
+        "standard_deviation": "167.9",
+        "lowest_price": 0.57,
+        "highest_price": 17.98
+      }
+    }
+  },
+  {
+    "id": "patch-5088",
+    "name": "Patch | Team Liquid (Gold) | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_liq_gold_large.4a2f92b4313bcf98255133b213c8b94913e2d1b2.png"
+  },
+  {
+    "id": "patch-5089",
+    "name": "Patch | Gambit Gaming | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_gamb_large.059001ec25d4f6e742240ac74eb3d85e86bfb44e.png",
+    "price": {
+      "7_days": {
+        "average": 5.47,
+        "median": 5.26,
+        "sold": "4",
+        "standard_deviation": "6",
+        "lowest_price": 5.01,
+        "highest_price": 5.81
+      },
+      "30_days": {
+        "average": 5.96,
+        "median": 5.84,
+        "sold": "67",
+        "standard_deviation": "11.55",
+        "lowest_price": 4.26,
+        "highest_price": 7.23
+      },
+      "all_time": {
+        "average": 2.09,
+        "median": 2.91,
+        "sold": "9418",
+        "standard_deviation": "127.27",
+        "lowest_price": 0.48,
+        "highest_price": 11.53
+      }
+    }
+  },
+  {
+    "id": "patch-5090",
+    "name": "Patch | Gambit Gaming (Gold) | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_gamb_gold_large.bbf54c2eec4a0af803118696338652e9b868be59.png"
+  },
+  {
+    "id": "patch-5091",
+    "name": "Patch | G2 Esports | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_g2_large.e414642dbe26ac23e38c090cde925a9e7ce70ec3.png",
+    "price": {
+      "7_days": {
+        "average": 14.85,
+        "median": 14.85,
+        "sold": "2",
+        "standard_deviation": "3.85",
+        "lowest_price": 14.28,
+        "highest_price": 15.42
+      },
+      "30_days": {
+        "average": 15.7,
+        "median": 15.67,
+        "sold": "18",
+        "standard_deviation": "5.93",
+        "lowest_price": 14.18,
+        "highest_price": 17.41
+      },
+      "all_time": {
+        "average": 3.91,
+        "median": 5.46,
+        "sold": "7908",
+        "standard_deviation": "180",
+        "lowest_price": 0.76,
+        "highest_price": 31.44
+      }
+    }
+  },
+  {
+    "id": "patch-5092",
+    "name": "Patch | G2 Esports (Gold) | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_g2_gold_large.4e74163d314b53929f98091c819afab1eb5b5ece.png"
+  },
+  {
+    "id": "patch-5093",
+    "name": "Patch | Evil Geniuses | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_evl_large.bde93269322473339f21ce4f51ad9a90d3b0c8c8.png",
+    "price": {
+      "7_days": {
+        "average": 4.83,
+        "median": 4.83,
+        "sold": "2",
+        "standard_deviation": "0.44",
+        "lowest_price": 4.82,
+        "highest_price": 4.86
+      },
+      "30_days": {
+        "average": 4.93,
+        "median": 5.01,
+        "sold": "37",
+        "standard_deviation": "9.44",
+        "lowest_price": 4.01,
+        "highest_price": 5.83
+      },
+      "all_time": {
+        "average": 1.31,
+        "median": 1.49,
+        "sold": "9606",
+        "standard_deviation": "162.1",
+        "lowest_price": 0.29,
+        "highest_price": 8.31
+      }
+    }
+  },
+  {
+    "id": "patch-5094",
+    "name": "Patch | Evil Geniuses (Gold) | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_evl_gold_large.68aca69abf2c151fd44c15fcfd10eeab4bccee3f.png"
+  },
+  {
+    "id": "patch-5095",
+    "name": "Patch | Team Spirit | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_spir_large.889c3c64defd525077ac9b7d82df2d59abbb5302.png",
+    "price": {
+      "30_days": {
+        "average": 17.59,
+        "median": 17.55,
+        "sold": "6",
+        "standard_deviation": "3.01",
+        "lowest_price": 16.87,
+        "highest_price": 18.5
+      },
+      "all_time": {
+        "average": 5.05,
+        "median": 6.07,
+        "sold": "2730",
+        "standard_deviation": "144.44",
+        "lowest_price": 0.98,
+        "highest_price": 36.38
+      }
+    }
+  },
+  {
+    "id": "patch-5096",
+    "name": "Patch | Team Spirit (Gold) | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_spir_gold_large.9daadf6ceff3516b69b4e0afbe568c1541f807f7.png"
+  },
+  {
+    "id": "patch-5097",
+    "name": "Patch | Astralis | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_astr_large.a09102f73e594af31bdfac441bb236cadf0bd2ac.png",
+    "price": {
+      "30_days": {
+        "average": 25.08,
+        "median": 26.04,
+        "sold": "9",
+        "standard_deviation": "8.18",
+        "lowest_price": 21.22,
+        "highest_price": 26.82
+      },
+      "all_time": {
+        "average": 7.74,
+        "median": 6.46,
+        "sold": "2523",
+        "standard_deviation": "123.09",
+        "lowest_price": 1.77,
+        "highest_price": 43.52
+      }
+    }
+  },
+  {
+    "id": "patch-5098",
+    "name": "Patch | Astralis (Gold) | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_astr_gold_large.57de60b1754f80c345ddd0d2aa5a97085ef70f8e.png"
+  },
+  {
+    "id": "patch-5099",
+    "name": "Patch | paiN Gaming | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_pain_large.4558b6024c07da001a4f98f6a593bff476cc89fa.png",
+    "price": {
+      "7_days": {
+        "average": 15.04,
+        "median": 15.2,
+        "sold": "10",
+        "standard_deviation": "4.22",
+        "lowest_price": 13.83,
+        "highest_price": 15.76
+      },
+      "30_days": {
+        "average": 15.49,
+        "median": 15.78,
+        "sold": "30",
+        "standard_deviation": "5.53",
+        "lowest_price": 13.7,
+        "highest_price": 16.81
+      },
+      "all_time": {
+        "average": 3.53,
+        "median": 2.94,
+        "sold": "2915",
+        "standard_deviation": "151.8",
+        "lowest_price": 0.56,
+        "highest_price": 23.26
+      }
+    }
+  },
+  {
+    "id": "patch-5100",
+    "name": "Patch | paiN Gaming (Gold) | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_pain_gold_large.afd06daba251d853200b9c1a084fee19d3650064.png"
+  },
+  {
+    "id": "patch-5101",
+    "name": "Patch | ENCE | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_ence_large.49f492715c622ff79a0306b043ed506dad2ad22c.png",
+    "price": {
+      "7_days": {
+        "average": 11.33,
+        "median": 11.33,
+        "sold": "1",
+        "standard_deviation": "0",
+        "lowest_price": 11.33,
+        "highest_price": 11.33
+      },
+      "30_days": {
+        "average": 13.06,
+        "median": 13.69,
+        "sold": "8",
+        "standard_deviation": "12.06",
+        "lowest_price": 10.72,
+        "highest_price": 14.7
+      },
+      "all_time": {
+        "average": 3.62,
+        "median": 4.26,
+        "sold": "2655",
+        "standard_deviation": "136.84",
+        "lowest_price": 0.9,
+        "highest_price": 23.35
+      }
+    }
+  },
+  {
+    "id": "patch-5102",
+    "name": "Patch | ENCE (Gold) | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_ence_gold_large.a2a46932fd15ee10d30fb3986e03e142d3a6cfe8.png"
+  },
+  {
+    "id": "patch-5103",
+    "name": "Patch | BIG | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_big_large.676e3ed949b6459faf7f218d2c38a919f01b80c1.png",
+    "price": {
+      "7_days": {
+        "average": 26.17,
+        "median": 26.17,
+        "sold": "1",
+        "standard_deviation": "0",
+        "lowest_price": 26.17,
+        "highest_price": 26.17
+      },
+      "30_days": {
+        "average": 27.07,
+        "median": 27.2,
+        "sold": "11",
+        "standard_deviation": "6.84",
+        "lowest_price": 23.3,
+        "highest_price": 29.03
+      },
+      "all_time": {
+        "average": 5.84,
+        "median": 5.49,
+        "sold": "2572",
+        "standard_deviation": "156.7",
+        "lowest_price": 1.57,
+        "highest_price": 38.54
+      }
+    }
+  },
+  {
+    "id": "patch-5104",
+    "name": "Patch | BIG (Gold) | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_big_gold_large.268aba173a788432da79cace2d90d59031387821.png"
+  },
+  {
+    "id": "patch-5105",
+    "name": "Patch | Movistar Riders | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_ride_large.fcd595293ab74af1a58a59a6f1e8ef5cc1e26985.png",
+    "price": {
+      "7_days": {
+        "average": 15.9,
+        "median": 15.84,
+        "sold": "6",
+        "standard_deviation": "0.93",
+        "lowest_price": 15.8,
+        "highest_price": 16.22
+      },
+      "30_days": {
+        "average": 15.86,
+        "median": 15.8,
+        "sold": "11",
+        "standard_deviation": "2.13",
+        "lowest_price": 15.01,
+        "highest_price": 16.31
+      },
+      "all_time": {
+        "average": 3.59,
+        "median": 2.76,
+        "sold": "2607",
+        "standard_deviation": "184.66",
+        "lowest_price": 0.63,
+        "highest_price": 26.73
+      }
+    }
+  },
+  {
+    "id": "patch-5106",
+    "name": "Patch | Movistar Riders (Gold) | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_ride_gold_large.13069849636e33c5103554f2d4d446ded843e893.png"
+  },
+  {
+    "id": "patch-5107",
+    "name": "Patch | Heroic | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_hero_large.2885f1815249ece4c23dc084ef6a89255a06e3be.png",
+    "price": {
+      "7_days": {
+        "average": 14.79,
+        "median": 14.65,
+        "sold": "3",
+        "standard_deviation": "2.79",
+        "lowest_price": 14.25,
+        "highest_price": 15.06
+      },
+      "30_days": {
+        "average": 16.17,
+        "median": 16.41,
+        "sold": "11",
+        "standard_deviation": "7.59",
+        "lowest_price": 14.25,
+        "highest_price": 18.04
+      },
+      "all_time": {
+        "average": 4.41,
+        "median": 3.29,
+        "sold": "2764",
+        "standard_deviation": "187.05",
+        "lowest_price": 0.59,
+        "highest_price": 44.49
+      }
+    }
+  },
+  {
+    "id": "patch-5108",
+    "name": "Patch | Heroic (Gold) | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_hero_gold_large.bbadb3c2a1dcb14b5faaf071a20e8a04e51a2d66.png"
+  },
+  {
+    "id": "patch-5109",
+    "name": "Patch | MOUZ | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_mouz_large.e8bb5c0508ae364670d086c3ae1be3982fe1edc0.png",
+    "price": {
+      "7_days": {
+        "average": 57.7,
+        "median": 57.7,
+        "sold": "2",
+        "standard_deviation": "0.84",
+        "lowest_price": 57.21,
+        "highest_price": 58.18
+      },
+      "30_days": {
+        "average": 63.96,
+        "median": 64.83,
+        "sold": "18",
+        "standard_deviation": "6.78",
+        "lowest_price": 57.21,
+        "highest_price": 70.46
+      },
+      "all_time": {
+        "average": 13.13,
+        "median": 11.78,
+        "sold": "3038",
+        "standard_deviation": "201.37",
+        "lowest_price": 0.93,
+        "highest_price": 113.03
+      }
+    }
+  },
+  {
+    "id": "patch-5110",
+    "name": "Patch | MOUZ (Gold) | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_mouz_gold_large.8c5c1106e79ab26c7e03d38dfdac2cebb51b5731.png"
+  },
+  {
+    "id": "patch-5111",
+    "name": "Patch | Sharks Esports | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_shrk_large.1cb725038d43ecd1be346c0272d6fc238b7468e3.png",
+    "price": {
+      "30_days": {
+        "average": 12.37,
+        "median": 11.48,
+        "sold": "6",
+        "standard_deviation": "11.04",
+        "lowest_price": 11.36,
+        "highest_price": 14.44
+      },
+      "all_time": {
+        "average": 2.63,
+        "median": 2.23,
+        "sold": "3634",
+        "standard_deviation": "183.94",
+        "lowest_price": 0.44,
+        "highest_price": 19.66
+      }
+    }
+  },
+  {
+    "id": "patch-5112",
+    "name": "Patch | Sharks Esports (Gold) | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_shrk_gold_large.bfa040414bbeaa1e56812903f23164ba21fc1420.png"
+  },
+  {
+    "id": "patch-5113",
+    "name": "Patch | Tyloo | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_tyl_large.82636dae0320b6712c3795081579c9a5506d943b.png",
+    "price": {
+      "30_days": {
+        "average": 51.66,
+        "median": 53.49,
+        "sold": "14",
+        "standard_deviation": "7.29",
+        "lowest_price": 46.99,
+        "highest_price": 56.32
+      },
+      "all_time": {
+        "average": 10.57,
+        "median": 9.1,
+        "sold": "3676",
+        "standard_deviation": "185.29",
+        "lowest_price": 3.01,
+        "highest_price": 78.86
+      }
+    }
+  },
+  {
+    "id": "patch-5114",
+    "name": "Patch | Tyloo (Gold) | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_tyl_gold_large.d20bed8028f0737d06fb38cd8b745cfd222d3147.png"
+  },
+  {
+    "id": "patch-5115",
+    "name": "Patch | Renegades | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_ren_large.5652c2e4c96531a39c873f9a110deea05f476b0b.png",
+    "price": {
+      "7_days": {
+        "average": 7.37,
+        "median": 7.63,
+        "sold": "4",
+        "standard_deviation": "6.31",
+        "lowest_price": 6.57,
+        "highest_price": 7.67
+      },
+      "30_days": {
+        "average": 8.44,
+        "median": 8.12,
+        "sold": "15",
+        "standard_deviation": "11.65",
+        "lowest_price": 6.57,
+        "highest_price": 10.38
+      },
+      "all_time": {
+        "average": 1.94,
+        "median": 1.77,
+        "sold": "4239",
+        "standard_deviation": "180.87",
+        "lowest_price": 0.36,
+        "highest_price": 15.32
+      }
+    }
+  },
+  {
+    "id": "patch-5116",
+    "name": "Patch | Renegades (Gold) | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_ren_gold_large.d5312239d11d95395fffbd1e6062d737c588a122.png"
+  },
+  {
+    "id": "patch-5117",
+    "name": "Patch | Entropiq | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_ent_large.ec0145cee0116f689c7686f16078684be25db511.png",
+    "price": {
+      "7_days": {
+        "average": 8.83,
+        "median": 8.83,
+        "sold": "2",
+        "standard_deviation": "0.12",
+        "lowest_price": 8.82,
+        "highest_price": 8.85
+      },
+      "30_days": {
+        "average": 9.72,
+        "median": 9.39,
+        "sold": "23",
+        "standard_deviation": "5.88",
+        "lowest_price": 8.82,
+        "highest_price": 10.49
+      },
+      "all_time": {
+        "average": 2.68,
+        "median": 2.33,
+        "sold": "4522",
+        "standard_deviation": "162.06",
+        "lowest_price": 0.52,
+        "highest_price": 23.1
+      }
+    }
+  },
+  {
+    "id": "patch-5118",
+    "name": "Patch | Entropiq (Gold) | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_ent_gold_large.fae6e34b138f7f340fca5c860a584dbdeabd0094.png"
+  },
+  {
+    "id": "patch-5119",
+    "name": "Patch | GODSENT | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_god_large.2f147dbda5a8c55c94848dc331de8a4a1c29596d.png",
+    "price": {
+      "7_days": {
+        "average": 10.22,
+        "median": 10.22,
+        "sold": "2",
+        "standard_deviation": "4.76",
+        "lowest_price": 9.74,
+        "highest_price": 10.71
+      },
+      "30_days": {
+        "average": 11.95,
+        "median": 12.3,
+        "sold": "17",
+        "standard_deviation": "9.12",
+        "lowest_price": 9.74,
+        "highest_price": 13.5
+      },
+      "all_time": {
+        "average": 3.26,
+        "median": 2.8,
+        "sold": "4450",
+        "standard_deviation": "128.25",
+        "lowest_price": 0.65,
+        "highest_price": 19.21
+      }
+    }
+  },
+  {
+    "id": "patch-5120",
+    "name": "Patch | GODSENT (Gold) | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_god_gold_large.0951ddb0682868a82d1149aba9bbe9f000cf69e2.png"
+  },
+  {
+    "id": "patch-5121",
+    "name": "Patch | Virtus.Pro | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_vp_large.4b675f9df4c4611eea9a5f07a6d6a30a0f9f5622.png",
+    "price": {
+      "7_days": {
+        "average": 13.67,
+        "median": 13.67,
+        "sold": "1",
+        "standard_deviation": "0",
+        "lowest_price": 13.67,
+        "highest_price": 13.67
+      },
+      "30_days": {
+        "average": 14.43,
+        "median": 14.63,
+        "sold": "20",
+        "standard_deviation": "5.94",
+        "lowest_price": 13.34,
+        "highest_price": 15.94
+      },
+      "all_time": {
+        "average": 4.14,
+        "median": 4.63,
+        "sold": "4255",
+        "standard_deviation": "157.8",
+        "lowest_price": 0.73,
+        "highest_price": 30.9
+      }
+    }
+  },
+  {
+    "id": "patch-5122",
+    "name": "Patch | Virtus.Pro (Gold) | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_vp_gold_large.de07882b996c984a1ef2348cf735bf3be4340c4b.png"
+  },
+  {
+    "id": "patch-5123",
+    "name": "Patch | Copenhagen Flames | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_cope_large.ac8a764ce120a2f61223c7c698441058af5c25f0.png",
+    "price": {
+      "30_days": {
+        "average": 18.05,
+        "median": 18.1,
+        "sold": "27",
+        "standard_deviation": "7.91",
+        "lowest_price": 15.94,
+        "highest_price": 21.19
+      },
+      "all_time": {
+        "average": 4.89,
+        "median": 3.28,
+        "sold": "3919",
+        "standard_deviation": "143.51",
+        "lowest_price": 0.74,
+        "highest_price": 33.74
+      }
+    }
+  },
+  {
+    "id": "patch-5124",
+    "name": "Patch | Copenhagen Flames (Gold) | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_cope_gold_large.1462aaf235bf8e7618fed930f34bc19946aad531.png"
+  },
+  {
+    "id": "patch-5125",
+    "name": "Patch | FaZe Clan | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_faze_large.51489dee7a41ff28a879c4763b0dca9b4fa4a175.png",
+    "price": {
+      "7_days": {
+        "average": 38.36,
+        "median": 38.36,
+        "sold": "2",
+        "standard_deviation": "1.35",
+        "lowest_price": 37.84,
+        "highest_price": 38.89
+      },
+      "30_days": {
+        "average": 34.32,
+        "median": 35.07,
+        "sold": "24",
+        "standard_deviation": "7.64",
+        "lowest_price": 30.52,
+        "highest_price": 38.89
+      },
+      "all_time": {
+        "average": 6.65,
+        "median": 10.79,
+        "sold": "3481",
+        "standard_deviation": "172.97",
+        "lowest_price": 1.32,
+        "highest_price": 49.32
+      }
+    }
+  },
+  {
+    "id": "patch-5126",
+    "name": "Patch | FaZe Clan (Gold) | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_faze_gold_large.51f7fe3b5085c1c4a6b89d03621b386f21cab596.png"
+  },
+  {
+    "id": "patch-5127",
+    "name": "Patch | PGL | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "High Grade"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_pgl_large.7e4744a2c76a90b8b37fa6e56d73b774ba7d7b8a.png",
+    "price": {
+      "7_days": {
+        "average": 2.97,
+        "median": 3.07,
+        "sold": "6",
+        "standard_deviation": "6.05",
+        "lowest_price": 2.73,
+        "highest_price": 3.15
+      },
+      "30_days": {
+        "average": 3.28,
+        "median": 3.34,
+        "sold": "84",
+        "standard_deviation": "18.71",
+        "lowest_price": 0.88,
+        "highest_price": 4.13
+      },
+      "all_time": {
+        "average": 1.21,
+        "median": 1.61,
+        "sold": "14467",
+        "standard_deviation": "124.56",
+        "lowest_price": 0.34,
+        "highest_price": 6.92
+      }
+    }
+  },
+  {
+    "id": "patch-5128",
+    "name": "Patch | PGL (Gold) | Stockholm 2021",
+    "description": null,
+    "rarity": {
+      "id": "rarity_mythical",
+      "name": "Remarkable"
+    },
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_pgl_gold_large.0fb61a3c821fd66b26ffad39fde459ac1658c070.png"
+  }
+]

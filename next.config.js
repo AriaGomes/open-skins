@@ -3,7 +3,8 @@ const nextConfig = {
     images: {
         domains: [
             'raw.githubusercontent.com',
-            'steamcdn-a.akamaihd.net'
+            'steamcdn-a.akamaihd.net',
+            'community.cloudflare.steamstatic.com'
         ],
     },
 }

@@ -168,8 +168,8 @@ const HeaderValues = [
     url: "/patches",
   },
   {
-    name: "Graffiti",
-    url: "/graffiti",
+    name: "Graffitis",
+    url: "/graffitis",
   },
   {
     name: "Music Kits",

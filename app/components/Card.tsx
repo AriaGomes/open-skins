@@ -27,7 +27,7 @@ export const Card = ({
   price,
 }: CardProps) => {
   return (
-    <div className="h-[350px] w-[300px] bg-base-100 shadow-xl bg-slate-100">
+    <div className="h-[350px] px-10 bg-base-100 shadow-xl bg-slate-100">
       <figure>
         <Image src={image} alt={name || ""} width={300} height={200} />
       </figure>
@@ -37,11 +37,13 @@ export const Card = ({
           <div className="badge badge-secondary">{rarity?.name}</div>
         </h2>
         <p>
-          {max_float && min_float && (
+          {max_float && min_float ? (
             //Change to a number range component
             <>
               Float Range: {min_float} - {max_float}{" "}
             </>
+          ) : (
+            <>Float Range: 0 - 1 </>
           )}
         </p>
         <div className="card-actions justify-end">

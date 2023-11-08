@@ -20,21 +20,23 @@ export default function Crates() {
   //TODO: Add a filter component to filter cases by type like musicbox, souviner package, etc.
   return (
     <div className="bg-gray-100 h-full overflow-scroll">
-      {loading ? (
-        <Loading />
-      ) : (
-        <Grid>
-          {cases.map((cases: any) => (
-            <Link href={`/crates/${cases.id}`} key={cases.id}>
-              <Card
-                name={cases.name}
-                image={cases.image}
-                price={cases.price?.["7_days"]?.median}
-              />
-            </Link>
-          ))}
-        </Grid>
-      )}
+      <div className="flex justify-center items-center w-full">
+        {loading ? (
+          <Loading />
+        ) : (
+          <Grid>
+            {cases.map((cases: any) => (
+              <Link href={`/crates/${cases.id}`} key={cases.id}>
+                <Card
+                  name={cases.name}
+                  image={cases.image}
+                  price={cases.price?.["7_days"]?.median}
+                />
+              </Link>
+            ))}
+          </Grid>
+        )}
+      </div>
     </div>
   );
 }
