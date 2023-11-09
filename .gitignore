@@ -35,5 +35,5 @@ yarn-error.log*
 next-env.d.ts
 
 # csgo skin data
-/app/api/skins/data/*
+#/app/api/skins/data/*
 
