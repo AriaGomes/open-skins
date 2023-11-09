@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import { Card } from "../components";
 import Link from "next/link";
 import { Grid } from "../components/Grid";
-import graffitiData from "../api/graffitis/data/graffiti.json";
+import graffitiData from "../api/graffitis/data/graffitis.json";
 import Loading from "../loading";
 
 export default function Crates() {

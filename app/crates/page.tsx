@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import { Card } from "../components";
 import Link from "next/link";
 import { Grid } from "../components/Grid";
-import casesData from "../api/crates/data/cases.json";
+import cratesData from "../api/crates/data/crates.json";
 import Loading from "../loading";
 
 export default function Crates() {
@@ -11,7 +11,7 @@ export default function Crates() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    setCases(casesData as any[]);
+    setCases(cratesData as any[]);
     setLoading(false);
   }, []);
 

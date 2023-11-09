@@ -117,7 +117,7 @@ export async function GET(_request: Request) {
   );
 
   fs.writeFileSync(
-    "app/api/graffiti/data/graffiti.json",
+    "app/api/graffitis/data/graffitis.json",
     JSON.stringify(merged, null, 2)
   );
 

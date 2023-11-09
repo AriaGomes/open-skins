@@ -115,7 +115,7 @@ export async function GET(_request: Request) {
   );
 
   fs.writeFileSync(
-    "app/api/cases/data/cases.json",
+    "app/api/crates/data/crates.json",
     JSON.stringify(merged, null, 2)
   );
 
