@@ -9,7 +9,7 @@ async function handler(req: any, ctx: { params: { nextauth: string[] } }) {
       SteamProvider(req, {
         // @ts-ignore
         clientSecret: process.env.STEAM_WEBAPI_KEY!,
-        callbackUrl: process.env.URL + "/api/auth/callback",
+        callbackUrl: "http://" + process.env.URL + "/api/auth/callback",
       }),
     ],
   });
