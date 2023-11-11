@@ -4,6 +4,8 @@ const nextConfig = {
         'raw.githubusercontent.com',
         'steamcdn-a.akamaihd.net',
         'community.cloudflare.steamstatic.com',
+        'avatars.steamstatic.com',
+        'cdn.cloudflare.steamstatic.com',
       ],
     },
     webpack: (config, { isServer }) => {

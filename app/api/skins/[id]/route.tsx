@@ -49,13 +49,15 @@ interface ItemListResponse {
   items_list: Record<string, csgobackpackItem>;
 }
 
+//TODO: Also add a way to search json files for the item name
+
 export async function GET(request: NextRequest, context: { params: any }) {
   const { id } = context.params;
   const data: any = await fetch(
     `https://cs2-api.vercel.app/api/items?id=${id}`
   ).then((response) => response.json());
 
-  //TODO: fetch each wear and merge data
+  //TODO: fetch each wear and merge data, only gets battle scarred for now
   const data2 = await fetch(
     `http://csgobackpack.net/api/GetItemPrice/?currency=USD&id=${data.name} (Battle-Scarred)&time=7&icon=1`
   )

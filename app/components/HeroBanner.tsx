@@ -1,4 +1,8 @@
+import { stat } from "fs";
+import { useSession } from "next-auth/react";
+
 export const HeroBanner = () => {
+  const { data: session, status } = useSession();
   return (
     <section
       className={`relative bg-[url('/assets/nuke.webp')] bg-cover bg-center bg-no-repeat h-full`}
@@ -12,9 +16,15 @@ export const HeroBanner = () => {
             <strong className="block font-extrabold text-primary">Skins</strong>
           </h1>
 
-          <p className="mt-4 max-w-lg sm:text-xl/relaxed">
-            More than just a CS2 Stash clone!
-          </p>
+          {status === "loading" ? (
+            <p className="mt-4 max-w-lg sm:text-xl/relaxed"> Loading...</p>
+          ) : (
+            <p className="mt-4 max-w-lg sm:text-xl/relaxed">
+              {session
+                ? `Welcome Back, ${session?.user?.name}`
+                : "More than just a CS2 Stash clone!"}
+            </p>
+          )}
 
           <div className="mt-8 flex flex-wrap gap-4 text-center">
             <a
@@ -25,7 +35,7 @@ export const HeroBanner = () => {
             </a>
 
             <a
-              href="#"
+              href="https://github.com/AriaGomes/open-skins"
               className="block w-full rounded bg-white px-12 py-3 text-sm font-medium text-primary shadow hover:text-secondary focus:outline-none focus:ring active:text-gray-400 sm:w-auto"
             >
               Learn More

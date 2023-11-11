@@ -4,7 +4,7 @@ import currencyReducer from "./redux/currencySlice";
 import languageReducer from "./redux/languageSlice";
 import sidebarReducer from "./redux/sidebarSlice";
 
-const store = configureStore({
+export const store = configureStore({
   reducer: {
     theme: themeReducer,
     currency: currencyReducer,
