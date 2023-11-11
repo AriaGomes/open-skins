@@ -4,7 +4,7 @@ import NextAuth from "next-auth/next";
 import type { NextRequest } from "next/server";
 
 async function handler(
-  req: NextRequest,
+  req: NextRequest & { query: { nextauth: string[] } },
   ctx: { params: { nextauth: string[] } }
 ) {
   return NextAuth(req, ctx, {

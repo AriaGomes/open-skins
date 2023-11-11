@@ -10,28 +10,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_banana_large.1884779d23d1d51ea190fbd24b9fb5a73a67ae9b.png",
     "price": {
       "7_days": {
-        "average": 1.75,
-        "median": 1.8,
-        "sold": "35",
-        "standard_deviation": "6.06",
-        "lowest_price": 1.47,
-        "highest_price": 1.88
+        "average": 1.77,
+        "median": 1.79,
+        "sold": "180",
+        "standard_deviation": "6.59",
+        "lowest_price": 1.27,
+        "highest_price": 1.85
       },
       "30_days": {
-        "average": 1.82,
-        "median": 1.84,
-        "sold": "882",
-        "standard_deviation": "9.3",
-        "lowest_price": 0.75,
-        "highest_price": 2.01
+        "average": 1.78,
+        "median": 1.8,
+        "sold": "983",
+        "standard_deviation": "8.33",
+        "lowest_price": 0.88,
+        "highest_price": 1.96
       },
       "all_time": {
-        "average": 1.81,
-        "median": 1.89,
-        "sold": "36965",
-        "standard_deviation": "28.65",
-        "lowest_price": 0.75,
-        "highest_price": 4.54
+        "average": 1.78,
+        "median": 1.84,
+        "sold": "37195",
+        "standard_deviation": "28.57",
+        "lowest_price": 0.88,
+        "highest_price": 4.46
       }
     }
   },
@@ -46,28 +46,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_boss_large.6ce60d2d911d6cb53d809a17aeb64030915e1177.png",
     "price": {
       "7_days": {
-        "average": 27.02,
-        "median": 26.7,
-        "sold": "15",
-        "standard_deviation": "3.37",
-        "lowest_price": 25.57,
-        "highest_price": 28.13
+        "average": 26.66,
+        "median": 26.54,
+        "sold": "70",
+        "standard_deviation": "5.32",
+        "lowest_price": 19.98,
+        "highest_price": 28.65
       },
       "30_days": {
-        "average": 30.46,
-        "median": 31.1,
-        "sold": "295",
-        "standard_deviation": "9.31",
-        "lowest_price": 23.1,
-        "highest_price": 35.07
+        "average": 28.86,
+        "median": 28.22,
+        "sold": "339",
+        "standard_deviation": "9.9",
+        "lowest_price": 19.98,
+        "highest_price": 34.5
       },
       "all_time": {
-        "average": 26.35,
-        "median": 28.63,
-        "sold": "16231",
-        "standard_deviation": "30.67",
-        "lowest_price": 10.63,
-        "highest_price": 59.63
+        "average": 25.93,
+        "median": 27.45,
+        "sold": "16320",
+        "standard_deviation": "30.4",
+        "lowest_price": 10.46,
+        "highest_price": 58.66
       }
     }
   },
@@ -81,19 +81,11 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_chickenlover_large.4bdead6008a0f22d1c270edc45ba60894e97b322.png",
     "price": {
-      "7_days": {
-        "average": 1.79,
-        "median": 1.81,
-        "sold": "34",
-        "standard_deviation": "3.55",
-        "lowest_price": 1.67,
-        "highest_price": 1.85
-      },
       "30_days": {
-        "average": 1.72,
+        "average": 1.73,
         "median": 1.76,
-        "sold": "896",
-        "standard_deviation": "9.2",
+        "sold": "740",
+        "standard_deviation": "7.93",
         "lowest_price": 0.76,
         "highest_price": 1.93
       },
@@ -117,29 +109,37 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_clutch_large.92abf882c5b0532ed02a28105850a5bfae37e06d.png",
     "price": {
+      "24_hours": {
+        "average": 1.75,
+        "median": 1.77,
+        "sold": "10",
+        "standard_deviation": "3.03",
+        "lowest_price": 1.65,
+        "highest_price": 1.77
+      },
       "7_days": {
-        "average": 1.78,
-        "median": 1.79,
-        "sold": "49",
-        "standard_deviation": "5.95",
-        "lowest_price": 1.41,
-        "highest_price": 1.88
+        "average": 1.72,
+        "median": 1.77,
+        "sold": "172",
+        "standard_deviation": "7.36",
+        "lowest_price": 1.27,
+        "highest_price": 1.85
       },
       "30_days": {
-        "average": 1.78,
-        "median": 1.81,
-        "sold": "938",
-        "standard_deviation": "7.14",
-        "lowest_price": 1.25,
-        "highest_price": 2.02
+        "average": 1.75,
+        "median": 1.78,
+        "sold": "1041",
+        "standard_deviation": "7.27",
+        "lowest_price": 1.23,
+        "highest_price": 1.99
       },
       "all_time": {
-        "average": 2.49,
-        "median": 2.56,
-        "sold": "35771",
-        "standard_deviation": "42.98",
-        "lowest_price": 1.02,
-        "highest_price": 6.36
+        "average": 2.44,
+        "median": 2.54,
+        "sold": "35997",
+        "standard_deviation": "43.29",
+        "lowest_price": 1.18,
+        "highest_price": 6.25
       }
     }
   },
@@ -154,26 +154,26 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_dragon_large.61fa9db7abf3d3f3e12ffc67339c32fe04f4020e.png",
     "price": {
       "7_days": {
-        "average": 5.71,
-        "median": 5.54,
-        "sold": "46",
-        "standard_deviation": "8.15",
-        "lowest_price": 4.71,
-        "highest_price": 6.64
+        "average": 5.79,
+        "median": 5.74,
+        "sold": "43",
+        "standard_deviation": "4.2",
+        "lowest_price": 5.29,
+        "highest_price": 6.35
       },
       "30_days": {
-        "average": 5.77,
-        "median": 5.72,
-        "sold": "326",
-        "standard_deviation": "8.44",
+        "average": 5.71,
+        "median": 5.68,
+        "sold": "316",
+        "standard_deviation": "8.15",
         "lowest_price": 3.6,
         "highest_price": 7.32
       },
       "all_time": {
-        "average": 5.24,
-        "median": 5.51,
-        "sold": "14124",
-        "standard_deviation": "22.02",
+        "average": 5.25,
+        "median": 5.5,
+        "sold": "14154",
+        "standard_deviation": "22.18",
         "lowest_price": 2.41,
         "highest_price": 10.98
       }
@@ -190,28 +190,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_easypeasy_large.55d6ba3c7922e1d5a826192dd767a5ba8ccca160.png",
     "price": {
       "7_days": {
-        "average": 1.34,
+        "average": 1.3,
         "median": 1.36,
-        "sold": "143",
-        "standard_deviation": "5.51",
-        "lowest_price": 1.18,
-        "highest_price": 1.46
+        "sold": "166",
+        "standard_deviation": "6.5",
+        "lowest_price": 0.9,
+        "highest_price": 1.43
       },
       "30_days": {
         "average": 1.34,
         "median": 1.36,
-        "sold": "1019",
-        "standard_deviation": "8.66",
-        "lowest_price": 0.76,
-        "highest_price": 1.47
+        "sold": "1033",
+        "standard_deviation": "7.87",
+        "lowest_price": 0.84,
+        "highest_price": 1.48
       },
       "all_time": {
-        "average": 1.38,
-        "median": 1.4,
-        "sold": "37157",
-        "standard_deviation": "33.85",
+        "average": 1.39,
+        "median": 1.41,
+        "sold": "37278",
+        "standard_deviation": "33.59",
         "lowest_price": 0.71,
-        "highest_price": 3.24
+        "highest_price": 3.25
       }
     }
   },
@@ -225,29 +225,37 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_fury_large.1a3e546039c43307cd9fa2548479ffda6c7d40c1.png",
     "price": {
-      "7_days": {
-        "average": 5.49,
+      "24_hours": {
+        "average": 5.64,
         "median": 5.66,
-        "sold": "21",
-        "standard_deviation": "5.01",
-        "lowest_price": 5.02,
-        "highest_price": 5.79
+        "sold": "6",
+        "standard_deviation": "1.13",
+        "lowest_price": 5.52,
+        "highest_price": 5.68
+      },
+      "7_days": {
+        "average": 5.42,
+        "median": 5.64,
+        "sold": "79",
+        "standard_deviation": "6.25",
+        "lowest_price": 4.51,
+        "highest_price": 5.75
       },
       "30_days": {
-        "average": 5.4,
-        "median": 5.37,
-        "sold": "370",
-        "standard_deviation": "8.04",
-        "lowest_price": 3.71,
-        "highest_price": 6.32
+        "average": 5.36,
+        "median": 5.46,
+        "sold": "412",
+        "standard_deviation": "7.5",
+        "lowest_price": 3.66,
+        "highest_price": 6.21
       },
       "all_time": {
-        "average": 5.44,
-        "median": 5.9,
-        "sold": "14692",
-        "standard_deviation": "29.18",
+        "average": 5.35,
+        "median": 5.81,
+        "sold": "14796",
+        "standard_deviation": "28.66",
         "lowest_price": 0.03,
-        "highest_price": 11.66
+        "highest_price": 11.47
       }
     }
   },
@@ -262,28 +270,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_howl_large.a13362718c6e9a94dc4dda21ae4eca270311c3ee.png",
     "price": {
       "7_days": {
-        "average": 18.39,
-        "median": 18.62,
-        "sold": "18",
-        "standard_deviation": "3.91",
-        "lowest_price": 17.07,
-        "highest_price": 19.17
+        "average": 17.63,
+        "median": 17.2,
+        "sold": "72",
+        "standard_deviation": "5.28",
+        "lowest_price": 15.38,
+        "highest_price": 19.61
       },
       "30_days": {
-        "average": 19.7,
-        "median": 19.81,
-        "sold": "348",
-        "standard_deviation": "7.89",
-        "lowest_price": 15.85,
-        "highest_price": 22.93
+        "average": 18.83,
+        "median": 18.78,
+        "sold": "380",
+        "standard_deviation": "8.2",
+        "lowest_price": 15.38,
+        "highest_price": 22.56
       },
       "all_time": {
-        "average": 23.02,
-        "median": 20.97,
-        "sold": "18345",
-        "standard_deviation": "13.19",
-        "lowest_price": 11.08,
-        "highest_price": 38.45
+        "average": 22.62,
+        "median": 20.59,
+        "sold": "18432",
+        "standard_deviation": "13.56",
+        "lowest_price": 10.9,
+        "highest_price": 37.82
       }
     }
   },
@@ -298,28 +306,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_koi_large.709896af0a549875cd4b104f7721c3c9cb22f804.png",
     "price": {
       "7_days": {
-        "average": 1.14,
-        "median": 1.13,
-        "sold": "57",
-        "standard_deviation": "6.48",
-        "lowest_price": 0.96,
-        "highest_price": 1.23
+        "average": 1.07,
+        "median": 1.08,
+        "sold": "192",
+        "standard_deviation": "5.94",
+        "lowest_price": 0.83,
+        "highest_price": 1.14
       },
       "30_days": {
-        "average": 1.16,
-        "median": 1.18,
-        "sold": "919",
-        "standard_deviation": "6.36",
-        "lowest_price": 0.81,
-        "highest_price": 1.29
+        "average": 1.12,
+        "median": 1.13,
+        "sold": "1022",
+        "standard_deviation": "6.6",
+        "lowest_price": 0.75,
+        "highest_price": 1.26
       },
       "all_time": {
-        "average": 1.14,
-        "median": 1.22,
-        "sold": "35416",
-        "standard_deviation": "31.48",
-        "lowest_price": 0.68,
-        "highest_price": 2.54
+        "average": 1.12,
+        "median": 1.2,
+        "sold": "35650",
+        "standard_deviation": "32.08",
+        "lowest_price": 0.67,
+        "highest_price": 2.5
       }
     }
   },
@@ -333,29 +341,37 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_longevity_large.293c1408f607b90d8f22a4f71bf844cd65828253.png",
     "price": {
+      "24_hours": {
+        "average": 0.97,
+        "median": 0.98,
+        "sold": "7",
+        "standard_deviation": "1.09",
+        "lowest_price": 0.95,
+        "highest_price": 0.98
+      },
       "7_days": {
-        "average": 0.89,
-        "median": 0.89,
-        "sold": "29",
-        "standard_deviation": "16.67",
-        "lowest_price": 0.34,
+        "average": 0.91,
+        "median": 0.9,
+        "sold": "142",
+        "standard_deviation": "6.98",
+        "lowest_price": 0.71,
         "highest_price": 0.99
       },
       "30_days": {
-        "average": 0.93,
-        "median": 0.93,
-        "sold": "740",
-        "standard_deviation": "9.09",
-        "lowest_price": 0.34,
-        "highest_price": 1.1
+        "average": 0.92,
+        "median": 0.92,
+        "sold": "822",
+        "standard_deviation": "8.05",
+        "lowest_price": 0.33,
+        "highest_price": 1.07
       },
       "all_time": {
-        "average": 1.08,
-        "median": 1.08,
-        "sold": "33202",
-        "standard_deviation": "31.37",
-        "lowest_price": 0.34,
-        "highest_price": 2.59
+        "average": 1.07,
+        "median": 1.07,
+        "sold": "33390",
+        "standard_deviation": "30.69",
+        "lowest_price": 0.33,
+        "highest_price": 2.55
       }
     }
   },
@@ -369,28 +385,36 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_wildfire_large.6998e584962ca97c39021fe9e9ad8b6d512cdd21.png",
     "price": {
+      "24_hours": {
+        "average": 0.8,
+        "median": 0.83,
+        "sold": "38",
+        "standard_deviation": "3.95",
+        "lowest_price": 0.73,
+        "highest_price": 0.84
+      },
       "7_days": {
-        "average": 0.74,
-        "median": 0.74,
-        "sold": "377",
-        "standard_deviation": "4.29",
-        "lowest_price": 0.68,
-        "highest_price": 0.79
+        "average": 0.76,
+        "median": 0.76,
+        "sold": "577",
+        "standard_deviation": "6.94",
+        "lowest_price": 0.31,
+        "highest_price": 0.84
       },
       "30_days": {
-        "average": 0.8,
-        "median": 0.8,
-        "sold": "3163",
-        "standard_deviation": "5.26",
-        "lowest_price": 0.62,
+        "average": 0.79,
+        "median": 0.79,
+        "sold": "3276",
+        "standard_deviation": "6.67",
+        "lowest_price": 0.31,
         "highest_price": 0.89
       },
       "all_time": {
         "average": 1.15,
         "median": 0.95,
-        "sold": "128647",
+        "sold": "129142",
         "standard_deviation": "28.44",
-        "lowest_price": 0.61,
+        "lowest_price": 0.31,
         "highest_price": 1.97
       }
     }
@@ -408,25 +432,25 @@
       "7_days": {
         "average": 0.52,
         "median": 0.53,
-        "sold": "145",
+        "sold": "161",
         "standard_deviation": "10.2",
-        "lowest_price": 0.35,
-        "highest_price": 0.57
+        "lowest_price": 0.24,
+        "highest_price": 0.59
       },
       "30_days": {
-        "average": 0.52,
-        "median": 0.52,
-        "sold": "1017",
-        "standard_deviation": "10.2",
-        "lowest_price": 0.25,
+        "average": 0.53,
+        "median": 0.53,
+        "sold": "1022",
+        "standard_deviation": "10",
+        "lowest_price": 0.24,
         "highest_price": 0.72
       },
       "all_time": {
         "average": 0.65,
-        "median": 0.59,
-        "sold": "34805",
+        "median": 0.6,
+        "sold": "34918",
         "standard_deviation": "36.07",
-        "lowest_price": 0.25,
+        "lowest_price": 0.24,
         "highest_price": 1.71
       }
     }
@@ -441,18 +465,10 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_bloodhound_large.93673f15892d2db61dc899d94e36d54813138541.png",
     "price": {
-      "7_days": {
-        "average": 0.43,
-        "median": 0.42,
-        "sold": "139",
-        "standard_deviation": "4.88",
-        "lowest_price": 0.36,
-        "highest_price": 0.45
-      },
       "30_days": {
         "average": 0.42,
         "median": 0.42,
-        "sold": "3621",
+        "sold": "3172",
         "standard_deviation": "5",
         "lowest_price": 0.28,
         "highest_price": 0.48
@@ -478,27 +494,27 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_bravo_large.79afa9036904b07f77e62c563a4680ebcc5dc795.png",
     "price": {
       "7_days": {
-        "average": 0.26,
-        "median": 0.26,
-        "sold": "643",
-        "standard_deviation": "8",
-        "lowest_price": 0.2,
-        "highest_price": 0.29
+        "average": 0.24,
+        "median": 0.24,
+        "sold": "804",
+        "standard_deviation": "8.7",
+        "lowest_price": 0.14,
+        "highest_price": 0.28
       },
       "30_days": {
         "average": 0.28,
         "median": 0.28,
-        "sold": "4511",
+        "sold": "4629",
         "standard_deviation": "7.69",
-        "lowest_price": 0.19,
+        "lowest_price": 0.14,
         "highest_price": 0.32
       },
       "all_time": {
         "average": 0.38,
         "median": 0.36,
-        "sold": "162817",
+        "sold": "163465",
         "standard_deviation": "36.11",
-        "lowest_price": 0.17,
+        "lowest_price": 0.14,
         "highest_price": 0.73
       }
     }
@@ -516,15 +532,15 @@
       "7_days": {
         "average": 0.2,
         "median": 0.2,
-        "sold": "529",
+        "sold": "664",
         "standard_deviation": "5.26",
-        "lowest_price": 0.16,
-        "highest_price": 0.22
+        "lowest_price": 0.14,
+        "highest_price": 0.21
       },
       "30_days": {
         "average": 0.2,
         "median": 0.21,
-        "sold": "4044",
+        "sold": "4079",
         "standard_deviation": "10.53",
         "lowest_price": 0.05,
         "highest_price": 0.24
@@ -532,7 +548,7 @@
       "all_time": {
         "average": 0.33,
         "median": 0.3,
-        "sold": "164719",
+        "sold": "165214",
         "standard_deviation": "35.48",
         "lowest_price": 0.05,
         "highest_price": 0.58
@@ -550,28 +566,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_dangerzone_large.2616fbc776d97512bf74cddc2728b0b0c5f7780d.png",
     "price": {
       "7_days": {
-        "average": 0.62,
-        "median": 0.63,
-        "sold": "30",
-        "standard_deviation": "5.08",
-        "lowest_price": 0.55,
-        "highest_price": 0.68
+        "average": 0.61,
+        "median": 0.61,
+        "sold": "207",
+        "standard_deviation": "6.9",
+        "lowest_price": 0.48,
+        "highest_price": 0.66
       },
       "30_days": {
-        "average": 0.63,
+        "average": 0.62,
         "median": 0.62,
-        "sold": "849",
-        "standard_deviation": "10",
+        "sold": "980",
+        "standard_deviation": "8.47",
         "lowest_price": 0.34,
-        "highest_price": 0.9
+        "highest_price": 0.88
       },
       "all_time": {
-        "average": 0.76,
-        "median": 0.72,
-        "sold": "37679",
-        "standard_deviation": "33.33",
+        "average": 0.75,
+        "median": 0.71,
+        "sold": "37929",
+        "standard_deviation": "32.39",
         "lowest_price": 0.34,
-        "highest_price": 2
+        "highest_price": 1.97
       }
     }
   },
@@ -588,23 +604,23 @@
       "7_days": {
         "average": 0.54,
         "median": 0.54,
-        "sold": "496",
+        "sold": "657",
         "standard_deviation": "5.88",
         "lowest_price": 0.42,
         "highest_price": 0.57
       },
       "30_days": {
-        "average": 0.56,
-        "median": 0.56,
-        "sold": "3684",
-        "standard_deviation": "5.66",
+        "average": 0.55,
+        "median": 0.55,
+        "sold": "3713",
+        "standard_deviation": "5.77",
         "lowest_price": 0.42,
         "highest_price": 0.6
       },
       "all_time": {
         "average": 0.69,
         "median": 0.63,
-        "sold": "149949",
+        "sold": "150460",
         "standard_deviation": "30.77",
         "lowest_price": 0.36,
         "highest_price": 1.28
@@ -621,18 +637,26 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_payback_large.1e71de0b262ef752e3584ffd74b732820f1da7a3.png",
     "price": {
-      "7_days": {
+      "24_hours": {
         "average": 0.2,
         "median": 0.2,
-        "sold": "614",
+        "sold": "44",
         "standard_deviation": "5.26",
+        "lowest_price": 0.19,
+        "highest_price": 0.21
+      },
+      "7_days": {
+        "average": 0.19,
+        "median": 0.2,
+        "sold": "827",
+        "standard_deviation": "5.56",
         "lowest_price": 0.13,
         "highest_price": 0.21
       },
       "30_days": {
         "average": 0.2,
         "median": 0.2,
-        "sold": "4531",
+        "sold": "4691",
         "standard_deviation": "5.26",
         "lowest_price": 0.1,
         "highest_price": 0.24
@@ -640,7 +664,7 @@
       "all_time": {
         "average": 0.31,
         "median": 0.28,
-        "sold": "172933",
+        "sold": "173595",
         "standard_deviation": "34.48",
         "lowest_price": 0.1,
         "highest_price": 0.6
@@ -658,28 +682,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_phoenix_large.341a3a1242877c7c5d8ea550b85fcd16f387b388.png",
     "price": {
       "7_days": {
-        "average": 0.4,
-        "median": 0.4,
-        "sold": "509",
-        "standard_deviation": "5.26",
-        "lowest_price": 0.35,
+        "average": 0.41,
+        "median": 0.42,
+        "sold": "608",
+        "standard_deviation": "5.13",
+        "lowest_price": 0.31,
         "highest_price": 0.44
       },
       "30_days": {
         "average": 0.41,
         "median": 0.41,
-        "sold": "3742",
+        "sold": "3755",
         "standard_deviation": "5.13",
         "lowest_price": 0.21,
-        "highest_price": 0.48
+        "highest_price": 0.49
       },
       "all_time": {
         "average": 0.58,
         "median": 0.53,
-        "sold": "142132",
+        "sold": "142602",
         "standard_deviation": "36.36",
         "lowest_price": 0.21,
-        "highest_price": 1.11
+        "highest_price": 1.12
       }
     }
   },
@@ -693,18 +717,10 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_shatteredweb_large.ebe44be62bba9022f77cc1af55c325f1f30f5a54.png",
     "price": {
-      "7_days": {
-        "average": 0.41,
-        "median": 0.4,
-        "sold": "148",
-        "standard_deviation": "5.13",
-        "lowest_price": 0.35,
-        "highest_price": 0.44
-      },
       "30_days": {
         "average": 0.45,
         "median": 0.45,
-        "sold": "3595",
+        "sold": "3106",
         "standard_deviation": "6.98",
         "lowest_price": 0.32,
         "highest_price": 0.52
@@ -729,29 +745,37 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_vanguard_large.3f30c3679ca9c8b6f1a96894cd78cea570fea80b.png",
     "price": {
+      "24_hours": {
+        "average": 0.24,
+        "median": 0.24,
+        "sold": "19",
+        "standard_deviation": "0",
+        "lowest_price": 0.23,
+        "highest_price": 0.24
+      },
       "7_days": {
-        "average": 0.25,
-        "median": 0.25,
-        "sold": "182",
-        "standard_deviation": "8.33",
-        "lowest_price": 0.21,
+        "average": 0.24,
+        "median": 0.24,
+        "sold": "655",
+        "standard_deviation": "4.35",
+        "lowest_price": 0.18,
         "highest_price": 0.26
       },
       "30_days": {
-        "average": 0.25,
-        "median": 0.25,
-        "sold": "3295",
-        "standard_deviation": "8.33",
+        "average": 0.24,
+        "median": 0.24,
+        "sold": "3683",
+        "standard_deviation": "8.7",
         "lowest_price": 0.12,
-        "highest_price": 0.3
+        "highest_price": 0.29
       },
       "all_time": {
         "average": 0.37,
         "median": 0.34,
-        "sold": "145312",
+        "sold": "146170",
         "standard_deviation": "37.14",
         "lowest_price": 0.12,
-        "highest_price": 0.76
+        "highest_price": 0.75
       }
     }
   },
@@ -766,18 +790,18 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_silver_large.3f8cda8378e0fb17a339d4ffffc05c7e257f1b8c.png",
     "price": {
       "7_days": {
-        "average": 4.25,
-        "median": 4.34,
-        "sold": "38",
-        "standard_deviation": "15.67",
-        "lowest_price": 0.99,
-        "highest_price": 4.58
+        "average": 4.5,
+        "median": 4.51,
+        "sold": "5",
+        "standard_deviation": "0.71",
+        "lowest_price": 4.46,
+        "highest_price": 4.55
       },
       "30_days": {
-        "average": 4.28,
-        "median": 4.38,
-        "sold": "308",
-        "standard_deviation": "13.58",
+        "average": 4.29,
+        "median": 4.36,
+        "sold": "267",
+        "standard_deviation": "14.53",
         "lowest_price": 0.99,
         "highest_price": 5.16
       },
@@ -801,19 +825,11 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_goldnova1_large.4c2c1b63569cf111b4054ab1e28a937da04ae3a9.png",
     "price": {
-      "7_days": {
-        "average": 0.86,
-        "median": 0.85,
-        "sold": "12",
-        "standard_deviation": "3.7",
-        "lowest_price": 0.84,
-        "highest_price": 0.93
-      },
       "30_days": {
-        "average": 0.95,
-        "median": 0.99,
-        "sold": "236",
-        "standard_deviation": "12.22",
+        "average": 0.94,
+        "median": 0.98,
+        "sold": "204",
+        "standard_deviation": "12.36",
         "lowest_price": 0.39,
         "highest_price": 1.09
       },
@@ -837,29 +853,37 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_goldnovamaster_large.52b9963612d17b1c64159757797113247032c910.png",
     "price": {
-      "7_days": {
+      "24_hours": {
         "average": 0.93,
-        "median": 0.95,
-        "sold": "14",
-        "standard_deviation": "5.68",
-        "lowest_price": 0.83,
-        "highest_price": 0.96
+        "median": 0.93,
+        "sold": "3",
+        "standard_deviation": "2.27",
+        "lowest_price": 0.91,
+        "highest_price": 0.95
+      },
+      "7_days": {
+        "average": 0.92,
+        "median": 0.94,
+        "sold": "59",
+        "standard_deviation": "4.6",
+        "lowest_price": 0.77,
+        "highest_price": 0.95
       },
       "30_days": {
-        "average": 1.03,
-        "median": 1,
-        "sold": "470",
-        "standard_deviation": "9.28",
-        "lowest_price": 0.6,
-        "highest_price": 1.12
+        "average": 0.94,
+        "median": 0.94,
+        "sold": "286",
+        "standard_deviation": "8.99",
+        "lowest_price": 0.59,
+        "highest_price": 1.08
       },
       "all_time": {
         "average": 0.29,
-        "median": 0.39,
-        "sold": "60767",
-        "standard_deviation": "107.41",
+        "median": 0.38,
+        "sold": "60840",
+        "standard_deviation": "103.7",
         "lowest_price": 0.14,
-        "highest_price": 1.27
+        "highest_price": 1.25
       }
     }
   },
@@ -873,29 +897,37 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_masterguardian1_large.e161345a1b7093f76ba65d4694e9f29392a9235f.png",
     "price": {
+      "24_hours": {
+        "average": 0.81,
+        "median": 0.81,
+        "sold": "2",
+        "standard_deviation": "0",
+        "lowest_price": 0.81,
+        "highest_price": 0.81
+      },
       "7_days": {
-        "average": 0.84,
-        "median": 0.86,
-        "sold": "10",
-        "standard_deviation": "2.53",
-        "lowest_price": 0.79,
-        "highest_price": 0.86
+        "average": 0.83,
+        "median": 0.83,
+        "sold": "70",
+        "standard_deviation": "3.85",
+        "lowest_price": 0.75,
+        "highest_price": 0.89
       },
       "30_days": {
-        "average": 0.92,
-        "median": 0.88,
-        "sold": "247",
-        "standard_deviation": "9.2",
-        "lowest_price": 0.54,
-        "highest_price": 1.17
+        "average": 0.89,
+        "median": 0.85,
+        "sold": "280",
+        "standard_deviation": "8.33",
+        "lowest_price": 0.53,
+        "highest_price": 1.15
       },
       "all_time": {
-        "average": 0.32,
+        "average": 0.31,
         "median": 0.38,
-        "sold": "58515",
-        "standard_deviation": "86.67",
+        "sold": "58604",
+        "standard_deviation": "89.66",
         "lowest_price": 0.15,
-        "highest_price": 1.39
+        "highest_price": 1.36
       }
     }
   },
@@ -909,18 +941,26 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_masterguardianelite_large.d203b10966f572543bfdaba6d0772c8f4b383a72.png",
     "price": {
+      "24_hours": {
+        "average": 0.8,
+        "median": 0.8,
+        "sold": "1",
+        "standard_deviation": "0",
+        "lowest_price": 0.8,
+        "highest_price": 0.8
+      },
       "7_days": {
-        "average": 0.88,
-        "median": 0.89,
-        "sold": "47",
-        "standard_deviation": "4.82",
-        "lowest_price": 0.75,
-        "highest_price": 0.91
+        "average": 0.9,
+        "median": 0.91,
+        "sold": "53",
+        "standard_deviation": "4.71",
+        "lowest_price": 0.8,
+        "highest_price": 0.96
       },
       "30_days": {
         "average": 0.89,
         "median": 0.9,
-        "sold": "287",
+        "sold": "296",
         "standard_deviation": "8.33",
         "lowest_price": 0.42,
         "highest_price": 1.02
@@ -928,7 +968,7 @@
       "all_time": {
         "average": 0.3,
         "median": 0.38,
-        "sold": "58314",
+        "sold": "58349",
         "standard_deviation": "89.29",
         "lowest_price": 0.16,
         "highest_price": 1.15
@@ -946,28 +986,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_dmg_large.3fd018ad9a5bea54b69441eb3bf0ebba302fb9e7.png",
     "price": {
       "7_days": {
-        "average": 1.13,
-        "median": 1.15,
-        "sold": "6",
-        "standard_deviation": "6.54",
-        "lowest_price": 0.96,
-        "highest_price": 1.17
+        "average": 1.11,
+        "median": 1.13,
+        "sold": "22",
+        "standard_deviation": "8.57",
+        "lowest_price": 0.95,
+        "highest_price": 1.29
       },
       "30_days": {
-        "average": 1.47,
-        "median": 1.53,
-        "sold": "127",
-        "standard_deviation": "17.27",
-        "lowest_price": 0.76,
-        "highest_price": 1.78
+        "average": 1.35,
+        "median": 1.24,
+        "sold": "131",
+        "standard_deviation": "19.53",
+        "lowest_price": 0.94,
+        "highest_price": 1.76
       },
       "all_time": {
-        "average": 0.42,
-        "median": 0.5,
-        "sold": "23531",
+        "average": 0.41,
+        "median": 0.49,
+        "sold": "23563",
         "standard_deviation": "100",
         "lowest_price": 0.21,
-        "highest_price": 1.78
+        "highest_price": 1.76
       }
     }
   },
@@ -982,28 +1022,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_legendaryeagle_large.9de7000b46dadf93f50d90bbb73ce109e6a0c66e.png",
     "price": {
       "7_days": {
-        "average": 1,
-        "median": 1.02,
-        "sold": "13",
-        "standard_deviation": "5.26",
-        "lowest_price": 0.85,
-        "highest_price": 1.03
+        "average": 1.04,
+        "median": 1.06,
+        "sold": "35",
+        "standard_deviation": "5.1",
+        "lowest_price": 0.9,
+        "highest_price": 1.08
       },
       "30_days": {
         "average": 1,
-        "median": 1.02,
-        "sold": "261",
+        "median": 1,
+        "sold": "285",
         "standard_deviation": "7.37",
-        "lowest_price": 0.76,
-        "highest_price": 1.2
+        "lowest_price": 0.75,
+        "highest_price": 1.17
       },
       "all_time": {
         "average": 0.32,
-        "median": 0.47,
-        "sold": "55892",
-        "standard_deviation": "96.67",
-        "lowest_price": 0.16,
-        "highest_price": 1.33
+        "median": 0.45,
+        "sold": "55947",
+        "standard_deviation": "93.33",
+        "lowest_price": 0.15,
+        "highest_price": 1.31
       }
     }
   },
@@ -1018,28 +1058,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_legendaryeaglemaster_large.f312a0441967a4e26dd5fa1c290644902022db43.png",
     "price": {
       "7_days": {
-        "average": 3.52,
-        "median": 3.98,
-        "sold": "6",
-        "standard_deviation": "33.63",
-        "lowest_price": 0.95,
-        "highest_price": 4.28
+        "average": 4.04,
+        "median": 4.2,
+        "sold": "12",
+        "standard_deviation": "7.07",
+        "lowest_price": 3.42,
+        "highest_price": 4.29
       },
       "30_days": {
-        "average": 4.31,
-        "median": 4.24,
-        "sold": "92",
-        "standard_deviation": "17.44",
+        "average": 4.32,
+        "median": 4.22,
+        "sold": "93",
+        "standard_deviation": "16.67",
         "lowest_price": 0.95,
-        "highest_price": 5.08
+        "highest_price": 5.09
       },
       "all_time": {
-        "average": 1.02,
-        "median": 1.28,
-        "sold": "24508",
-        "standard_deviation": "112.5",
-        "lowest_price": 0.4,
-        "highest_price": 5.2
+        "average": 1.03,
+        "median": 1.29,
+        "sold": "24517",
+        "standard_deviation": "110.31",
+        "lowest_price": 0.41,
+        "highest_price": 5.11
       }
     }
   },
@@ -1054,28 +1094,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_supreme_large.dcd2dd0efa108a8b6482a4dfbf9b727a9d0d32ac.png",
     "price": {
       "7_days": {
-        "average": 3.79,
+        "average": 3.7,
         "median": 3.7,
-        "sold": "14",
-        "standard_deviation": "5.59",
-        "lowest_price": 3.52,
-        "highest_price": 4.05
+        "sold": "23",
+        "standard_deviation": "8.86",
+        "lowest_price": 2.48,
+        "highest_price": 4.01
       },
       "30_days": {
-        "average": 3.86,
-        "median": 3.91,
-        "sold": "95",
-        "standard_deviation": "21.37",
+        "average": 3.85,
+        "median": 3.96,
+        "sold": "93",
+        "standard_deviation": "20.33",
         "lowest_price": 0.99,
         "highest_price": 4.7
       },
       "all_time": {
-        "average": 0.97,
+        "average": 0.98,
         "median": 1.24,
-        "sold": "24373",
-        "standard_deviation": "118.48",
+        "sold": "24388",
+        "standard_deviation": "117.2",
         "lowest_price": 0.47,
-        "highest_price": 5.62
+        "highest_price": 5.63
       }
     }
   },
@@ -1090,18 +1130,18 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_globalelite_large.d7d31d314dc4ab060c70db25c5d82dc71190d687.png",
     "price": {
       "7_days": {
-        "average": 16.98,
-        "median": 17.18,
-        "sold": "6",
-        "standard_deviation": "3.36",
+        "average": 15.87,
+        "median": 15.87,
+        "sold": "1",
+        "standard_deviation": "0",
         "lowest_price": 15.87,
-        "highest_price": 17.54
+        "highest_price": 15.87
       },
       "30_days": {
-        "average": 17.29,
-        "median": 17.24,
-        "sold": "50",
-        "standard_deviation": "8.81",
+        "average": 17.18,
+        "median": 17.22,
+        "sold": "39",
+        "standard_deviation": "9.24",
         "lowest_price": 14.18,
         "highest_price": 19.88
       },
@@ -1126,28 +1166,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_dmg2_large.cd6c07968e4ca5af6deef4924f44d200da5b1f7a.png",
     "price": {
       "7_days": {
-        "average": 1.06,
-        "median": 1.1,
-        "sold": "6",
-        "standard_deviation": "8",
-        "lowest_price": 0.87,
-        "highest_price": 1.12
+        "average": 0.86,
+        "median": 0.86,
+        "sold": "35",
+        "standard_deviation": "7.41",
+        "lowest_price": 0.59,
+        "highest_price": 0.91
       },
       "30_days": {
-        "average": 1.14,
-        "median": 1.07,
-        "sold": "488",
-        "standard_deviation": "12.04",
-        "lowest_price": 0.7,
-        "highest_price": 1.35
+        "average": 1.12,
+        "median": 1.05,
+        "sold": "438",
+        "standard_deviation": "12.26",
+        "lowest_price": 0.59,
+        "highest_price": 1.32
       },
       "all_time": {
         "average": 0.3,
-        "median": 0.37,
-        "sold": "57888",
+        "median": 0.36,
+        "sold": "57930",
         "standard_deviation": "100",
         "lowest_price": 0.16,
-        "highest_price": 1.35
+        "highest_price": 1.32
       }
     }
   },
@@ -1162,28 +1202,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_legendaryeagle2_large.8f31aa3018c448fc34a4861d72b4de8b6accb27f.png",
     "price": {
       "7_days": {
-        "average": 1,
-        "median": 1.02,
-        "sold": "13",
-        "standard_deviation": "5.26",
-        "lowest_price": 0.85,
-        "highest_price": 1.03
+        "average": 1.04,
+        "median": 1.06,
+        "sold": "35",
+        "standard_deviation": "5.1",
+        "lowest_price": 0.9,
+        "highest_price": 1.08
       },
       "30_days": {
         "average": 1,
-        "median": 1.02,
-        "sold": "261",
+        "median": 1,
+        "sold": "285",
         "standard_deviation": "7.37",
-        "lowest_price": 0.76,
-        "highest_price": 1.2
+        "lowest_price": 0.75,
+        "highest_price": 1.17
       },
       "all_time": {
         "average": 0.32,
-        "median": 0.47,
-        "sold": "55892",
-        "standard_deviation": "96.67",
-        "lowest_price": 0.16,
-        "highest_price": 1.33
+        "median": 0.45,
+        "sold": "55947",
+        "standard_deviation": "93.33",
+        "lowest_price": 0.15,
+        "highest_price": 1.31
       }
     }
   },
@@ -1197,29 +1237,37 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_legendaryeaglemaster2_large.1c441fb5bcede67c0d1b22273a3da4746c89919f.png",
     "price": {
+      "24_hours": {
+        "average": 1.48,
+        "median": 1.48,
+        "sold": "2",
+        "standard_deviation": "0",
+        "lowest_price": 1.48,
+        "highest_price": 1.48
+      },
       "7_days": {
-        "average": 1.56,
-        "median": 1.62,
-        "sold": "9",
-        "standard_deviation": "14.97",
-        "lowest_price": 1.04,
-        "highest_price": 1.63
+        "average": 1.42,
+        "median": 1.48,
+        "sold": "38",
+        "standard_deviation": "11.19",
+        "lowest_price": 1,
+        "highest_price": 1.57
       },
       "30_days": {
-        "average": 1.64,
-        "median": 1.68,
-        "sold": "179",
-        "standard_deviation": "14.84",
-        "lowest_price": 0.75,
-        "highest_price": 1.96
+        "average": 1.56,
+        "median": 1.59,
+        "sold": "200",
+        "standard_deviation": "14.97",
+        "lowest_price": 0.84,
+        "highest_price": 1.93
       },
       "all_time": {
-        "average": 0.47,
-        "median": 0.61,
-        "sold": "53269",
-        "standard_deviation": "111.36",
+        "average": 0.45,
+        "median": 0.6,
+        "sold": "53323",
+        "standard_deviation": "109.3",
         "lowest_price": 0.23,
-        "highest_price": 2.4
+        "highest_price": 2.22
       }
     }
   },
@@ -1234,28 +1282,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_silver_demon_large.30ccd701de2f3edcecbac3789b04adcede0f5971.png",
     "price": {
       "7_days": {
-        "average": 21.49,
-        "median": 21.91,
-        "sold": "6",
-        "standard_deviation": "3.64",
-        "lowest_price": 20.36,
-        "highest_price": 22.24
+        "average": 22.33,
+        "median": 22.98,
+        "sold": "16",
+        "standard_deviation": "6.3",
+        "lowest_price": 18.3,
+        "highest_price": 23.48
       },
       "30_days": {
-        "average": 21.43,
-        "median": 22.15,
-        "sold": "65",
-        "standard_deviation": "7.65",
-        "lowest_price": 15.06,
-        "highest_price": 23.53
+        "average": 21.62,
+        "median": 22.23,
+        "sold": "69",
+        "standard_deviation": "7.78",
+        "lowest_price": 15.07,
+        "highest_price": 23.54
       },
       "all_time": {
-        "average": 7.87,
-        "median": 8.42,
-        "sold": "18386",
-        "standard_deviation": "70.97",
+        "average": 7.88,
+        "median": 8.44,
+        "sold": "18402",
+        "standard_deviation": "71.54",
         "lowest_price": 4.36,
-        "highest_price": 32.54
+        "highest_price": 32.56
       }
     }
   },
@@ -1269,27 +1317,35 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_suprememaster_large.c548b494374644c727057e59696448a0ff76a45f.png",
     "price": {
+      "24_hours": {
+        "average": 1.26,
+        "median": 1.26,
+        "sold": "2",
+        "standard_deviation": "18.49",
+        "lowest_price": 1.04,
+        "highest_price": 1.49
+      },
       "7_days": {
-        "average": 1.4,
-        "median": 1.45,
-        "sold": "31",
-        "standard_deviation": "11.36",
+        "average": 1.34,
+        "median": 1.36,
+        "sold": "42",
+        "standard_deviation": "11.02",
         "lowest_price": 0.99,
         "highest_price": 1.49
       },
       "30_days": {
-        "average": 1.6,
-        "median": 1.6,
-        "sold": "254",
-        "standard_deviation": "12.58",
+        "average": 1.54,
+        "median": 1.51,
+        "sold": "234",
+        "standard_deviation": "14.38",
         "lowest_price": 0.84,
         "highest_price": 1.98
       },
       "all_time": {
         "average": 0.41,
-        "median": 0.56,
-        "sold": "53823",
-        "standard_deviation": "123.08",
+        "median": 0.55,
+        "sold": "53858",
+        "standard_deviation": "120.51",
         "lowest_price": 0.2,
         "highest_price": 1.98
       }
@@ -1306,28 +1362,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_alyx_large.0a79e889cd9e30a21193c51315fbafb26bbafb82.png",
     "price": {
       "7_days": {
-        "average": 4.95,
-        "median": 4.91,
-        "sold": "6",
-        "standard_deviation": "6.2",
-        "lowest_price": 4.39,
-        "highest_price": 5.24
+        "average": 4.81,
+        "median": 4.57,
+        "sold": "11",
+        "standard_deviation": "7.25",
+        "lowest_price": 4.47,
+        "highest_price": 5.38
       },
       "30_days": {
-        "average": 5.44,
-        "median": 5.37,
-        "sold": "105",
-        "standard_deviation": "7.98",
-        "lowest_price": 4.39,
-        "highest_price": 6.79
+        "average": 5.12,
+        "median": 5.2,
+        "sold": "116",
+        "standard_deviation": "8.26",
+        "lowest_price": 4.14,
+        "highest_price": 6.34
       },
       "all_time": {
-        "average": 5.8,
-        "median": 5.51,
-        "sold": "3671",
-        "standard_deviation": "23.54",
-        "lowest_price": 0.99,
-        "highest_price": 13.56
+        "average": 5.69,
+        "median": 5.41,
+        "sold": "3695",
+        "standard_deviation": "23.61",
+        "lowest_price": 0.98,
+        "highest_price": 13.34
       }
     }
   },
@@ -1342,28 +1398,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_headcrab_green_large.d8c9a68dcb2a4d2706ff89dfaa9b76ca2fbeffa2.png",
     "price": {
       "7_days": {
-        "average": 2.05,
-        "median": 2.09,
-        "sold": "21",
-        "standard_deviation": "10.82",
-        "lowest_price": 1.35,
-        "highest_price": 2.26
+        "average": 1.94,
+        "median": 1.94,
+        "sold": "75",
+        "standard_deviation": "9.29",
+        "lowest_price": 1.4,
+        "highest_price": 2.17
       },
       "30_days": {
-        "average": 2.26,
-        "median": 2.25,
-        "sold": "457",
-        "standard_deviation": "11.21",
-        "lowest_price": 0.76,
-        "highest_price": 2.71
+        "average": 2.16,
+        "median": 2.18,
+        "sold": "507",
+        "standard_deviation": "11.27",
+        "lowest_price": 0.94,
+        "highest_price": 2.57
       },
       "all_time": {
-        "average": 2.4,
-        "median": 2.37,
-        "sold": "18163",
-        "standard_deviation": "16.74",
-        "lowest_price": 0.76,
-        "highest_price": 4.47
+        "average": 2.36,
+        "median": 2.3,
+        "sold": "18268",
+        "standard_deviation": "17.04",
+        "lowest_price": 0.75,
+        "highest_price": 4.4
       }
     }
   },
@@ -1377,28 +1433,36 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_vort_large.7494a03bb0e99db083415b295007b27db725ec4a.png",
     "price": {
+      "24_hours": {
+        "average": 0.39,
+        "median": 0.4,
+        "sold": "11",
+        "standard_deviation": "8.11",
+        "lowest_price": 0.31,
+        "highest_price": 0.41
+      },
       "7_days": {
         "average": 0.39,
-        "median": 0.38,
-        "sold": "197",
+        "median": 0.39,
+        "sold": "287",
         "standard_deviation": "8.11",
-        "lowest_price": 0.3,
-        "highest_price": 0.44
+        "lowest_price": 0.26,
+        "highest_price": 0.43
       },
       "30_days": {
         "average": 0.42,
         "median": 0.42,
-        "sold": "1574",
-        "standard_deviation": "7.5",
+        "sold": "1635",
+        "standard_deviation": "10",
         "lowest_price": 0.26,
         "highest_price": 0.51
       },
       "all_time": {
         "average": 0.5,
         "median": 0.45,
-        "sold": "47949",
+        "sold": "48185",
         "standard_deviation": "21.28",
-        "lowest_price": 0.23,
+        "lowest_price": 0.26,
         "highest_price": 0.91
       }
     }
@@ -1413,29 +1477,37 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_headcrab_teal_large.21fd7236ec2dd39c0fcbfe43ee7879d782264368.png",
     "price": {
+      "24_hours": {
+        "average": 0.41,
+        "median": 0.41,
+        "sold": "15",
+        "standard_deviation": "5.13",
+        "lowest_price": 0.37,
+        "highest_price": 0.42
+      },
       "7_days": {
-        "average": 0.43,
-        "median": 0.42,
-        "sold": "74",
-        "standard_deviation": "4.88",
-        "lowest_price": 0.39,
-        "highest_price": 0.47
+        "average": 0.39,
+        "median": 0.4,
+        "sold": "273",
+        "standard_deviation": "8.11",
+        "lowest_price": 0.18,
+        "highest_price": 0.44
       },
       "30_days": {
-        "average": 0.43,
-        "median": 0.43,
-        "sold": "1415",
-        "standard_deviation": "7.32",
-        "lowest_price": 0.24,
+        "average": 0.42,
+        "median": 0.42,
+        "sold": "1574",
+        "standard_deviation": "7.5",
+        "lowest_price": 0.18,
         "highest_price": 0.51
       },
       "all_time": {
         "average": 0.55,
-        "median": 0.49,
-        "sold": "47529",
+        "median": 0.48,
+        "sold": "47865",
         "standard_deviation": "23.08",
-        "lowest_price": 0.24,
-        "highest_price": 0.93
+        "lowest_price": 0.18,
+        "highest_price": 0.92
       }
     }
   },
@@ -1450,28 +1522,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_lambda_copper_large.7c1d89caba547cd8c31f4d7a83dfc2a52f2aa3cd.png",
     "price": {
       "7_days": {
-        "average": 6.97,
-        "median": 7.08,
-        "sold": "3",
-        "standard_deviation": "4.4",
-        "lowest_price": 6.77,
-        "highest_price": 7.38
+        "average": 6.66,
+        "median": 6.88,
+        "sold": "24",
+        "standard_deviation": "6.67",
+        "lowest_price": 5.91,
+        "highest_price": 7.03
       },
       "30_days": {
-        "average": 6.92,
-        "median": 7.08,
-        "sold": "115",
-        "standard_deviation": "8.56",
-        "lowest_price": 5.49,
-        "highest_price": 7.54
+        "average": 6.73,
+        "median": 6.88,
+        "sold": "133",
+        "standard_deviation": "8.18",
+        "lowest_price": 5.4,
+        "highest_price": 7.39
       },
       "all_time": {
-        "average": 6.73,
-        "median": 6.64,
-        "sold": "3920",
-        "standard_deviation": "22.96",
+        "average": 6.61,
+        "median": 6.55,
+        "sold": "3951",
+        "standard_deviation": "22.88",
         "lowest_price": 0.03,
-        "highest_price": 18.76
+        "highest_price": 18.45
       }
     }
   },
@@ -1486,28 +1558,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_hearts_large.1b62ae672dd16c74ac2484643c64e3e649fef6c1.png",
     "price": {
       "7_days": {
-        "average": 23.47,
-        "median": 23.47,
-        "sold": "2",
-        "standard_deviation": "4.87",
-        "lowest_price": 22.33,
-        "highest_price": 24.62
+        "average": 23.98,
+        "median": 24.52,
+        "sold": "12",
+        "standard_deviation": "8.25",
+        "lowest_price": 20.61,
+        "highest_price": 26.79
       },
       "30_days": {
-        "average": 24.6,
-        "median": 24.58,
-        "sold": "91",
-        "standard_deviation": "7.91",
-        "lowest_price": 20.08,
-        "highest_price": 29.03
+        "average": 24.11,
+        "median": 24.02,
+        "sold": "87",
+        "standard_deviation": "8.69",
+        "lowest_price": 19.75,
+        "highest_price": 28.55
       },
       "all_time": {
-        "average": 24.71,
-        "median": 26.95,
-        "sold": "3521",
-        "standard_deviation": "23.67",
-        "lowest_price": 5.46,
-        "highest_price": 54.55
+        "average": 24.31,
+        "median": 26.61,
+        "sold": "3536",
+        "standard_deviation": "23.85",
+        "lowest_price": 5.37,
+        "highest_price": 53.67
       }
     }
   },
@@ -1521,29 +1593,37 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_combine_front_large.ea5c7c736d43279b77ecddc4b61a4f92c7dea714.png",
     "price": {
+      "24_hours": {
+        "average": 0.54,
+        "median": 0.53,
+        "sold": "8",
+        "standard_deviation": "3.92",
+        "lowest_price": 0.51,
+        "highest_price": 0.56
+      },
       "7_days": {
         "average": 0.56,
-        "median": 0.62,
-        "sold": "180",
-        "standard_deviation": "7.55",
-        "lowest_price": 0.53,
-        "highest_price": 0.65
+        "median": 0.56,
+        "sold": "273",
+        "standard_deviation": "9.43",
+        "lowest_price": 0.35,
+        "highest_price": 0.62
       },
       "30_days": {
-        "average": 0.66,
-        "median": 0.66,
-        "sold": "1434",
-        "standard_deviation": "8.06",
-        "lowest_price": 0.35,
-        "highest_price": 0.75
+        "average": 0.62,
+        "median": 0.62,
+        "sold": "1642",
+        "standard_deviation": "10.17",
+        "lowest_price": 0.34,
+        "highest_price": 0.74
       },
       "all_time": {
-        "average": 0.73,
-        "median": 0.71,
-        "sold": "48044",
-        "standard_deviation": "18.84",
-        "lowest_price": 0.35,
-        "highest_price": 1.31
+        "average": 0.72,
+        "median": 0.69,
+        "sold": "48408",
+        "standard_deviation": "19.12",
+        "lowest_price": 0.34,
+        "highest_price": 1.29
       }
     }
   },
@@ -1557,29 +1637,37 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_blackmesa_large.197a5b77558ee5a235fa3036f33aa97d809e747e.png",
     "price": {
+      "24_hours": {
+        "average": 1.59,
+        "median": 1.59,
+        "sold": "1",
+        "standard_deviation": "0",
+        "lowest_price": 1.59,
+        "highest_price": 1.59
+      },
       "7_days": {
-        "average": 1.36,
-        "median": 1.36,
-        "sold": "22",
-        "standard_deviation": "8.53",
-        "lowest_price": 1.06,
-        "highest_price": 1.48
+        "average": 1.5,
+        "median": 1.53,
+        "sold": "102",
+        "standard_deviation": "9.86",
+        "lowest_price": 0.92,
+        "highest_price": 1.69
       },
       "30_days": {
-        "average": 1.53,
-        "median": 1.54,
-        "sold": "544",
-        "standard_deviation": "9.66",
-        "lowest_price": 0.98,
-        "highest_price": 2.07
+        "average": 1.51,
+        "median": 1.52,
+        "sold": "611",
+        "standard_deviation": "9.09",
+        "lowest_price": 0.92,
+        "highest_price": 1.72
       },
       "all_time": {
-        "average": 1.22,
-        "median": 1.32,
-        "sold": "18539",
-        "standard_deviation": "22.61",
+        "average": 1.21,
+        "median": 1.3,
+        "sold": "18695",
+        "standard_deviation": "19.3",
         "lowest_price": 0.79,
-        "highest_price": 2.32
+        "highest_price": 2.12
       }
     }
   },
@@ -1593,29 +1681,37 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_cmb_large.0d7fbe754815be19e7b6f57819f6c3222be2c37f.png",
     "price": {
+      "24_hours": {
+        "average": 0.3,
+        "median": 0.3,
+        "sold": "14",
+        "standard_deviation": "3.57",
+        "lowest_price": 0.29,
+        "highest_price": 0.3
+      },
       "7_days": {
-        "average": 0.31,
-        "median": 0.31,
-        "sold": "55",
-        "standard_deviation": "3.45",
-        "lowest_price": 0.26,
-        "highest_price": 0.33
+        "average": 0.29,
+        "median": 0.29,
+        "sold": "260",
+        "standard_deviation": "7.41",
+        "lowest_price": 0.23,
+        "highest_price": 0.32
       },
       "30_days": {
-        "average": 0.37,
-        "median": 0.36,
-        "sold": "1367",
-        "standard_deviation": "11.43",
+        "average": 0.35,
+        "median": 0.34,
+        "sold": "1479",
+        "standard_deviation": "15.15",
         "lowest_price": 0.22,
-        "highest_price": 0.5
+        "highest_price": 0.49
       },
       "all_time": {
-        "average": 0.45,
+        "average": 0.44,
         "median": 0.4,
-        "sold": "47922",
-        "standard_deviation": "23.26",
+        "sold": "48278",
+        "standard_deviation": "26.19",
         "lowest_price": 0.22,
-        "highest_price": 0.87
+        "highest_price": 0.86
       }
     }
   },
@@ -1629,29 +1725,37 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_lambda_orange_large.11224c79f11bf68d16f0aa34f53f94b66829d313.png",
     "price": {
+      "24_hours": {
+        "average": 3.42,
+        "median": 3.42,
+        "sold": "7",
+        "standard_deviation": "0",
+        "lowest_price": 3.42,
+        "highest_price": 3.42
+      },
       "7_days": {
-        "average": 3.29,
-        "median": 3.19,
-        "sold": "20",
-        "standard_deviation": "3.22",
-        "lowest_price": 3.11,
-        "highest_price": 3.45
+        "average": 3.19,
+        "median": 3.18,
+        "sold": "112",
+        "standard_deviation": "7.95",
+        "lowest_price": 2.09,
+        "highest_price": 3.43
       },
       "30_days": {
-        "average": 3.58,
-        "median": 3.66,
-        "sold": "577",
-        "standard_deviation": "7.99",
-        "lowest_price": 2.31,
-        "highest_price": 4.04
+        "average": 3.45,
+        "median": 3.43,
+        "sold": "637",
+        "standard_deviation": "9.82",
+        "lowest_price": 0.98,
+        "highest_price": 3.98
       },
       "all_time": {
-        "average": 3.33,
-        "median": 3.41,
-        "sold": "18171",
-        "standard_deviation": "28.25",
-        "lowest_price": 1.73,
-        "highest_price": 11.17
+        "average": 3.28,
+        "median": 3.32,
+        "sold": "18315",
+        "standard_deviation": "28.39",
+        "lowest_price": 0.98,
+        "highest_price": 10.98
       }
     }
   },
@@ -1665,26 +1769,34 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_c17_large.25afd2b9a785c18987c1aebfd8873416f7965497.png",
     "price": {
+      "24_hours": {
+        "average": 0.26,
+        "median": 0.26,
+        "sold": "5",
+        "standard_deviation": "8",
+        "lowest_price": 0.24,
+        "highest_price": 0.3
+      },
       "7_days": {
         "average": 0.28,
         "median": 0.28,
-        "sold": "174",
-        "standard_deviation": "11.54",
-        "lowest_price": 0.17,
+        "sold": "223",
+        "standard_deviation": "7.69",
+        "lowest_price": 0.21,
         "highest_price": 0.31
       },
       "30_days": {
         "average": 0.29,
         "median": 0.29,
-        "sold": "1527",
+        "sold": "1511",
         "standard_deviation": "7.41",
         "lowest_price": 0.16,
         "highest_price": 0.32
       },
       "all_time": {
         "average": 0.43,
-        "median": 0.37,
-        "sold": "47631",
+        "median": 0.38,
+        "sold": "47809",
         "standard_deviation": "29.27",
         "lowest_price": 0.16,
         "highest_price": 0.79
@@ -1702,28 +1814,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_globalelite2_large.af50fd126bb48687763911e4248e1d5825aa531c.png",
     "price": {
       "7_days": {
-        "average": 2.39,
-        "median": 2.39,
-        "sold": "9",
-        "standard_deviation": "0.44",
-        "lowest_price": 2.38,
-        "highest_price": 2.4
+        "average": 2.4,
+        "median": 2.46,
+        "sold": "70",
+        "standard_deviation": "18.5",
+        "lowest_price": 0.91,
+        "highest_price": 2.8
       },
       "30_days": {
-        "average": 2.74,
-        "median": 2.92,
-        "sold": "237",
-        "standard_deviation": "19.69",
-        "lowest_price": 0.9,
-        "highest_price": 3.28
+        "average": 2.59,
+        "median": 2.69,
+        "sold": "279",
+        "standard_deviation": "20",
+        "lowest_price": 0.88,
+        "highest_price": 3.23
       },
       "all_time": {
         "average": 0.52,
-        "median": 0.72,
-        "sold": "58813",
-        "standard_deviation": "177.55",
+        "median": 0.7,
+        "sold": "58896",
+        "standard_deviation": "167.35",
         "lowest_price": 0.23,
-        "highest_price": 3.44
+        "highest_price": 3.24
       }
     }
   },
@@ -1737,26 +1849,34 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_masterguardian3_large.bc4a6065dbbb483a46dbaf7969d9068f03c84d2d.png",
     "price": {
+      "24_hours": {
+        "average": 1.76,
+        "median": 1.76,
+        "sold": "1",
+        "standard_deviation": "0",
+        "lowest_price": 1.76,
+        "highest_price": 1.76
+      },
       "7_days": {
-        "average": 1.83,
-        "median": 1.84,
-        "sold": "18",
-        "standard_deviation": "12.72",
-        "lowest_price": 1.04,
-        "highest_price": 1.96
+        "average": 1.81,
+        "median": 1.91,
+        "sold": "27",
+        "standard_deviation": "17.54",
+        "lowest_price": 0.91,
+        "highest_price": 2.02
       },
       "30_days": {
-        "average": 1.83,
-        "median": 1.85,
-        "sold": "98",
-        "standard_deviation": "13.87",
-        "lowest_price": 0.74,
+        "average": 1.82,
+        "median": 1.89,
+        "sold": "96",
+        "standard_deviation": "13.37",
+        "lowest_price": 0.91,
         "highest_price": 2.06
       },
       "all_time": {
         "average": 0.55,
         "median": 0.62,
-        "sold": "24907",
+        "sold": "24923",
         "standard_deviation": "94.23",
         "lowest_price": 0.26,
         "highest_price": 2.37
@@ -1773,29 +1893,37 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_goldnova4_large.8b14e84ad2cd95724d86661f6c6e347eab1f4a02.png",
     "price": {
+      "24_hours": {
+        "average": 1.07,
+        "median": 1.07,
+        "sold": "1",
+        "standard_deviation": "0",
+        "lowest_price": 1.07,
+        "highest_price": 1.07
+      },
       "7_days": {
-        "average": 1.24,
-        "median": 1.18,
-        "sold": "8",
-        "standard_deviation": "7.69",
-        "lowest_price": 1.08,
-        "highest_price": 1.35
+        "average": 1.08,
+        "median": 1.07,
+        "sold": "21",
+        "standard_deviation": "4.9",
+        "lowest_price": 0.96,
+        "highest_price": 1.16
       },
       "30_days": {
-        "average": 1.3,
-        "median": 1.32,
-        "sold": "84",
-        "standard_deviation": "12.2",
-        "lowest_price": 0.76,
-        "highest_price": 1.51
+        "average": 1.24,
+        "median": 1.25,
+        "sold": "100",
+        "standard_deviation": "11.11",
+        "lowest_price": 0.84,
+        "highest_price": 1.48
       },
       "all_time": {
         "average": 0.41,
-        "median": 0.5,
-        "sold": "25490",
-        "standard_deviation": "94.87",
+        "median": 0.49,
+        "sold": "25517",
+        "standard_deviation": "92.31",
         "lowest_price": 0.19,
-        "highest_price": 2
+        "highest_price": 1.97
       }
     }
   },
@@ -1810,28 +1938,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_abandon_hope_large.320d00ae5227e81f626056d043dc95f9102f3963.png",
     "price": {
       "7_days": {
-        "average": 13.09,
-        "median": 13.29,
-        "sold": "40",
-        "standard_deviation": "4.85",
-        "lowest_price": 11.32,
-        "highest_price": 14.02
+        "average": 13.59,
+        "median": 13.86,
+        "sold": "45",
+        "standard_deviation": "5.68",
+        "lowest_price": 11.86,
+        "highest_price": 14.77
       },
       "30_days": {
-        "average": 14.81,
-        "median": 14.69,
-        "sold": "228",
-        "standard_deviation": "10.86",
-        "lowest_price": 10.89,
-        "highest_price": 17.95
+        "average": 14.62,
+        "median": 14.15,
+        "sold": "221",
+        "standard_deviation": "11",
+        "lowest_price": 10.92,
+        "highest_price": 18.02
       },
       "all_time": {
-        "average": 1.22,
-        "median": 2.58,
-        "sold": "43159",
-        "standard_deviation": "445.22",
+        "average": 1.23,
+        "median": 2.5,
+        "sold": "43186",
+        "standard_deviation": "433.62",
         "lowest_price": 0.2,
-        "highest_price": 17.95
+        "highest_price": 18.02
       }
     }
   },
@@ -1846,28 +1974,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_anchor_large.0b9918fe1371a4914d503ce48c3ae6e0e10b5080.png",
     "price": {
       "7_days": {
-        "average": 2.25,
-        "median": 2.28,
+        "average": 2.26,
+        "median": 2.43,
         "sold": "50",
-        "standard_deviation": "12.68",
-        "lowest_price": 1.06,
+        "standard_deviation": "17.29",
+        "lowest_price": 1,
         "highest_price": 2.61
       },
       "30_days": {
-        "average": 2.21,
-        "median": 2.22,
-        "sold": "290",
-        "standard_deviation": "14.35",
+        "average": 2.23,
+        "median": 2.25,
+        "sold": "301",
+        "standard_deviation": "15.17",
         "lowest_price": 0.81,
-        "highest_price": 2.61
+        "highest_price": 2.62
       },
       "all_time": {
         "average": 0.33,
         "median": 0.6,
-        "sold": "43211",
-        "standard_deviation": "245.16",
+        "sold": "43240",
+        "standard_deviation": "248.39",
         "lowest_price": 0.08,
-        "highest_price": 2.95
+        "highest_price": 2.96
       }
     }
   },
@@ -1881,26 +2009,34 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_cruising_large.5ec27fb0c015535b71c65c1a49b0a23f8e50f685.png",
     "price": {
+      "24_hours": {
+        "average": 4.81,
+        "median": 4.81,
+        "sold": "6",
+        "standard_deviation": "0",
+        "lowest_price": 4.81,
+        "highest_price": 4.81
+      },
       "7_days": {
-        "average": 3.86,
-        "median": 3.65,
-        "sold": "37",
-        "standard_deviation": "10.14",
-        "lowest_price": 2.69,
-        "highest_price": 4.39
+        "average": 4.32,
+        "median": 4.4,
+        "sold": "57",
+        "standard_deviation": "16.18",
+        "lowest_price": 1,
+        "highest_price": 4.81
       },
       "30_days": {
-        "average": 4.62,
-        "median": 4.78,
-        "sold": "238",
-        "standard_deviation": "16.02",
-        "lowest_price": 0.97,
+        "average": 4.54,
+        "median": 4.69,
+        "sold": "251",
+        "standard_deviation": "17.02",
+        "lowest_price": 0.98,
         "highest_price": 5.98
       },
       "all_time": {
         "average": 0.44,
-        "median": 0.83,
-        "sold": "40643",
+        "median": 0.86,
+        "sold": "40690",
         "standard_deviation": "388.1",
         "lowest_price": 0.1,
         "highest_price": 5.98
@@ -1918,28 +2054,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_frog_skeleton_large.1c7a78d071c05b27ea260f7e4dba3612c78560b9.png",
     "price": {
       "7_days": {
-        "average": 186.37,
-        "median": 186.37,
-        "sold": "1",
-        "standard_deviation": "0",
-        "lowest_price": 186.37,
-        "highest_price": 186.37
+        "average": 230.52,
+        "median": 235.95,
+        "sold": "8",
+        "standard_deviation": "7.98",
+        "lowest_price": 192.18,
+        "highest_price": 244.09
       },
       "30_days": {
-        "average": 216.81,
-        "median": 217.94,
-        "sold": "15",
-        "standard_deviation": "10.55",
-        "lowest_price": 160.76,
-        "highest_price": 242.83
+        "average": 218.34,
+        "median": 218.66,
+        "sold": "22",
+        "standard_deviation": "10.29",
+        "lowest_price": 158.14,
+        "highest_price": 244.09
       },
       "all_time": {
-        "average": 11.82,
-        "median": 9.54,
-        "sold": "5472",
-        "standard_deviation": "432.41",
-        "lowest_price": 1.61,
-        "highest_price": 242.83
+        "average": 11.97,
+        "median": 9.67,
+        "sold": "5481",
+        "standard_deviation": "434.28",
+        "lowest_price": 1.59,
+        "highest_price": 244.09
       }
     }
   },
@@ -1954,28 +2090,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_mad_sushi_large.f6129615a53ed497ef1a3ad1d5c8d6bd1f7f6354.png",
     "price": {
       "7_days": {
-        "average": 2.39,
-        "median": 2.41,
-        "sold": "7",
-        "standard_deviation": "2.21",
-        "lowest_price": 2.31,
-        "highest_price": 2.48
+        "average": 2.21,
+        "median": 2.31,
+        "sold": "45",
+        "standard_deviation": "20.1",
+        "lowest_price": 0.87,
+        "highest_price": 2.55
       },
       "30_days": {
-        "average": 2.6,
-        "median": 2.53,
-        "sold": "197",
-        "standard_deviation": "14.63",
-        "lowest_price": 1,
-        "highest_price": 3.27
+        "average": 2.4,
+        "median": 2.41,
+        "sold": "214",
+        "standard_deviation": "14.98",
+        "lowest_price": 0.87,
+        "highest_price": 3.21
       },
       "all_time": {
-        "average": 0.34,
-        "median": 0.61,
-        "sold": "42348",
-        "standard_deviation": "306.25",
+        "average": 0.33,
+        "median": 0.59,
+        "sold": "42403",
+        "standard_deviation": "270.97",
         "lowest_price": 0.07,
-        "highest_price": 4.58
+        "highest_price": 3.55
       }
     }
   },
@@ -1989,29 +2125,37 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_pink_squid_large.22fe91d13b26950311fdbbe82177f70bc18291ec.png",
     "price": {
+      "24_hours": {
+        "average": 2.43,
+        "median": 2.43,
+        "sold": "1",
+        "standard_deviation": "0",
+        "lowest_price": 2.43,
+        "highest_price": 2.43
+      },
       "7_days": {
-        "average": 2.03,
-        "median": 2.31,
-        "sold": "10",
-        "standard_deviation": "21.88",
-        "lowest_price": 1.26,
-        "highest_price": 2.35
+        "average": 2.45,
+        "median": 2.52,
+        "sold": "40",
+        "standard_deviation": "12.5",
+        "lowest_price": 1.05,
+        "highest_price": 2.7
       },
       "30_days": {
-        "average": 2.41,
-        "median": 2.42,
-        "sold": "251",
-        "standard_deviation": "14.47",
-        "lowest_price": 0.75,
-        "highest_price": 2.71
+        "average": 2.4,
+        "median": 2.39,
+        "sold": "270",
+        "standard_deviation": "11.89",
+        "lowest_price": 0.88,
+        "highest_price": 2.7
       },
       "all_time": {
         "average": 0.35,
-        "median": 0.57,
-        "sold": "44375",
-        "standard_deviation": "251.52",
+        "median": 0.56,
+        "sold": "44424",
+        "standard_deviation": "248.48",
         "lowest_price": 0.08,
-        "highest_price": 3.62
+        "highest_price": 3.55
       }
     }
   },
@@ -2025,21 +2169,29 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_piranha_large.70f1ade5c948d9ac7f9ae14749b6904c4fd69e54.png",
     "price": {
+      "7_days": {
+        "average": 2.27,
+        "median": 2.34,
+        "sold": "31",
+        "standard_deviation": "7.91",
+        "lowest_price": 1.84,
+        "highest_price": 2.44
+      },
       "30_days": {
-        "average": 2.21,
-        "median": 2.31,
-        "sold": "166",
-        "standard_deviation": "14.83",
-        "lowest_price": 0.88,
-        "highest_price": 2.46
+        "average": 2.2,
+        "median": 2.3,
+        "sold": "207",
+        "standard_deviation": "13.94",
+        "lowest_price": 0.87,
+        "highest_price": 2.44
       },
       "all_time": {
         "average": 0.33,
-        "median": 0.68,
-        "sold": "39754",
-        "standard_deviation": "241.94",
+        "median": 0.65,
+        "sold": "39833",
+        "standard_deviation": "235.48",
         "lowest_price": 0.08,
-        "highest_price": 2.78
+        "highest_price": 2.75
       }
     }
   },
@@ -2054,28 +2206,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_siren_large.a165156185914a185fcd197460537339f9993303.png",
     "price": {
       "7_days": {
-        "average": 10.55,
-        "median": 10.79,
-        "sold": "9",
-        "standard_deviation": "5.32",
+        "average": 10.48,
+        "median": 10.83,
+        "sold": "10",
+        "standard_deviation": "6.16",
         "lowest_price": 9.49,
-        "highest_price": 11.04
+        "highest_price": 11.05
       },
       "30_days": {
-        "average": 10.8,
-        "median": 10.91,
-        "sold": "67",
-        "standard_deviation": "8.91",
+        "average": 10.76,
+        "median": 10.94,
+        "sold": "63",
+        "standard_deviation": "9.24",
         "lowest_price": 6.56,
-        "highest_price": 12.55
+        "highest_price": 12.56
       },
       "all_time": {
         "average": 1.11,
         "median": 1.94,
-        "sold": "14093",
-        "standard_deviation": "320.95",
+        "sold": "14101",
+        "standard_deviation": "318.1",
         "lowest_price": 0.2,
-        "highest_price": 13.66
+        "highest_price": 13.67
       }
     }
   },
@@ -2089,29 +2241,37 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_skull_crossswords_large.c681792eed260dd56ff93c0a861c5c4f18d55c0e.png",
     "price": {
+      "24_hours": {
+        "average": 62.29,
+        "median": 62.29,
+        "sold": "1",
+        "standard_deviation": "0",
+        "lowest_price": 62.29,
+        "highest_price": 62.29
+      },
       "7_days": {
-        "average": 66.83,
-        "median": 65.85,
-        "sold": "10",
-        "standard_deviation": "4.24",
-        "lowest_price": 64.78,
-        "highest_price": 74.39
+        "average": 64.67,
+        "median": 63.43,
+        "sold": "9",
+        "standard_deviation": "7.23",
+        "lowest_price": 58.25,
+        "highest_price": 74.43
       },
       "30_days": {
-        "average": 78.19,
-        "median": 75.17,
-        "sold": "61",
-        "standard_deviation": "11.04",
-        "lowest_price": 64.78,
-        "highest_price": 97.67
+        "average": 75,
+        "median": 74.27,
+        "sold": "56",
+        "standard_deviation": "12.33",
+        "lowest_price": 58.25,
+        "highest_price": 97.71
       },
       "all_time": {
-        "average": 4.56,
-        "median": 10.66,
-        "sold": "15974",
-        "standard_deviation": "486.54",
+        "average": 4.59,
+        "median": 10.67,
+        "sold": "15980",
+        "standard_deviation": "472.81",
         "lowest_price": 0.94,
-        "highest_price": 98.61
+        "highest_price": 98.66
       }
     }
   },
@@ -2126,28 +2286,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_sunset_wave_large.8b26780cf440601c0618e13875412a6b376d0d6c.png",
     "price": {
       "7_days": {
-        "average": 15.54,
-        "median": 15.43,
-        "sold": "4",
-        "standard_deviation": "2.65",
-        "lowest_price": 15.17,
-        "highest_price": 16.14
+        "average": 16.38,
+        "median": 15.94,
+        "sold": "21",
+        "standard_deviation": "9.5",
+        "lowest_price": 13.75,
+        "highest_price": 18.62
       },
       "30_days": {
-        "average": 18.49,
-        "median": 19.31,
-        "sold": "41",
-        "standard_deviation": "8.41",
-        "lowest_price": 15.17,
-        "highest_price": 20.89
+        "average": 17.4,
+        "median": 17.93,
+        "sold": "63",
+        "standard_deviation": "10.88",
+        "lowest_price": 13.75,
+        "highest_price": 20.55
       },
       "all_time": {
-        "average": 2.03,
-        "median": 2.98,
-        "sold": "15267",
-        "standard_deviation": "271.35",
-        "lowest_price": 0.47,
-        "highest_price": 20.89
+        "average": 2.02,
+        "median": 2.94,
+        "sold": "15292",
+        "standard_deviation": "269.11",
+        "lowest_price": 0.45,
+        "highest_price": 20.55
       }
     }
   },
@@ -2162,28 +2322,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_fish_go_large.8566c56f42038f76b3ef92543d40867871f752ea.png",
     "price": {
       "7_days": {
-        "average": 40.4,
-        "median": 40.4,
-        "sold": "1",
-        "standard_deviation": "0",
-        "lowest_price": 40.4,
-        "highest_price": 40.4
+        "average": 42.07,
+        "median": 42.96,
+        "sold": "3",
+        "standard_deviation": "6.31",
+        "lowest_price": 40.3,
+        "highest_price": 45.62
       },
       "30_days": {
-        "average": 46.85,
-        "median": 47.74,
-        "sold": "16",
-        "standard_deviation": "7.27",
-        "lowest_price": 40.4,
-        "highest_price": 50.23
+        "average": 45.29,
+        "median": 46.04,
+        "sold": "17",
+        "standard_deviation": "7.94",
+        "lowest_price": 39.73,
+        "highest_price": 49.4
       },
       "all_time": {
-        "average": 3.92,
-        "median": 3.95,
-        "sold": "5019",
-        "standard_deviation": "291.37",
-        "lowest_price": 0.68,
-        "highest_price": 50.25
+        "average": 3.88,
+        "median": 3.79,
+        "sold": "5022",
+        "standard_deviation": "286.1",
+        "lowest_price": 0.67,
+        "highest_price": 49.4
       }
     }
   },
@@ -2198,28 +2358,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_cthulhu_large.b3885a847dbcf13d2eccf1953467553fbcac2609.png",
     "price": {
       "7_days": {
-        "average": 50.34,
-        "median": 50.34,
-        "sold": "1",
-        "standard_deviation": "0",
-        "lowest_price": 50.34,
-        "highest_price": 50.34
+        "average": 48.15,
+        "median": 52.41,
+        "sold": "10",
+        "standard_deviation": "26.43",
+        "lowest_price": 28.48,
+        "highest_price": 59.97
       },
       "30_days": {
-        "average": 55.04,
-        "median": 57.23,
-        "sold": "22",
-        "standard_deviation": "8.46",
-        "lowest_price": 49.22,
-        "highest_price": 62.11
+        "average": 51.78,
+        "median": 54.33,
+        "sold": "28",
+        "standard_deviation": "14.63",
+        "lowest_price": 28.48,
+        "highest_price": 61.09
       },
       "all_time": {
         "average": 5.01,
         "median": 4.98,
-        "sold": "4722",
-        "standard_deviation": "367.72",
-        "lowest_price": 0.83,
-        "highest_price": 78.43
+        "sold": "4732",
+        "standard_deviation": "361.81",
+        "lowest_price": 0.81,
+        "highest_price": 77.15
       }
     }
   },
@@ -2234,28 +2394,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_meal_time_large.0b7a3f90ccf1b44477a45af28d5c4b0d6a3b92e9.png",
     "price": {
       "7_days": {
-        "average": 11.94,
-        "median": 11.94,
-        "sold": "1",
-        "standard_deviation": "0",
-        "lowest_price": 11.94,
-        "highest_price": 11.94
+        "average": 14.06,
+        "median": 13.96,
+        "sold": "15",
+        "standard_deviation": "6.77",
+        "lowest_price": 12.2,
+        "highest_price": 15.72
       },
       "30_days": {
-        "average": 11.86,
-        "median": 12.06,
-        "sold": "56",
-        "standard_deviation": "8.83",
-        "lowest_price": 6.07,
-        "highest_price": 13.06
+        "average": 12.29,
+        "median": 12.18,
+        "sold": "72",
+        "standard_deviation": "11.62",
+        "lowest_price": 5.97,
+        "highest_price": 15.72
       },
       "all_time": {
         "average": 1.21,
-        "median": 2.67,
-        "sold": "12355",
-        "standard_deviation": "288.6",
-        "lowest_price": 0.3,
-        "highest_price": 13.49
+        "median": 2.66,
+        "sold": "12379",
+        "standard_deviation": "304.39",
+        "lowest_price": 0.29,
+        "highest_price": 15.72
       }
     }
   },
@@ -2270,18 +2430,18 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_nip_large.0e3bf9d3c7cab8fb86233992b6f4a569071b9992.png",
     "price": {
       "7_days": {
-        "average": 9.21,
-        "median": 9.18,
-        "sold": "6",
-        "standard_deviation": "1.49",
-        "lowest_price": 9.02,
+        "average": 9.38,
+        "median": 9.38,
+        "sold": "2",
+        "standard_deviation": "0",
+        "lowest_price": 9.38,
         "highest_price": 9.38
       },
       "30_days": {
-        "average": 9.18,
-        "median": 9.08,
-        "sold": "57",
-        "standard_deviation": "6.57",
+        "average": 9.21,
+        "median": 9.11,
+        "sold": "51",
+        "standard_deviation": "6.89",
         "lowest_price": 8.63,
         "highest_price": 11.29
       },
@@ -2316,19 +2476,19 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_furi_large.e28c916c72d0729bf5a1af3ae1d18cbf1bfb9d92.png",
     "price": {
       "7_days": {
-        "average": 12.58,
+        "average": 11.8,
         "median": 11.8,
-        "sold": "3",
-        "standard_deviation": "9",
-        "lowest_price": 11.75,
-        "highest_price": 14.18
+        "sold": "1",
+        "standard_deviation": "0",
+        "lowest_price": 11.8,
+        "highest_price": 11.8
       },
       "30_days": {
-        "average": 13.95,
+        "average": 14.06,
         "median": 13.68,
-        "sold": "45",
-        "standard_deviation": "9.25",
-        "lowest_price": 11.27,
+        "sold": "37",
+        "standard_deviation": "9.18",
+        "lowest_price": 11.51,
         "highest_price": 15.94
       },
       "all_time": {
@@ -2362,28 +2522,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_navi_large.4468eb72f310c700d752caafc605b9c963c4d2d7.png",
     "price": {
       "7_days": {
-        "average": 13.73,
-        "median": 14.41,
-        "sold": "5",
-        "standard_deviation": "8.24",
-        "lowest_price": 12.32,
-        "highest_price": 14.86
+        "average": 13.19,
+        "median": 12.77,
+        "sold": "10",
+        "standard_deviation": "7.7",
+        "lowest_price": 12.09,
+        "highest_price": 14.76
       },
       "30_days": {
-        "average": 14.79,
-        "median": 14.56,
-        "sold": "49",
-        "standard_deviation": "9.59",
-        "lowest_price": 11.05,
+        "average": 14.5,
+        "median": 14.21,
+        "sold": "48",
+        "standard_deviation": "10.21",
+        "lowest_price": 11.07,
         "highest_price": 17.45
       },
       "all_time": {
-        "average": 6.71,
-        "median": 9,
-        "sold": "8706",
-        "standard_deviation": "83.28",
+        "average": 6.72,
+        "median": 9.01,
+        "sold": "8714",
+        "standard_deviation": "82.83",
         "lowest_price": 3.08,
-        "highest_price": 28.95
+        "highest_price": 28.97
       }
     }
   },
@@ -2408,18 +2568,18 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_vita_large.d209414f14d36dee94b6cc48279b37744a819d8c.png",
     "price": {
       "7_days": {
-        "average": 10.01,
-        "median": 9.85,
-        "sold": "7",
-        "standard_deviation": "3.91",
+        "average": 9.59,
+        "median": 9.63,
+        "sold": "3",
+        "standard_deviation": "1.1",
         "lowest_price": 9.52,
-        "highest_price": 10.64
+        "highest_price": 9.73
       },
       "30_days": {
-        "average": 10.56,
+        "average": 10.59,
         "median": 10.37,
-        "sold": "33",
-        "standard_deviation": "6.51",
+        "sold": "29",
+        "standard_deviation": "6.79",
         "lowest_price": 9.52,
         "highest_price": 11.69
       },
@@ -2453,21 +2613,29 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_liq_large.668048a3b59f47cb317c345767529a0884ef3877.png",
     "price": {
+      "7_days": {
+        "average": 8.71,
+        "median": 8.39,
+        "sold": "7",
+        "standard_deviation": "10.21",
+        "lowest_price": 7.94,
+        "highest_price": 10.59
+      },
       "30_days": {
-        "average": 11.07,
-        "median": 10.97,
-        "sold": "50",
-        "standard_deviation": "12.72",
-        "lowest_price": 4.56,
-        "highest_price": 12.81
+        "average": 10.64,
+        "median": 10.38,
+        "sold": "56",
+        "standard_deviation": "14.02",
+        "lowest_price": 4.49,
+        "highest_price": 12.61
       },
       "all_time": {
-        "average": 2.57,
-        "median": 3,
-        "sold": "8287",
-        "standard_deviation": "167.9",
-        "lowest_price": 0.57,
-        "highest_price": 17.98
+        "average": 2.54,
+        "median": 2.93,
+        "sold": "8296",
+        "standard_deviation": "165.42",
+        "lowest_price": 0.56,
+        "highest_price": 17.69
       }
     }
   },
@@ -2491,19 +2659,11 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_gamb_large.059001ec25d4f6e742240ac74eb3d85e86bfb44e.png",
     "price": {
-      "7_days": {
-        "average": 5.47,
-        "median": 5.26,
-        "sold": "4",
-        "standard_deviation": "6",
-        "lowest_price": 5.01,
-        "highest_price": 5.81
-      },
       "30_days": {
-        "average": 5.96,
-        "median": 5.84,
-        "sold": "67",
-        "standard_deviation": "11.55",
+        "average": 5.95,
+        "median": 5.81,
+        "sold": "65",
+        "standard_deviation": "11.57",
         "lowest_price": 4.26,
         "highest_price": 7.23
       },
@@ -2538,18 +2698,18 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_g2_large.e414642dbe26ac23e38c090cde925a9e7ce70ec3.png",
     "price": {
       "7_days": {
-        "average": 14.85,
-        "median": 14.85,
-        "sold": "2",
-        "standard_deviation": "3.85",
-        "lowest_price": 14.28,
+        "average": 15.42,
+        "median": 15.42,
+        "sold": "1",
+        "standard_deviation": "0",
+        "lowest_price": 15.42,
         "highest_price": 15.42
       },
       "30_days": {
-        "average": 15.7,
+        "average": 15.68,
         "median": 15.67,
-        "sold": "18",
-        "standard_deviation": "5.93",
+        "sold": "15",
+        "standard_deviation": "6.21",
         "lowest_price": 14.18,
         "highest_price": 17.41
       },
@@ -2583,29 +2743,37 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_evl_large.bde93269322473339f21ce4f51ad9a90d3b0c8c8.png",
     "price": {
+      "24_hours": {
+        "average": 4.06,
+        "median": 4.06,
+        "sold": "1",
+        "standard_deviation": "0",
+        "lowest_price": 4.06,
+        "highest_price": 4.06
+      },
       "7_days": {
-        "average": 4.83,
-        "median": 4.83,
-        "sold": "2",
-        "standard_deviation": "0.44",
-        "lowest_price": 4.82,
-        "highest_price": 4.86
+        "average": 4.28,
+        "median": 4.39,
+        "sold": "34",
+        "standard_deviation": "7.16",
+        "lowest_price": 3.92,
+        "highest_price": 4.95
       },
       "30_days": {
-        "average": 4.93,
-        "median": 5.01,
-        "sold": "37",
-        "standard_deviation": "9.44",
-        "lowest_price": 4.01,
-        "highest_price": 5.83
+        "average": 4.58,
+        "median": 4.75,
+        "sold": "71",
+        "standard_deviation": "10.62",
+        "lowest_price": 3.92,
+        "highest_price": 5.73
       },
       "all_time": {
-        "average": 1.31,
-        "median": 1.49,
-        "sold": "9606",
-        "standard_deviation": "162.1",
+        "average": 1.3,
+        "median": 1.52,
+        "sold": "9641",
+        "standard_deviation": "160.16",
         "lowest_price": 0.29,
-        "highest_price": 8.31
+        "highest_price": 8.18
       }
     }
   },
@@ -2629,21 +2797,29 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_spir_large.889c3c64defd525077ac9b7d82df2d59abbb5302.png",
     "price": {
+      "7_days": {
+        "average": 16.71,
+        "median": 16.71,
+        "sold": "1",
+        "standard_deviation": "0",
+        "lowest_price": 16.71,
+        "highest_price": 16.71
+      },
       "30_days": {
-        "average": 17.59,
-        "median": 17.55,
-        "sold": "6",
-        "standard_deviation": "3.01",
-        "lowest_price": 16.87,
-        "highest_price": 18.5
+        "average": 17.34,
+        "median": 17.06,
+        "sold": "10",
+        "standard_deviation": "4.09",
+        "lowest_price": 16.67,
+        "highest_price": 18.83
       },
       "all_time": {
-        "average": 5.05,
-        "median": 6.07,
-        "sold": "2730",
-        "standard_deviation": "144.44",
-        "lowest_price": 0.98,
-        "highest_price": 36.38
+        "average": 5,
+        "median": 6.2,
+        "sold": "2734",
+        "standard_deviation": "144.4",
+        "lowest_price": 0.97,
+        "highest_price": 35.96
       }
     }
   },
@@ -2667,21 +2843,29 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_astr_large.a09102f73e594af31bdfac441bb236cadf0bd2ac.png",
     "price": {
+      "7_days": {
+        "average": 27.69,
+        "median": 27.69,
+        "sold": "1",
+        "standard_deviation": "0",
+        "lowest_price": 27.69,
+        "highest_price": 27.69
+      },
       "30_days": {
-        "average": 25.08,
-        "median": 26.04,
+        "average": 25.81,
+        "median": 26.12,
         "sold": "9",
-        "standard_deviation": "8.18",
-        "lowest_price": 21.22,
-        "highest_price": 26.82
+        "standard_deviation": "6.52",
+        "lowest_price": 21.63,
+        "highest_price": 27.69
       },
       "all_time": {
-        "average": 7.74,
-        "median": 6.46,
-        "sold": "2523",
-        "standard_deviation": "123.09",
+        "average": 7.75,
+        "median": 6.48,
+        "sold": "2524",
+        "standard_deviation": "123.19",
         "lowest_price": 1.77,
-        "highest_price": 43.52
+        "highest_price": 43.54
       }
     }
   },
@@ -2706,28 +2890,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_pain_large.4558b6024c07da001a4f98f6a593bff476cc89fa.png",
     "price": {
       "7_days": {
-        "average": 15.04,
-        "median": 15.2,
-        "sold": "10",
-        "standard_deviation": "4.22",
-        "lowest_price": 13.83,
-        "highest_price": 15.76
+        "average": 14.55,
+        "median": 14.26,
+        "sold": "6",
+        "standard_deviation": "5.89",
+        "lowest_price": 13.49,
+        "highest_price": 15.6
       },
       "30_days": {
-        "average": 15.49,
-        "median": 15.78,
-        "sold": "30",
-        "standard_deviation": "5.53",
-        "lowest_price": 13.7,
-        "highest_price": 16.81
+        "average": 15.38,
+        "median": 15.64,
+        "sold": "33",
+        "standard_deviation": "6.26",
+        "lowest_price": 13.49,
+        "highest_price": 16.82
       },
       "all_time": {
-        "average": 3.53,
-        "median": 2.94,
-        "sold": "2915",
-        "standard_deviation": "151.8",
+        "average": 3.54,
+        "median": 2.95,
+        "sold": "2918",
+        "standard_deviation": "151.94",
         "lowest_price": 0.56,
-        "highest_price": 23.26
+        "highest_price": 23.27
       }
     }
   },
@@ -2751,29 +2935,37 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_ence_large.49f492715c622ff79a0306b043ed506dad2ad22c.png",
     "price": {
-      "7_days": {
-        "average": 11.33,
-        "median": 11.33,
+      "24_hours": {
+        "average": 9.81,
+        "median": 9.81,
         "sold": "1",
         "standard_deviation": "0",
-        "lowest_price": 11.33,
-        "highest_price": 11.33
+        "lowest_price": 9.81,
+        "highest_price": 9.81
+      },
+      "7_days": {
+        "average": 10.48,
+        "median": 10.25,
+        "sold": "9",
+        "standard_deviation": "5.75",
+        "lowest_price": 9.81,
+        "highest_price": 11.74
       },
       "30_days": {
-        "average": 13.06,
-        "median": 13.69,
-        "sold": "8",
-        "standard_deviation": "12.06",
-        "lowest_price": 10.72,
-        "highest_price": 14.7
+        "average": 11.39,
+        "median": 10.86,
+        "sold": "17",
+        "standard_deviation": "13.46",
+        "lowest_price": 9.81,
+        "highest_price": 14.46
       },
       "all_time": {
-        "average": 3.62,
-        "median": 4.26,
-        "sold": "2655",
-        "standard_deviation": "136.84",
-        "lowest_price": 0.9,
-        "highest_price": 23.35
+        "average": 3.59,
+        "median": 4.31,
+        "sold": "2665",
+        "standard_deviation": "135.69",
+        "lowest_price": 0.89,
+        "highest_price": 22.97
       }
     }
   },
@@ -2797,29 +2989,21 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_big_large.676e3ed949b6459faf7f218d2c38a919f01b80c1.png",
     "price": {
-      "7_days": {
-        "average": 26.17,
-        "median": 26.17,
-        "sold": "1",
-        "standard_deviation": "0",
-        "lowest_price": 26.17,
-        "highest_price": 26.17
-      },
       "30_days": {
-        "average": 27.07,
-        "median": 27.2,
-        "sold": "11",
-        "standard_deviation": "6.84",
-        "lowest_price": 23.3,
-        "highest_price": 29.03
+        "average": 27.22,
+        "median": 27.72,
+        "sold": "9",
+        "standard_deviation": "7.31",
+        "lowest_price": 23.38,
+        "highest_price": 29.11
       },
       "all_time": {
-        "average": 5.84,
-        "median": 5.49,
+        "average": 5.86,
+        "median": 5.5,
         "sold": "2572",
-        "standard_deviation": "156.7",
+        "standard_deviation": "156.68",
         "lowest_price": 1.57,
-        "highest_price": 38.54
+        "highest_price": 38.65
       }
     }
   },
@@ -2844,10 +3028,10 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_ride_large.fcd595293ab74af1a58a59a6f1e8ef5cc1e26985.png",
     "price": {
       "7_days": {
-        "average": 15.9,
+        "average": 15.92,
         "median": 15.84,
-        "sold": "6",
-        "standard_deviation": "0.93",
+        "sold": "4",
+        "standard_deviation": "1.06",
         "lowest_price": 15.8,
         "highest_price": 16.22
       },
@@ -2890,28 +3074,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_hero_large.2885f1815249ece4c23dc084ef6a89255a06e3be.png",
     "price": {
       "7_days": {
-        "average": 14.79,
-        "median": 14.65,
-        "sold": "3",
-        "standard_deviation": "2.79",
-        "lowest_price": 14.25,
-        "highest_price": 15.06
+        "average": 14.19,
+        "median": 14.19,
+        "sold": "1",
+        "standard_deviation": "0",
+        "lowest_price": 14.19,
+        "highest_price": 14.19
       },
       "30_days": {
-        "average": 16.17,
-        "median": 16.41,
-        "sold": "11",
-        "standard_deviation": "7.59",
-        "lowest_price": 14.25,
-        "highest_price": 18.04
+        "average": 15.78,
+        "median": 15.34,
+        "sold": "10",
+        "standard_deviation": "8.58",
+        "lowest_price": 14.19,
+        "highest_price": 18.05
       },
       "all_time": {
-        "average": 4.41,
-        "median": 3.29,
-        "sold": "2764",
-        "standard_deviation": "187.05",
+        "average": 4.42,
+        "median": 3.3,
+        "sold": "2765",
+        "standard_deviation": "186.6",
         "lowest_price": 0.59,
-        "highest_price": 44.49
+        "highest_price": 44.51
       }
     }
   },
@@ -2936,28 +3120,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_mouz_large.e8bb5c0508ae364670d086c3ae1be3982fe1edc0.png",
     "price": {
       "7_days": {
-        "average": 57.7,
-        "median": 57.7,
-        "sold": "2",
-        "standard_deviation": "0.84",
-        "lowest_price": 57.21,
-        "highest_price": 58.18
+        "average": 55.63,
+        "median": 55.64,
+        "sold": "4",
+        "standard_deviation": "3.69",
+        "lowest_price": 53.02,
+        "highest_price": 58.21
       },
       "30_days": {
-        "average": 63.96,
-        "median": 64.83,
-        "sold": "18",
-        "standard_deviation": "6.78",
-        "lowest_price": 57.21,
-        "highest_price": 70.46
+        "average": 62.42,
+        "median": 62.2,
+        "sold": "20",
+        "standard_deviation": "8.27",
+        "lowest_price": 53.02,
+        "highest_price": 70.5
       },
       "all_time": {
-        "average": 13.13,
-        "median": 11.78,
-        "sold": "3038",
-        "standard_deviation": "201.37",
+        "average": 13.18,
+        "median": 11.85,
+        "sold": "3041",
+        "standard_deviation": "200.72",
         "lowest_price": 0.93,
-        "highest_price": 113.03
+        "highest_price": 113.09
       }
     }
   },
@@ -2981,21 +3165,29 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_shrk_large.1cb725038d43ecd1be346c0272d6fc238b7468e3.png",
     "price": {
+      "7_days": {
+        "average": 10.72,
+        "median": 10.64,
+        "sold": "11",
+        "standard_deviation": "5.13",
+        "lowest_price": 9.72,
+        "highest_price": 11.26
+      },
       "30_days": {
-        "average": 12.37,
-        "median": 11.48,
-        "sold": "6",
-        "standard_deviation": "11.04",
-        "lowest_price": 11.36,
-        "highest_price": 14.44
+        "average": 11.07,
+        "median": 11.18,
+        "sold": "17",
+        "standard_deviation": "9.08",
+        "lowest_price": 9.72,
+        "highest_price": 13.74
       },
       "all_time": {
-        "average": 2.63,
-        "median": 2.23,
-        "sold": "3634",
-        "standard_deviation": "183.94",
+        "average": 2.61,
+        "median": 2.24,
+        "sold": "3646",
+        "standard_deviation": "183.4",
         "lowest_price": 0.44,
-        "highest_price": 19.66
+        "highest_price": 19.33
       }
     }
   },
@@ -3019,21 +3211,29 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_tyl_large.82636dae0320b6712c3795081579c9a5506d943b.png",
     "price": {
+      "7_days": {
+        "average": 46.4,
+        "median": 47.54,
+        "sold": "7",
+        "standard_deviation": "6.45",
+        "lowest_price": 39.49,
+        "highest_price": 48.68
+      },
       "30_days": {
-        "average": 51.66,
-        "median": 53.49,
-        "sold": "14",
-        "standard_deviation": "7.29",
-        "lowest_price": 46.99,
-        "highest_price": 56.32
+        "average": 48.69,
+        "median": 47.87,
+        "sold": "19",
+        "standard_deviation": "7.84",
+        "lowest_price": 39.49,
+        "highest_price": 54.35
       },
       "all_time": {
-        "average": 10.57,
-        "median": 9.1,
-        "sold": "3676",
-        "standard_deviation": "185.29",
-        "lowest_price": 3.01,
-        "highest_price": 78.86
+        "average": 10.46,
+        "median": 8.97,
+        "sold": "3683",
+        "standard_deviation": "184.93",
+        "lowest_price": 2.96,
+        "highest_price": 77.57
       }
     }
   },
@@ -3058,28 +3258,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_ren_large.5652c2e4c96531a39c873f9a110deea05f476b0b.png",
     "price": {
       "7_days": {
-        "average": 7.37,
-        "median": 7.63,
-        "sold": "4",
-        "standard_deviation": "6.31",
-        "lowest_price": 6.57,
-        "highest_price": 7.67
+        "average": 7.07,
+        "median": 7.09,
+        "sold": "6",
+        "standard_deviation": "8.83",
+        "lowest_price": 6.2,
+        "highest_price": 7.79
       },
       "30_days": {
-        "average": 8.44,
-        "median": 8.12,
-        "sold": "15",
-        "standard_deviation": "11.65",
-        "lowest_price": 6.57,
-        "highest_price": 10.38
+        "average": 8,
+        "median": 7.73,
+        "sold": "17",
+        "standard_deviation": "12.83",
+        "lowest_price": 6.2,
+        "highest_price": 10.39
       },
       "all_time": {
-        "average": 1.94,
+        "average": 1.95,
         "median": 1.77,
-        "sold": "4239",
-        "standard_deviation": "180.87",
+        "sold": "4243",
+        "standard_deviation": "179.35",
         "lowest_price": 0.36,
-        "highest_price": 15.32
+        "highest_price": 15.33
       }
     }
   },
@@ -3104,28 +3304,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_ent_large.ec0145cee0116f689c7686f16078684be25db511.png",
     "price": {
       "7_days": {
-        "average": 8.83,
-        "median": 8.83,
-        "sold": "2",
-        "standard_deviation": "0.12",
-        "lowest_price": 8.82,
-        "highest_price": 8.85
+        "average": 7.71,
+        "median": 7.78,
+        "sold": "4",
+        "standard_deviation": "2.61",
+        "lowest_price": 7.38,
+        "highest_price": 7.9
       },
       "30_days": {
-        "average": 9.72,
-        "median": 9.39,
-        "sold": "23",
-        "standard_deviation": "5.88",
-        "lowest_price": 8.82,
+        "average": 9.4,
+        "median": 9.2,
+        "sold": "26",
+        "standard_deviation": "9.56",
+        "lowest_price": 7.38,
         "highest_price": 10.49
       },
       "all_time": {
-        "average": 2.68,
-        "median": 2.33,
-        "sold": "4522",
-        "standard_deviation": "162.06",
+        "average": 2.69,
+        "median": 2.36,
+        "sold": "4526",
+        "standard_deviation": "161.02",
         "lowest_price": 0.52,
-        "highest_price": 23.1
+        "highest_price": 23.11
       }
     }
   },
@@ -3150,28 +3350,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_god_large.2f147dbda5a8c55c94848dc331de8a4a1c29596d.png",
     "price": {
       "7_days": {
-        "average": 10.22,
-        "median": 10.22,
-        "sold": "2",
-        "standard_deviation": "4.76",
-        "lowest_price": 9.74,
-        "highest_price": 10.71
+        "average": 10.13,
+        "median": 9.98,
+        "sold": "3",
+        "standard_deviation": "2.71",
+        "lowest_price": 9.91,
+        "highest_price": 10.53
       },
       "30_days": {
-        "average": 11.95,
-        "median": 12.3,
-        "sold": "17",
-        "standard_deviation": "9.12",
+        "average": 11.59,
+        "median": 12.03,
+        "sold": "18",
+        "standard_deviation": "10.95",
         "lowest_price": 9.74,
-        "highest_price": 13.5
+        "highest_price": 13.41
       },
       "all_time": {
-        "average": 3.26,
-        "median": 2.8,
-        "sold": "4450",
-        "standard_deviation": "128.25",
+        "average": 3.27,
+        "median": 2.81,
+        "sold": "4453",
+        "standard_deviation": "127.83",
         "lowest_price": 0.65,
-        "highest_price": 19.21
+        "highest_price": 19.22
       }
     }
   },
@@ -3196,28 +3396,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_vp_large.4b675f9df4c4611eea9a5f07a6d6a30a0f9f5622.png",
     "price": {
       "7_days": {
-        "average": 13.67,
-        "median": 13.67,
-        "sold": "1",
-        "standard_deviation": "0",
-        "lowest_price": 13.67,
-        "highest_price": 13.67
+        "average": 14.14,
+        "median": 13.76,
+        "sold": "3",
+        "standard_deviation": "4.79",
+        "lowest_price": 13.57,
+        "highest_price": 15.1
       },
       "30_days": {
-        "average": 14.43,
-        "median": 14.63,
-        "sold": "20",
-        "standard_deviation": "5.94",
+        "average": 14.47,
+        "median": 14.68,
+        "sold": "21",
+        "standard_deviation": "5.85",
         "lowest_price": 13.34,
-        "highest_price": 15.94
+        "highest_price": 15.95
       },
       "all_time": {
-        "average": 4.14,
-        "median": 4.63,
-        "sold": "4255",
-        "standard_deviation": "157.8",
+        "average": 4.15,
+        "median": 4.64,
+        "sold": "4258",
+        "standard_deviation": "157.65",
         "lowest_price": 0.73,
-        "highest_price": 30.9
+        "highest_price": 30.91
       }
     }
   },
@@ -3241,21 +3441,29 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_cope_large.ac8a764ce120a2f61223c7c698441058af5c25f0.png",
     "price": {
+      "7_days": {
+        "average": 14.64,
+        "median": 15.19,
+        "sold": "8",
+        "standard_deviation": "8.6",
+        "lowest_price": 13.41,
+        "highest_price": 16.46
+      },
       "30_days": {
-        "average": 18.05,
-        "median": 18.1,
-        "sold": "27",
-        "standard_deviation": "7.91",
-        "lowest_price": 15.94,
-        "highest_price": 21.19
+        "average": 17.06,
+        "median": 17.79,
+        "sold": "32",
+        "standard_deviation": "10.6",
+        "lowest_price": 13.41,
+        "highest_price": 20.84
       },
       "all_time": {
-        "average": 4.89,
-        "median": 3.28,
-        "sold": "3919",
-        "standard_deviation": "143.51",
-        "lowest_price": 0.74,
-        "highest_price": 33.74
+        "average": 4.82,
+        "median": 3.27,
+        "sold": "3927",
+        "standard_deviation": "143.2",
+        "lowest_price": 0.73,
+        "highest_price": 33.19
       }
     }
   },
@@ -3280,28 +3488,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_faze_large.51489dee7a41ff28a879c4763b0dca9b4fa4a175.png",
     "price": {
       "7_days": {
-        "average": 38.36,
-        "median": 38.36,
+        "average": 28.75,
+        "median": 28.75,
         "sold": "2",
-        "standard_deviation": "1.35",
-        "lowest_price": 37.84,
-        "highest_price": 38.89
+        "standard_deviation": "22.08",
+        "lowest_price": 22.39,
+        "highest_price": 35.1
       },
       "30_days": {
-        "average": 34.32,
-        "median": 35.07,
+        "average": 33.79,
+        "median": 34.99,
         "sold": "24",
-        "standard_deviation": "7.64",
-        "lowest_price": 30.52,
-        "highest_price": 38.89
+        "standard_deviation": "10.43",
+        "lowest_price": 22.39,
+        "highest_price": 39
       },
       "all_time": {
-        "average": 6.65,
-        "median": 10.79,
-        "sold": "3481",
-        "standard_deviation": "172.97",
-        "lowest_price": 1.32,
-        "highest_price": 49.32
+        "average": 6.69,
+        "median": 10.86,
+        "sold": "3483",
+        "standard_deviation": "172.78",
+        "lowest_price": 1.33,
+        "highest_price": 49.47
       }
     }
   },
@@ -3325,21 +3533,13 @@
     },
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_pgl_large.7e4744a2c76a90b8b37fa6e56d73b774ba7d7b8a.png",
     "price": {
-      "7_days": {
-        "average": 2.97,
-        "median": 3.07,
-        "sold": "6",
-        "standard_deviation": "6.05",
-        "lowest_price": 2.73,
-        "highest_price": 3.15
-      },
       "30_days": {
-        "average": 3.28,
-        "median": 3.34,
-        "sold": "84",
-        "standard_deviation": "18.71",
+        "average": 3.22,
+        "median": 3.31,
+        "sold": "74",
+        "standard_deviation": "19.41",
         "lowest_price": 0.88,
-        "highest_price": 4.13
+        "highest_price": 3.97
       },
       "all_time": {
         "average": 1.21,
