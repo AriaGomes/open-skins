@@ -35,6 +35,7 @@ export default function Skins() {
                   souvenir={skin.souvenir}
                   image={skin.image}
                   price={skin.price?.["7_days"]?.median}
+                  hasFloat
                 />
               </Link>
             ))}

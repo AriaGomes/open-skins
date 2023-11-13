@@ -15,6 +15,7 @@ type CardProps = {
   stattrak?: boolean;
   souvenir?: boolean;
   image: string;
+  hasFloat?: boolean;
 };
 export const Card = ({
   name,
@@ -25,6 +26,7 @@ export const Card = ({
   souvenir,
   image,
   price,
+  hasFloat,
 }: CardProps) => {
   return (
     <div className="h-[350px] px-10 bg-base-100 shadow-xl bg-slate-100">
@@ -36,21 +38,29 @@ export const Card = ({
           {name && name}
           <div className="badge badge-secondary">{rarity?.name}</div>
         </h2>
-        <p>
-          {max_float && min_float ? (
-            //Change to a number range component
-            <>
-              Float Range: {min_float} - {max_float}{" "}
-            </>
-          ) : (
-            <>Float Range: 0 - 1 </>
-          )}
-        </p>
+        {hasFloat && (
+          <p>
+            {max_float && min_float ? (
+              //Change to a number range component
+              <>
+                Float Range: {min_float} - {max_float}{" "}
+              </>
+            ) : (
+              <>Float Range: 0 - 1 </>
+            )}
+          </p>
+        )}
         <div className="card-actions justify-end">
           {stattrak && <Badge> Stat-track </Badge>}
           {souvenir && <Badge> Souvenir </Badge>}
         </div>
-        <div>{price && price}</div>
+        <div>
+          {price &&
+            Intl.NumberFormat("en-us", {
+              style: "currency",
+              currency: "USD",
+            }).format(price)}
+        </div>
       </div>
     </div>
   );

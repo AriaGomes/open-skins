@@ -20,17 +20,26 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+# Dependencies
 
-To learn more about Next.js, take a look at the following resources:
+This project relies on a couple of services to keep data up to date.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### [CSGO API](https://github.com/ByMykel/CSGO-API)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- used as item DB
 
-## Deploy on Vercel
+### [CSGO Backpack](https://csgobackpack.net/api/)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Used for pricing
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### [Steam Web API](https://steamcommunity.com/dev/)
+
+- used to collect user inventory data
+
+# Environement Variables
+
+A sample file is included in the project showing needed environement variables.
+
+Rename to `.env`
+
+Steam Web API key can be found here: https://steamcommunity.com/dev/apikey

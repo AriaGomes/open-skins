@@ -2,14 +2,12 @@ import { configureStore } from "@reduxjs/toolkit";
 import themeReducer from "./redux/themeSlice";
 import currencyReducer from "./redux/currencySlice";
 import languageReducer from "./redux/languageSlice";
-import sidebarReducer from "./redux/sidebarSlice";
 
 export const store = configureStore({
   reducer: {
     theme: themeReducer,
     currency: currencyReducer,
     language: languageReducer,
-    sidebar: sidebarReducer,
   },
 });
 

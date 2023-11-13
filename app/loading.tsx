@@ -1,6 +1,9 @@
 import { LoadingDots } from "./components/Loading";
 
 export default function Loading() {
-  // Or a custom loading skeleton component
-  return <LoadingDots />;
+  return (
+    <div className="flex justify-center h-full pt-4 bg-slate-100">
+      <LoadingDots />
+    </div>
+  );
 }
