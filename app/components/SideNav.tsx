@@ -14,7 +14,7 @@ export default function SideNav() {
   };
   return (
     <motion.div
-      className="xl:hidden w-40 bg-white"
+      className=""
       ref={animationParent}
       variants={variants}
       initial="closed"

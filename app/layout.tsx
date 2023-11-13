@@ -39,29 +39,22 @@ export default function RootLayout({
   return (
     <Providers>
       <html lang="en">
-        <body
-          className={`${inter.className} h-screen overflow-hidden`}
-          ref={animationParent}
-        >
-          <motion.div
-            initial={false}
-            animate={sidebarOpen ? "open" : "closed"}
-            ref={containerRef}
-            variants={sidebar}
-          >
+        <body className={`${inter.className} h-screen overflow-hidden`}>
+          <div>
             <Header
               onToggleSidebar={() => setSidebarOpen(!sidebarOpen)}
               sidebarOpen
             />
-          </motion.div>
+          </div>
           <div className="flex h-full xl:block">
             <div className="flex-1 h-full">{children}</div>
             <div
               className={`${
                 sidebarOpen
-                  ? "-translate-x-0 ease-out"
-                  : "translate-x-full ease-in"
-              }  inset-y-0 right-0 transition duration-300 transform z-30`}
+                  ? "-translate-x-0 ease-out w-40"
+                  : "translate-x-full ease-in w-0"
+              }  inset-y-0 right-0 transition duration-300 transform z-30 xl:hidden bg-white`}
+              ref={animationParent}
             >
               {sidebarOpen && <SideNav />}
             </div>
