@@ -14,7 +14,7 @@ export default function SideNav() {
   };
   return (
     <motion.div
-      className=""
+      className="overflow-y-auto h-full pb-20"
       ref={animationParent}
       variants={variants}
       initial="closed"
