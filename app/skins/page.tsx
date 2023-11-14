@@ -7,19 +7,31 @@ import skinsData from "../api/skins/data/skins.json";
 import Loading from "../loading";
 import { FilterBar } from "../components/FilterBar";
 import { useAutoAnimate } from "@formkit/auto-animate/react";
+import { useAppSelector } from "../hooks";
 
 export default function Skins() {
   const [skins, setSkins] = useState<any[]>([]);
+  const [filteredSkins, setFilteredSkins] = useState<any[]>([]);
   const [loading, setLoading] = useState(true);
+  const { search, category } = useAppSelector((state) => state.filter);
 
   const [animationParent] = useAutoAnimate();
 
   useEffect(() => {
     setSkins(skinsData as any[]);
+    setFilteredSkins(skinsData as any[]);
     setLoading(false);
   }, []);
 
-  console.log(skins);
+  useEffect(() => {
+    setLoading(true); // set loading to true before filtering
+    setFilteredSkins(
+      skins.filter((skin) => {
+        return skin.name.toLowerCase().includes(search.toLowerCase());
+      })
+    );
+    setLoading(false); // set loading to false after filtering
+  }, [category, search, skins]);
 
   return (
     <div className="bg-gray-100 h-full overflow-scroll">
@@ -30,7 +42,7 @@ export default function Skins() {
         ) : (
           <>
             <Grid>
-              {skins.map((skin: any) => (
+              {filteredSkins.map((skin: any) => (
                 <Link href={`/skins/${skin.id}`} key={skin.id}>
                   <Card
                     name={skin.name}
