@@ -4,7 +4,7 @@ import { Inter } from "next/font/google";
 import { Header } from "./components";
 import "./globals.css";
 import { Providers } from "./providers";
-import { useRef, useState } from "react";
+import { useState } from "react";
 import SideNav from "./components/SideNav";
 import { useAutoAnimate } from "@formkit/auto-animate/react";
 const inter = Inter({ subsets: ["latin"] });

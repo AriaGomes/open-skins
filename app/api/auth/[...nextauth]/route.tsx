@@ -1,4 +1,4 @@
-import SteamProvider from "next-auth-steam";
+import SteamProvider, { PROVIDER_ID } from "next-auth-steam";
 import NextAuth from "next-auth/next";
 
 async function handler(req: any, ctx: { params: { nextauth: string[] } }) {
@@ -13,6 +13,24 @@ async function handler(req: any, ctx: { params: { nextauth: string[] } }) {
           "/api/auth/callback",
       }),
     ],
+    callbacks: {
+      jwt({ token, account, profile, session }) {
+        if (account?.provider === PROVIDER_ID) {
+          token.account = account;
+          token.steam = profile;
+        }
+
+        return token;
+      },
+      session({ session, token }) {
+        if ("steam" in token) {
+          // @ts-expect-error
+          session.user.token = token;
+        }
+
+        return session;
+      },
+    },
   });
 }
 

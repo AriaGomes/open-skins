@@ -5,14 +5,12 @@ import { signIn, signOut } from "next-auth/react";
 import Link from "next/link";
 import { Routes } from "../routes";
 import { LoadingDots } from "./Loading";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 import { useAutoAnimate } from "@formkit/auto-animate/react";
-import { motion } from "framer-motion";
 
 export const Header = ({
   onToggleSidebar,
-  sidebarOpen,
 }: {
   onToggleSidebar: () => void;
   sidebarOpen: boolean;
@@ -26,6 +24,7 @@ export const Header = ({
   };
 
   const [animationParent] = useAutoAnimate();
+
   return (
     <header className="bg-white grow">
       <div className="mx-auto flex max-w-screen items-center gap-8 px-4 my-2 sm:px-6 lg:px-8">
