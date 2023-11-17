@@ -18,7 +18,7 @@ export default function Collectibles() {
   console.log(collectibles);
 
   return (
-    <div className="bg-gray-100 h-full overflow-scroll">
+    <div className="bg-gray-100 dark:bg-slate-500 h-full overflow-scroll">
       <div className="flex justify-center items-center w-full">
         {loading ? (
           <Loading />

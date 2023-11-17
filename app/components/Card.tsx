@@ -29,7 +29,7 @@ export const Card = ({
   hasFloat,
 }: CardProps) => {
   return (
-    <div className="h-[350px] px-10 bg-base-100 shadow-xl bg-slate-100">
+    <div className="h-[350px] px-10 bg-base-100 shadow-xl bg-slate-100 dark:bg-gray-950 dark:text-white">
       <figure>
         <Image src={image} alt={name || ""} width={300} height={200} />
       </figure>

@@ -17,7 +17,6 @@ export default function Skins() {
   const [loading, setLoading] = useState(true);
   const { search, category } = useAppSelector((state) => state.filter);
   const [hasMore, setHasMore] = useState(true);
-  const [animationParent] = useAutoAnimate();
 
   const filterSkins = useCallback(() => {
     setFilteredSkins(
@@ -65,13 +64,13 @@ export default function Skins() {
   };
 
   return (
-    <div className="bg-gray-100 h-full overflow-scroll">
-      <FilterBar ref={animationParent} />
+    <div className="bg-gray-100 dark:bg-slate-500 h-full overflow-scroll">
+      <FilterBar />
       <div className="flex justify-center items-center w-full">
         {loading ? (
           <Loading />
         ) : (
-          <div ref={animationParent}>
+          <div>
             <InfiniteScroll
               dataLength={filteredSkins.length}
               next={fetchMoreData}

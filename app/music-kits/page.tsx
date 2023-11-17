@@ -19,7 +19,7 @@ export default function MusicKits() {
 
   //TODO: Add a filter component to filter cases by type like musicbox, souviner package, etc.
   return (
-    <div className="bg-gray-100 h-full overflow-scroll">
+    <div className="bg-gray-100 dark:bg-slate-500 h-full overflow-scroll">
       <div className="flex justify-center items-center w-full">
         {loading ? (
           <Loading />

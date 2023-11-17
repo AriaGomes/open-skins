@@ -1,9 +1,7 @@
 import Link from "next/link";
 import { Routes } from "../routes";
-import { useAutoAnimate } from "@formkit/auto-animate/react";
 import { motion } from "framer-motion";
 export default function SideNav() {
-  const [animationParent] = useAutoAnimate();
   const variants = {
     open: {
       transition: { staggerChildren: 0.07, delayChildren: 0.2 },
@@ -14,8 +12,7 @@ export default function SideNav() {
   };
   return (
     <motion.div
-      className="overflow-y-auto h-full pb-20"
-      ref={animationParent}
+      className="overflow-y-auto h-full pb-20 bg-white dark:bg-black"
       variants={variants}
       initial="closed"
       animate="open"
@@ -48,13 +45,13 @@ const NavItem = ({ href, children }: { href: any; children: any }) => {
   };
   return (
     <motion.ul
-      className="pl-2 py-2"
+      className="pl-2 py-2 bg-white dark:bg-black"
       variants={variants}
       whileHover={{ scale: 1.1 }}
       whileTap={{ scale: 0.95 }}
     >
       <Link
-        className="text-gray-500 transition hover:text-gray-500/75 hover:font-bold hover:bg-gray-100 rounded-md px-2 py-1"
+        className="text-gray-500 dark:text-white transition hover:text-gray-500/75 hover:font-bold hover:bg-gray-100 dark:hover:bg-gray-800 rounded-md px-2 py-1"
         href={href}
       >
         {children}
