@@ -10,7 +10,6 @@ export const ThemeSwitch = () => {
   const [theme, setTheme] = useLocalStorage("theme", "light");
   const dispatch = useAppDispatch();
   const reduxTheme = useAppSelector((state) => state.theme);
-  console.log(reduxTheme);
 
   useEffect(() => {
     document.body.classList.remove("light", "dark");
