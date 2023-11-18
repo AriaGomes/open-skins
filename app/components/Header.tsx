@@ -25,8 +25,6 @@ export const Header = ({
     onToggleSidebar();
   };
 
-  console.log(session);
-
   return (
     <header className="bg-white dark:bg-black grow">
       <div className="mx-auto flex max-w-screen items-center gap-8 px-4 py-2 sm:px-6 lg:px-8">
