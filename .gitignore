@@ -37,4 +37,7 @@ next-env.d.ts
 # csgo skin data
 #/app/api/skins/data/*
 
+#user inventory data
+/app/user-data/*
+
 .env

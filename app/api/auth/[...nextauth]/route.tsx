@@ -1,7 +1,11 @@
 import SteamProvider, { PROVIDER_ID } from "next-auth-steam";
 import NextAuth from "next-auth/next";
+import { NextRequest } from "next/server";
 
-async function handler(req: any, ctx: { params: { nextauth: string[] } }) {
+async function handler(
+  req: NextRequest,
+  ctx: { params: { nextauth: string[] } }
+) {
   return NextAuth(req, ctx, {
     providers: [
       SteamProvider(req, {
