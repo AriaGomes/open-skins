@@ -11,28 +11,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/danielsadowski_01.a2bf9e2640ea2dbbf5d0179b7669e09f5e7a7408.png",
     "price": {
       "7_days": {
-        "average": 3.67,
-        "median": 3.87,
-        "sold": "55",
-        "standard_deviation": "16.71",
-        "lowest_price": 0.94,
-        "highest_price": 3.95
+        "average": 3.46,
+        "median": 3.91,
+        "sold": "43",
+        "standard_deviation": "24.92",
+        "lowest_price": 0.89,
+        "highest_price": 3.99
       },
       "30_days": {
-        "average": 3.9,
-        "median": 4,
-        "sold": "339",
-        "standard_deviation": "19.51",
-        "lowest_price": 0.94,
-        "highest_price": 4.57
+        "average": 3.82,
+        "median": 3.98,
+        "sold": "289",
+        "standard_deviation": "21.71",
+        "lowest_price": 0.89,
+        "highest_price": 4.6
       },
       "all_time": {
-        "average": 3.06,
-        "median": 3.51,
-        "sold": "108320",
-        "standard_deviation": "30.8",
-        "lowest_price": 0.87,
-        "highest_price": 13.55
+        "average": 3.11,
+        "median": 3.56,
+        "sold": "108363",
+        "standard_deviation": "30.88",
+        "lowest_price": 0.89,
+        "highest_price": 13.78
       }
     }
   },
@@ -48,28 +48,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/danielsadowski_01.a2bf9e2640ea2dbbf5d0179b7669e09f5e7a7408.png",
     "price": {
       "7_days": {
-        "average": 7.71,
-        "median": 7.84,
-        "sold": "24",
-        "standard_deviation": "7.27",
-        "lowest_price": 6.72,
-        "highest_price": 8.48
+        "average": 7.86,
+        "median": 7.97,
+        "sold": "5",
+        "standard_deviation": "3.88",
+        "lowest_price": 7.25,
+        "highest_price": 8.07
       },
       "30_days": {
-        "average": 7.97,
-        "median": 8.11,
-        "sold": "117",
-        "standard_deviation": "9.3",
-        "lowest_price": 6.36,
-        "highest_price": 9.67
+        "average": 8.32,
+        "median": 8.4,
+        "sold": "80",
+        "standard_deviation": "8.78",
+        "lowest_price": 6.85,
+        "highest_price": 9.85
       },
       "all_time": {
-        "average": 7.3,
-        "median": 6.66,
-        "sold": "13443",
-        "standard_deviation": "43.04",
-        "lowest_price": 3.42,
-        "highest_price": 28.39
+        "average": 7.44,
+        "median": 6.79,
+        "sold": "13449",
+        "standard_deviation": "43.19",
+        "lowest_price": 3.49,
+        "highest_price": 28.93
       }
     }
   },
@@ -85,28 +85,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/noisia_01.fe525cc5e29525708f4dc07c0a986a110075f796.png",
     "price": {
       "7_days": {
-        "average": 4.24,
-        "median": 4.47,
-        "sold": "57",
-        "standard_deviation": "10.47",
-        "lowest_price": 2.48,
-        "highest_price": 4.63
+        "average": 4.64,
+        "median": 4.72,
+        "sold": "48",
+        "standard_deviation": "5.87",
+        "lowest_price": 3.97,
+        "highest_price": 4.88
       },
       "30_days": {
         "average": 4.75,
-        "median": 4.72,
-        "sold": "338",
-        "standard_deviation": "11.14",
-        "lowest_price": 1.05,
-        "highest_price": 5.78
+        "median": 4.7,
+        "sold": "286",
+        "standard_deviation": "11.7",
+        "lowest_price": 1.07,
+        "highest_price": 5.88
       },
       "all_time": {
-        "average": 3.3,
-        "median": 3.7,
-        "sold": "81064",
-        "standard_deviation": "38.14",
-        "lowest_price": 1.05,
-        "highest_price": 15.41
+        "average": 3.36,
+        "median": 3.75,
+        "sold": "81112",
+        "standard_deviation": "37.99",
+        "lowest_price": 1.07,
+        "highest_price": 15.66
       }
     }
   },
@@ -121,21 +121,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/noisia_01.fe525cc5e29525708f4dc07c0a986a110075f796.png",
     "price": {
+      "7_days": {
+        "average": 7.39,
+        "median": 7.52,
+        "sold": "19",
+        "standard_deviation": "6.05",
+        "lowest_price": 6.34,
+        "highest_price": 7.86
+      },
       "30_days": {
-        "average": 9.11,
-        "median": 9.37,
-        "sold": "89",
-        "standard_deviation": "7.32",
-        "lowest_price": 7.66,
-        "highest_price": 10.9
+        "average": 8.52,
+        "median": 8.65,
+        "sold": "93",
+        "standard_deviation": "10.1",
+        "lowest_price": 6.34,
+        "highest_price": 9.77
       },
       "all_time": {
-        "average": 8.04,
-        "median": 7.85,
-        "sold": "12533",
-        "standard_deviation": "37.89",
-        "lowest_price": 2.02,
-        "highest_price": 33.49
+        "average": 8.22,
+        "median": 7.99,
+        "sold": "12592",
+        "standard_deviation": "37.93",
+        "lowest_price": 2.06,
+        "highest_price": 34.24
       }
     }
   },
@@ -150,29 +158,21 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/robertallaire_01.61aafd2711f5f4ad260390f546fea72d57929900.png",
     "price": {
-      "7_days": {
-        "average": 2.97,
-        "median": 3.62,
-        "sold": "84",
-        "standard_deviation": "38.08",
-        "lowest_price": 0.9,
-        "highest_price": 3.94
-      },
       "30_days": {
-        "average": 3.49,
-        "median": 3.87,
-        "sold": "427",
-        "standard_deviation": "31.82",
-        "lowest_price": 0.87,
-        "highest_price": 4.52
+        "average": 3.55,
+        "median": 3.88,
+        "sold": "331",
+        "standard_deviation": "30.67",
+        "lowest_price": 0.89,
+        "highest_price": 4.64
       },
       "all_time": {
-        "average": 3.01,
-        "median": 3.62,
+        "average": 3.11,
+        "median": 3.73,
         "sold": "93088",
         "standard_deviation": "40.35",
-        "lowest_price": 0.87,
-        "highest_price": 11.59
+        "lowest_price": 0.89,
+        "highest_price": 11.95
       }
     }
   },
@@ -188,28 +188,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/robertallaire_01.61aafd2711f5f4ad260390f546fea72d57929900.png",
     "price": {
       "7_days": {
-        "average": 6.8,
-        "median": 6.96,
-        "sold": "15",
-        "standard_deviation": "7.15",
-        "lowest_price": 6.08,
-        "highest_price": 7.41
+        "average": 7.38,
+        "median": 7.5,
+        "sold": "8",
+        "standard_deviation": "3.99",
+        "lowest_price": 6.66,
+        "highest_price": 7.58
       },
       "30_days": {
-        "average": 7.57,
-        "median": 7.6,
-        "sold": "85",
-        "standard_deviation": "9.08",
-        "lowest_price": 6.08,
-        "highest_price": 8.78
+        "average": 7.63,
+        "median": 7.56,
+        "sold": "69",
+        "standard_deviation": "8.71",
+        "lowest_price": 6.29,
+        "highest_price": 8.67
       },
       "all_time": {
-        "average": 7.2,
-        "median": 7.07,
-        "sold": "13172",
-        "standard_deviation": "112.92",
-        "lowest_price": 4.07,
-        "highest_price": 296.5
+        "average": 7.46,
+        "median": 7.3,
+        "sold": "13181",
+        "standard_deviation": "113.01",
+        "lowest_price": 4.21,
+        "highest_price": 306.65
       }
     }
   },
@@ -224,29 +224,21 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/seanmurray_01.5e8de73cba9c875085372f52f70cbc3404e6dcc1.png",
     "price": {
-      "7_days": {
-        "average": 2.45,
-        "median": 2.49,
-        "sold": "7",
-        "standard_deviation": "3.02",
-        "lowest_price": 2.32,
-        "highest_price": 2.55
-      },
       "30_days": {
-        "average": 3.03,
-        "median": 3.23,
-        "sold": "130",
-        "standard_deviation": "16.43",
-        "lowest_price": 0.87,
-        "highest_price": 3.59
+        "average": 3,
+        "median": 3.08,
+        "sold": "97",
+        "standard_deviation": "16",
+        "lowest_price": 0.89,
+        "highest_price": 3.53
       },
       "all_time": {
-        "average": 2.39,
-        "median": 2.78,
+        "average": 2.46,
+        "median": 2.87,
         "sold": "78764",
         "standard_deviation": "36.28",
-        "lowest_price": 0.78,
-        "highest_price": 10.52
+        "lowest_price": 0.81,
+        "highest_price": 10.83
       }
     }
   },
@@ -262,28 +254,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/seanmurray_01.5e8de73cba9c875085372f52f70cbc3404e6dcc1.png",
     "price": {
       "7_days": {
-        "average": 6.36,
-        "median": 6.45,
-        "sold": "5",
-        "standard_deviation": "3.33",
-        "lowest_price": 5.93,
-        "highest_price": 6.52
+        "average": 5.84,
+        "median": 5.84,
+        "sold": "2",
+        "standard_deviation": "3.36",
+        "lowest_price": 5.65,
+        "highest_price": 6.04
       },
       "30_days": {
-        "average": 6.53,
-        "median": 6.52,
-        "sold": "40",
-        "standard_deviation": "10.05",
-        "lowest_price": 4.64,
-        "highest_price": 7.2
+        "average": 6.41,
+        "median": 6.4,
+        "sold": "30",
+        "standard_deviation": "9.18",
+        "lowest_price": 4.72,
+        "highest_price": 7.32
       },
       "all_time": {
-        "average": 7.49,
-        "median": 5.74,
-        "sold": "7698",
-        "standard_deviation": "96.89",
-        "lowest_price": 1.13,
-        "highest_price": 97.23
+        "average": 7.62,
+        "median": 5.84,
+        "sold": "7701",
+        "standard_deviation": "96.71",
+        "lowest_price": 1.14,
+        "highest_price": 98.81
       }
     }
   },
@@ -298,37 +290,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/feedme_01.8fcf645e3b3b2754bd9c478d1576b20cb3c18fa6.png",
     "price": {
-      "24_hours": {
-        "average": 3.47,
-        "median": 3.8,
+      "7_days": {
+        "average": 3.58,
+        "median": 3.91,
         "sold": "11",
         "standard_deviation": "29.57",
-        "lowest_price": 1,
-        "highest_price": 3.84
-      },
-      "7_days": {
-        "average": 3.39,
-        "median": 3.72,
-        "sold": "261",
-        "standard_deviation": "20.63",
-        "lowest_price": 0.91,
-        "highest_price": 3.85
+        "lowest_price": 1.04,
+        "highest_price": 3.96
       },
       "30_days": {
-        "average": 3.7,
-        "median": 3.83,
-        "sold": "1277",
-        "standard_deviation": "20.86",
-        "lowest_price": 0.86,
-        "highest_price": 4.52
+        "average": 3.75,
+        "median": 3.9,
+        "sold": "935",
+        "standard_deviation": "20.35",
+        "lowest_price": 0.88,
+        "highest_price": 4.62
       },
       "all_time": {
-        "average": 3.62,
-        "median": 3.51,
+        "average": 3.73,
+        "median": 3.62,
         "sold": "275393",
         "standard_deviation": "35.09",
-        "lowest_price": 0.86,
-        "highest_price": 23.94
+        "lowest_price": 0.88,
+        "highest_price": 24.67
       }
     }
   },
@@ -343,37 +327,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/feedme_01.8fcf645e3b3b2754bd9c478d1576b20cb3c18fa6.png",
     "price": {
-      "24_hours": {
-        "average": 7.85,
-        "median": 7.84,
-        "sold": "4",
-        "standard_deviation": "8.76",
-        "lowest_price": 7.15,
-        "highest_price": 8.54
-      },
       "7_days": {
-        "average": 8.08,
-        "median": 8.17,
-        "sold": "61",
-        "standard_deviation": "8.25",
-        "lowest_price": 6.38,
-        "highest_price": 8.9
+        "average": 7.84,
+        "median": 7.91,
+        "sold": "44",
+        "standard_deviation": "8.76",
+        "lowest_price": 6.3,
+        "highest_price": 8.72
       },
       "30_days": {
-        "average": 8.25,
-        "median": 8.43,
-        "sold": "314",
-        "standard_deviation": "7.69",
-        "lowest_price": 5.68,
-        "highest_price": 9.24
+        "average": 8.34,
+        "median": 8.59,
+        "sold": "270",
+        "standard_deviation": "7.97",
+        "lowest_price": 5.92,
+        "highest_price": 9.2
       },
       "all_time": {
-        "average": 7.02,
-        "median": 6.69,
-        "sold": "47807",
-        "standard_deviation": "77.26",
-        "lowest_price": 3.71,
-        "highest_price": 46.27
+        "average": 7.27,
+        "median": 6.91,
+        "sold": "47858",
+        "standard_deviation": "77.21",
+        "lowest_price": 3.84,
+        "highest_price": 47.85
       }
     }
   },
@@ -411,28 +387,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/austinwintory_01.5e3be7d7bd2e123d76969e7d17617545804a6c6b.png",
     "price": {
       "7_days": {
-        "average": 2.88,
-        "median": 3.76,
-        "sold": "28",
-        "standard_deviation": "45.96",
-        "lowest_price": 0.87,
-        "highest_price": 3.97
+        "average": 3.38,
+        "median": 3.63,
+        "sold": "85",
+        "standard_deviation": "25.81",
+        "lowest_price": 0.99,
+        "highest_price": 4.05
       },
       "30_days": {
-        "average": 3.94,
-        "median": 4.05,
-        "sold": "563",
-        "standard_deviation": "21.51",
-        "lowest_price": 0.87,
-        "highest_price": 4.73
+        "average": 3.73,
+        "median": 3.99,
+        "sold": "557",
+        "standard_deviation": "25.15",
+        "lowest_price": 0.88,
+        "highest_price": 4.82
       },
       "all_time": {
-        "average": 3.76,
-        "median": 3.97,
-        "sold": "127500",
-        "standard_deviation": "36.9",
-        "lowest_price": 0.87,
-        "highest_price": 12.12
+        "average": 3.83,
+        "median": 4,
+        "sold": "127672",
+        "standard_deviation": "37.32",
+        "lowest_price": 0.88,
+        "highest_price": 12.35
       }
     }
   },
@@ -447,37 +423,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/austinwintory_01.5e3be7d7bd2e123d76969e7d17617545804a6c6b.png",
     "price": {
-      "24_hours": {
-        "average": 6.64,
-        "median": 6.64,
-        "sold": "2",
-        "standard_deviation": "8.76",
-        "lowest_price": 6.07,
-        "highest_price": 7.23
-      },
       "7_days": {
-        "average": 6.91,
-        "median": 7.24,
-        "sold": "38",
-        "standard_deviation": "7.35",
-        "lowest_price": 5.68,
-        "highest_price": 7.43
+        "average": 6.87,
+        "median": 7.1,
+        "sold": "18",
+        "standard_deviation": "6.35",
+        "lowest_price": 6.05,
+        "highest_price": 7.42
       },
       "30_days": {
-        "average": 7.07,
-        "median": 7.15,
-        "sold": "175",
-        "standard_deviation": "8.98",
-        "lowest_price": 4.55,
-        "highest_price": 8.23
+        "average": 7.14,
+        "median": 7.31,
+        "sold": "153",
+        "standard_deviation": "8.55",
+        "lowest_price": 4.7,
+        "highest_price": 8.03
       },
       "all_time": {
-        "average": 7.33,
-        "median": 6.95,
-        "sold": "27940",
-        "standard_deviation": "103.03",
-        "lowest_price": 4.44,
-        "highest_price": 63.49
+        "average": 7.59,
+        "median": 7.18,
+        "sold": "27960",
+        "standard_deviation": "103.16",
+        "lowest_price": 4.59,
+        "highest_price": 65.66
       }
     }
   },
@@ -493,28 +461,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/sasha_01.8ad1c2aebd178df3dff09c4f190b7064d46d142e.png",
     "price": {
       "7_days": {
-        "average": 2.76,
-        "median": 3.14,
-        "sold": "35",
-        "standard_deviation": "35.63",
-        "lowest_price": 0.89,
-        "highest_price": 3.83
+        "average": 2.92,
+        "median": 3.3,
+        "sold": "29",
+        "standard_deviation": "19.78",
+        "lowest_price": 1.02,
+        "highest_price": 3.46
       },
       "30_days": {
-        "average": 3.09,
-        "median": 3.45,
-        "sold": "222",
-        "standard_deviation": "34.59",
-        "lowest_price": 0.81,
-        "highest_price": 4.08
+        "average": 3.14,
+        "median": 3.38,
+        "sold": "188",
+        "standard_deviation": "30.56",
+        "lowest_price": 0.83,
+        "highest_price": 4.15
       },
       "all_time": {
-        "average": 2.88,
-        "median": 3.41,
-        "sold": "61544",
-        "standard_deviation": "42.28",
-        "lowest_price": 0.81,
-        "highest_price": 11.95
+        "average": 2.92,
+        "median": 3.44,
+        "sold": "61573",
+        "standard_deviation": "42.16",
+        "lowest_price": 0.83,
+        "highest_price": 12.14
       }
     }
   },
@@ -529,37 +497,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/sasha_01.8ad1c2aebd178df3dff09c4f190b7064d46d142e.png",
     "price": {
-      "24_hours": {
-        "average": 6.4,
-        "median": 6.4,
-        "sold": "1",
-        "standard_deviation": "0",
-        "lowest_price": 6.4,
-        "highest_price": 6.4
-      },
       "7_days": {
-        "average": 5.67,
-        "median": 5.43,
-        "sold": "11",
-        "standard_deviation": "10.07",
-        "lowest_price": 4.87,
+        "average": 5.76,
+        "median": 5.42,
+        "sold": "3",
+        "standard_deviation": "8.14",
+        "lowest_price": 5.42,
         "highest_price": 6.42
       },
       "30_days": {
-        "average": 6,
-        "median": 6.14,
-        "sold": "64",
-        "standard_deviation": "8.82",
-        "lowest_price": 4.68,
-        "highest_price": 6.62
+        "average": 6.06,
+        "median": 6.4,
+        "sold": "51",
+        "standard_deviation": "9.71",
+        "lowest_price": 4.76,
+        "highest_price": 6.75
       },
       "all_time": {
-        "average": 7.52,
-        "median": 6.84,
-        "sold": "9580",
-        "standard_deviation": "41.07",
-        "lowest_price": 3.42,
-        "highest_price": 34.23
+        "average": 7.66,
+        "median": 6.99,
+        "sold": "9584",
+        "standard_deviation": "41.11",
+        "lowest_price": 3.48,
+        "highest_price": 34.88
       }
     }
   },
@@ -574,29 +534,21 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/skog_01.4869cd4270b65135eff75d121012db094bbf4973.png",
     "price": {
-      "7_days": {
-        "average": 4.01,
-        "median": 4.18,
-        "sold": "81",
-        "standard_deviation": "13.19",
-        "lowest_price": 0.94,
-        "highest_price": 4.47
-      },
       "30_days": {
-        "average": 4.54,
-        "median": 4.67,
-        "sold": "540",
-        "standard_deviation": "15.38",
-        "lowest_price": 0.94,
-        "highest_price": 5.23
+        "average": 4.49,
+        "median": 4.53,
+        "sold": "389",
+        "standard_deviation": "16.75",
+        "lowest_price": 0.97,
+        "highest_price": 5.35
       },
       "all_time": {
-        "average": 3.19,
-        "median": 3.66,
+        "average": 3.29,
+        "median": 3.77,
         "sold": "169328",
         "standard_deviation": "37.42",
-        "lowest_price": 0.94,
-        "highest_price": 15.74
+        "lowest_price": 0.97,
+        "highest_price": 16.22
       }
     }
   },
@@ -612,28 +564,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/skog_01.4869cd4270b65135eff75d121012db094bbf4973.png",
     "price": {
       "7_days": {
-        "average": 7.13,
-        "median": 7.23,
-        "sold": "25",
-        "standard_deviation": "5.64",
-        "lowest_price": 6.07,
-        "highest_price": 7.86
+        "average": 7.2,
+        "median": 7.25,
+        "sold": "22",
+        "standard_deviation": "3.03",
+        "lowest_price": 6.53,
+        "highest_price": 7.43
       },
       "30_days": {
-        "average": 7.68,
-        "median": 7.45,
-        "sold": "201",
-        "standard_deviation": "11.02",
-        "lowest_price": 5.99,
-        "highest_price": 9.66
+        "average": 7.4,
+        "median": 7.42,
+        "sold": "159",
+        "standard_deviation": "7.66",
+        "lowest_price": 6.17,
+        "highest_price": 8.28
       },
       "all_time": {
-        "average": 7.84,
-        "median": 7.83,
-        "sold": "18483",
-        "standard_deviation": "28.48",
-        "lowest_price": 4.41,
-        "highest_price": 24.48
+        "average": 7.99,
+        "median": 7.95,
+        "sold": "18507",
+        "standard_deviation": "28.38",
+        "lowest_price": 4.49,
+        "highest_price": 24.94
       }
     }
   },
@@ -649,28 +601,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/midnightriders_01.22ad94b80a058ad3cb1373fcf0f69e6983491765.png",
     "price": {
       "7_days": {
-        "average": 4.7,
-        "median": 4.83,
-        "sold": "119",
-        "standard_deviation": "7.43",
-        "lowest_price": 3,
-        "highest_price": 5.04
+        "average": 4.45,
+        "median": 4.7,
+        "sold": "137",
+        "standard_deviation": "24.02",
+        "lowest_price": 1.02,
+        "highest_price": 5.22
       },
       "30_days": {
-        "average": 5.04,
+        "average": 4.93,
         "median": 4.95,
-        "sold": "807",
-        "standard_deviation": "8.19",
-        "lowest_price": 3,
-        "highest_price": 5.8
+        "sold": "735",
+        "standard_deviation": "12.83",
+        "lowest_price": 1.02,
+        "highest_price": 5.89
       },
       "all_time": {
-        "average": 5.04,
-        "median": 4.51,
-        "sold": "84587",
-        "standard_deviation": "199.37",
-        "lowest_price": 2.07,
-        "highest_price": 51.14
+        "average": 5.11,
+        "median": 4.53,
+        "sold": "84725",
+        "standard_deviation": "199.79",
+        "lowest_price": 1.02,
+        "highest_price": 51.96
       }
     }
   },
@@ -686,28 +638,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/midnightriders_01.22ad94b80a058ad3cb1373fcf0f69e6983491765.png",
     "price": {
       "7_days": {
-        "average": 7.97,
-        "median": 8.1,
-        "sold": "50",
-        "standard_deviation": "6.24",
-        "lowest_price": 6.39,
-        "highest_price": 8.62
+        "average": 8.08,
+        "median": 8.16,
+        "sold": "49",
+        "standard_deviation": "5.67",
+        "lowest_price": 7.15,
+        "highest_price": 8.61
       },
       "30_days": {
-        "average": 8.96,
-        "median": 9.1,
-        "sold": "355",
-        "standard_deviation": "10.15",
-        "lowest_price": 3.97,
-        "highest_price": 10.21
+        "average": 8.64,
+        "median": 8.53,
+        "sold": "302",
+        "standard_deviation": "9.33",
+        "lowest_price": 4.03,
+        "highest_price": 9.97
       },
       "all_time": {
-        "average": 6.99,
-        "median": 6.73,
-        "sold": "29648",
-        "standard_deviation": "186.54",
-        "lowest_price": 3.47,
-        "highest_price": 292.32
+        "average": 7.11,
+        "median": 6.85,
+        "sold": "29704",
+        "standard_deviation": "186.5",
+        "lowest_price": 3.53,
+        "highest_price": 297.05
       }
     }
   },
@@ -722,37 +674,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/mattlange_01.a5321f2db9fd84c93e384e28d6048784913af83a.png",
     "price": {
-      "24_hours": {
-        "average": 3.61,
-        "median": 3.65,
-        "sold": "3",
-        "standard_deviation": "2.93",
-        "lowest_price": 3.53,
-        "highest_price": 3.76
-      },
       "7_days": {
-        "average": 3.36,
-        "median": 3.53,
-        "sold": "44",
-        "standard_deviation": "21.7",
-        "lowest_price": 0.9,
-        "highest_price": 3.82
+        "average": 3.62,
+        "median": 3.61,
+        "sold": "42",
+        "standard_deviation": "8.73",
+        "lowest_price": 2.71,
+        "highest_price": 3.99
       },
       "30_days": {
-        "average": 3.67,
-        "median": 3.76,
-        "sold": "288",
-        "standard_deviation": "19.31",
-        "lowest_price": 0.9,
-        "highest_price": 4.25
+        "average": 3.75,
+        "median": 3.79,
+        "sold": "252",
+        "standard_deviation": "14.53",
+        "lowest_price": 0.92,
+        "highest_price": 4.33
       },
       "all_time": {
-        "average": 2.67,
-        "median": 3.21,
-        "sold": "93362",
-        "standard_deviation": "38.89",
-        "lowest_price": 0.9,
-        "highest_price": 8.65
+        "average": 2.71,
+        "median": 3.26,
+        "sold": "93401",
+        "standard_deviation": "38.55",
+        "lowest_price": 0.92,
+        "highest_price": 8.82
       }
     }
   },
@@ -767,37 +711,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/mattlange_01.a5321f2db9fd84c93e384e28d6048784913af83a.png",
     "price": {
-      "24_hours": {
-        "average": 6.82,
-        "median": 6.82,
-        "sold": "2",
-        "standard_deviation": "4.5",
-        "lowest_price": 6.52,
-        "highest_price": 7.14
-      },
       "7_days": {
-        "average": 7.11,
-        "median": 7.32,
-        "sold": "12",
-        "standard_deviation": "6.55",
-        "lowest_price": 6.06,
-        "highest_price": 7.65
+        "average": 6.81,
+        "median": 7.05,
+        "sold": "14",
+        "standard_deviation": "7.52",
+        "lowest_price": 5.54,
+        "highest_price": 7.29
       },
       "30_days": {
-        "average": 7.24,
-        "median": 7.41,
-        "sold": "74",
-        "standard_deviation": "8.04",
-        "lowest_price": 5.23,
-        "highest_price": 7.92
+        "average": 7.38,
+        "median": 7.44,
+        "sold": "66",
+        "standard_deviation": "7.83",
+        "lowest_price": 5.54,
+        "highest_price": 8.2
       },
       "all_time": {
-        "average": 6.93,
-        "median": 6.8,
-        "sold": "10430",
-        "standard_deviation": "23.97",
-        "lowest_price": 3.68,
-        "highest_price": 20.99
+        "average": 7.16,
+        "median": 7.03,
+        "sold": "10444",
+        "standard_deviation": "24.05",
+        "lowest_price": 3.8,
+        "highest_price": 21.71
       }
     }
   },
@@ -813,28 +749,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/mateomessina_01.94e787b3d227841ea7a3cd48dfb911131a1bb1ef.png",
     "price": {
       "7_days": {
-        "average": 3.04,
-        "median": 3.06,
-        "sold": "7",
-        "standard_deviation": "4.88",
-        "lowest_price": 2.73,
-        "highest_price": 3.19
+        "average": 2.71,
+        "median": 3.01,
+        "sold": "32",
+        "standard_deviation": "28.11",
+        "lowest_price": 0.83,
+        "highest_price": 3.27
       },
       "30_days": {
-        "average": 3.04,
-        "median": 3.35,
-        "sold": "192",
-        "standard_deviation": "29.97",
-        "lowest_price": 0.87,
-        "highest_price": 4.36
+        "average": 2.99,
+        "median": 3.16,
+        "sold": "198",
+        "standard_deviation": "27.74",
+        "lowest_price": 0.83,
+        "highest_price": 4.21
       },
       "all_time": {
-        "average": 2.75,
-        "median": 3.29,
-        "sold": "75035",
-        "standard_deviation": "32.69",
-        "lowest_price": 0.87,
-        "highest_price": 8.25
+        "average": 2.8,
+        "median": 3.32,
+        "sold": "75099",
+        "standard_deviation": "32.68",
+        "lowest_price": 0.83,
+        "highest_price": 8.41
       }
     }
   },
@@ -850,28 +786,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/mateomessina_01.94e787b3d227841ea7a3cd48dfb911131a1bb1ef.png",
     "price": {
       "7_days": {
-        "average": 5.23,
-        "median": 5.24,
-        "sold": "10",
-        "standard_deviation": "12.75",
-        "lowest_price": 3.66,
-        "highest_price": 6.06
+        "average": 5.05,
+        "median": 4.76,
+        "sold": "7",
+        "standard_deviation": "7.78",
+        "lowest_price": 4.63,
+        "highest_price": 5.65
       },
       "30_days": {
-        "average": 5.75,
-        "median": 5.88,
-        "sold": "75",
-        "standard_deviation": "9.93",
-        "lowest_price": 3.66,
-        "highest_price": 6.66
+        "average": 5.67,
+        "median": 5.76,
+        "sold": "63",
+        "standard_deviation": "11.15",
+        "lowest_price": 3.73,
+        "highest_price": 6.79
       },
       "all_time": {
-        "average": 6.38,
-        "median": 6.2,
-        "sold": "11987",
-        "standard_deviation": "32.67",
-        "lowest_price": 1.77,
-        "highest_price": 20.76
+        "average": 6.5,
+        "median": 6.31,
+        "sold": "11994",
+        "standard_deviation": "32.72",
+        "lowest_price": 1.8,
+        "highest_price": 21.15
       }
     }
   },
@@ -887,28 +823,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/hotlinemiami_01.df89086218adcaf00b86cffff78191f2f5bcb500.png",
     "price": {
       "7_days": {
-        "average": 3.8,
-        "median": 4.16,
-        "sold": "91",
-        "standard_deviation": "17.83",
-        "lowest_price": 1.12,
-        "highest_price": 4.31
+        "average": 3.91,
+        "median": 4.03,
+        "sold": "320",
+        "standard_deviation": "18.38",
+        "lowest_price": 0.96,
+        "highest_price": 4.34
       },
       "30_days": {
-        "average": 4.46,
-        "median": 4.54,
-        "sold": "2105",
-        "standard_deviation": "14.69",
-        "lowest_price": 0.99,
-        "highest_price": 5.11
+        "average": 4.22,
+        "median": 4.28,
+        "sold": "2140",
+        "standard_deviation": "18.09",
+        "lowest_price": 0.9,
+        "highest_price": 5.05
       },
       "all_time": {
-        "average": 3.44,
+        "average": 3.51,
         "median": 3.91,
-        "sold": "322182",
-        "standard_deviation": "31.38",
-        "lowest_price": 0.99,
-        "highest_price": 11.3
+        "sold": "322816",
+        "standard_deviation": "30.75",
+        "lowest_price": 0.9,
+        "highest_price": 11.52
       }
     }
   },
@@ -923,37 +859,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/hotlinemiami_01.df89086218adcaf00b86cffff78191f2f5bcb500.png",
     "price": {
-      "24_hours": {
-        "average": 7.52,
-        "median": 7.44,
-        "sold": "6",
-        "standard_deviation": "3.52",
-        "lowest_price": 7.23,
-        "highest_price": 7.86
-      },
       "7_days": {
-        "average": 7.79,
-        "median": 7.87,
-        "sold": "82",
-        "standard_deviation": "6.39",
-        "lowest_price": 6.24,
-        "highest_price": 8.61
+        "average": 7.6,
+        "median": 7.83,
+        "sold": "57",
+        "standard_deviation": "6.31",
+        "lowest_price": 6.65,
+        "highest_price": 8.26
       },
       "30_days": {
-        "average": 8.29,
-        "median": 8.36,
-        "sold": "548",
-        "standard_deviation": "7.27",
-        "lowest_price": 5.71,
-        "highest_price": 9.17
+        "average": 8.39,
+        "median": 8.32,
+        "sold": "442",
+        "standard_deviation": "8.31",
+        "lowest_price": 5.91,
+        "highest_price": 9.48
       },
       "all_time": {
-        "average": 6.84,
-        "median": 7.3,
-        "sold": "56087",
-        "standard_deviation": "34.47",
-        "lowest_price": 4.21,
-        "highest_price": 25.47
+        "average": 7.07,
+        "median": 7.51,
+        "sold": "56151",
+        "standard_deviation": "34.51",
+        "lowest_price": 4.35,
+        "highest_price": 26.35
       }
     }
   },
@@ -968,37 +896,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/danielsadowski_02.5a250ef0a92cbe07b1fd5d26afd1fda52d10ee8d.png",
     "price": {
-      "24_hours": {
-        "average": 3.69,
-        "median": 3.71,
-        "sold": "3",
-        "standard_deviation": "1.15",
-        "lowest_price": 3.64,
-        "highest_price": 3.72
-      },
       "7_days": {
-        "average": 2.68,
-        "median": 3.45,
-        "sold": "141",
-        "standard_deviation": "42.69",
-        "lowest_price": 0.81,
-        "highest_price": 3.77
+        "average": 3.19,
+        "median": 3.64,
+        "sold": "104",
+        "standard_deviation": "33.79",
+        "lowest_price": 0.84,
+        "highest_price": 4.03
       },
       "30_days": {
-        "average": 3.18,
-        "median": 3.68,
-        "sold": "843",
-        "standard_deviation": "32.56",
-        "lowest_price": 0.81,
-        "highest_price": 4.09
+        "average": 3.26,
+        "median": 3.66,
+        "sold": "694",
+        "standard_deviation": "31.44",
+        "lowest_price": 0.84,
+        "highest_price": 4.16
       },
       "all_time": {
-        "average": 3.26,
-        "median": 3.39,
-        "sold": "162427",
-        "standard_deviation": "32.14",
-        "lowest_price": 0.81,
-        "highest_price": 8.2
+        "average": 3.32,
+        "median": 3.44,
+        "sold": "162528",
+        "standard_deviation": "31.8",
+        "lowest_price": 0.84,
+        "highest_price": 8.35
       }
     }
   },
@@ -1014,28 +934,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/danielsadowski_02.5a250ef0a92cbe07b1fd5d26afd1fda52d10ee8d.png",
     "price": {
       "7_days": {
-        "average": 6.43,
-        "median": 6.73,
-        "sold": "31",
-        "standard_deviation": "8.22",
-        "lowest_price": 5.47,
-        "highest_price": 7.07
+        "average": 6.13,
+        "median": 6.01,
+        "sold": "23",
+        "standard_deviation": "10.32",
+        "lowest_price": 4.63,
+        "highest_price": 7.01
       },
       "30_days": {
-        "average": 6.71,
-        "median": 6.83,
-        "sold": "183",
-        "standard_deviation": "8.52",
-        "lowest_price": 4.71,
-        "highest_price": 7.45
+        "average": 6.65,
+        "median": 6.79,
+        "sold": "165",
+        "standard_deviation": "9.51",
+        "lowest_price": 4.63,
+        "highest_price": 7.58
       },
       "all_time": {
-        "average": 6.54,
-        "median": 6.44,
-        "sold": "32424",
-        "standard_deviation": "41.91",
-        "lowest_price": 4.26,
-        "highest_price": 21.45
+        "average": 6.64,
+        "median": 6.53,
+        "sold": "32453",
+        "standard_deviation": "42.04",
+        "lowest_price": 4.33,
+        "highest_price": 21.8
       }
     }
   },
@@ -1051,28 +971,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/damjanmravunac_01.538b68f26daddde3c83f6ae44de9947ab7e8c2d0.png",
     "price": {
       "7_days": {
-        "average": 3.45,
-        "median": 4.18,
-        "sold": "45",
-        "standard_deviation": "37.42",
-        "lowest_price": 0.95,
-        "highest_price": 4.62
+        "average": 3.74,
+        "median": 4.32,
+        "sold": "47",
+        "standard_deviation": "30.9",
+        "lowest_price": 0.03,
+        "highest_price": 4.61
       },
       "30_days": {
-        "average": 4.47,
-        "median": 4.64,
-        "sold": "233",
-        "standard_deviation": "19.15",
-        "lowest_price": 0.95,
-        "highest_price": 5.3
+        "average": 4.26,
+        "median": 4.44,
+        "sold": "224",
+        "standard_deviation": "23.79",
+        "lowest_price": 0.03,
+        "highest_price": 5.38
       },
       "all_time": {
-        "average": 3.51,
-        "median": 4.06,
-        "sold": "49768",
-        "standard_deviation": "30.72",
-        "lowest_price": 0.95,
-        "highest_price": 8.4
+        "average": 3.58,
+        "median": 4.11,
+        "sold": "49817",
+        "standard_deviation": "30.79",
+        "lowest_price": 0.03,
+        "highest_price": 8.53
       }
     }
   },
@@ -1087,37 +1007,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/damjanmravunac_01.538b68f26daddde3c83f6ae44de9947ab7e8c2d0.png",
     "price": {
-      "24_hours": {
-        "average": 7.28,
-        "median": 7.28,
-        "sold": "1",
-        "standard_deviation": "0",
-        "lowest_price": 7.28,
-        "highest_price": 7.28
-      },
       "7_days": {
-        "average": 7.52,
-        "median": 7.51,
-        "sold": "16",
-        "standard_deviation": "6.61",
-        "lowest_price": 6.7,
-        "highest_price": 8.22
+        "average": 8.11,
+        "median": 8.18,
+        "sold": "10",
+        "standard_deviation": "4.17",
+        "lowest_price": 7.14,
+        "highest_price": 8.31
       },
       "30_days": {
-        "average": 7.88,
-        "median": 7.92,
-        "sold": "96",
-        "standard_deviation": "9.26",
-        "lowest_price": 6.37,
-        "highest_price": 9.32
+        "average": 8.01,
+        "median": 8.09,
+        "sold": "85",
+        "standard_deviation": "8.98",
+        "lowest_price": 6.58,
+        "highest_price": 9.64
       },
       "all_time": {
-        "average": 7.24,
-        "median": 7.17,
-        "sold": "12863",
-        "standard_deviation": "41.81",
-        "lowest_price": 3.82,
-        "highest_price": 33.15
+        "average": 7.49,
+        "median": 7.42,
+        "sold": "12878",
+        "standard_deviation": "41.78",
+        "lowest_price": 3.96,
+        "highest_price": 34.29
       }
     }
   },
@@ -1132,29 +1044,21 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/proxy_01.12796e09ff47c1dd25757cff0761bf7b880dfb3b.png",
     "price": {
-      "7_days": {
-        "average": 2.86,
-        "median": 3.59,
-        "sold": "82",
-        "standard_deviation": "38.52",
-        "lowest_price": 0.89,
-        "highest_price": 3.83
-      },
       "30_days": {
-        "average": 3.53,
-        "median": 3.92,
-        "sold": "373",
-        "standard_deviation": "33.53",
-        "lowest_price": 0.88,
-        "highest_price": 4.87
+        "average": 3.44,
+        "median": 3.9,
+        "sold": "296",
+        "standard_deviation": "34.81",
+        "lowest_price": 0.9,
+        "highest_price": 4.82
       },
       "all_time": {
-        "average": 3.76,
-        "median": 3.83,
+        "average": 3.87,
+        "median": 3.95,
         "sold": "59229",
         "standard_deviation": "27.89",
-        "lowest_price": 0.88,
-        "highest_price": 8.55
+        "lowest_price": 0.9,
+        "highest_price": 8.81
       }
     }
   },
@@ -1170,28 +1074,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/proxy_01.12796e09ff47c1dd25757cff0761bf7b880dfb3b.png",
     "price": {
       "7_days": {
-        "average": 6.57,
-        "median": 6.46,
-        "sold": "28",
-        "standard_deviation": "5.15",
-        "lowest_price": 5.78,
-        "highest_price": 6.96
+        "average": 6.63,
+        "median": 6.58,
+        "sold": "10",
+        "standard_deviation": "7.57",
+        "lowest_price": 6.03,
+        "highest_price": 7.53
       },
       "30_days": {
         "average": 7.1,
-        "median": 7.03,
-        "sold": "117",
-        "standard_deviation": "9.24",
-        "lowest_price": 4.8,
-        "highest_price": 8.24
+        "median": 7.17,
+        "sold": "98",
+        "standard_deviation": "7.99",
+        "lowest_price": 5.79,
+        "highest_price": 8.26
       },
       "all_time": {
-        "average": 6.4,
-        "median": 6.42,
-        "sold": "20324",
-        "standard_deviation": "19.01",
-        "lowest_price": 2.4,
-        "highest_price": 11.56
+        "average": 6.62,
+        "median": 6.64,
+        "sold": "20336",
+        "standard_deviation": "19.11",
+        "lowest_price": 2.49,
+        "highest_price": 11.96
       }
     }
   },
@@ -1207,28 +1111,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/kitheory_01.00e97bde40259873dfe52ffe809c0a05418d11ff.png",
     "price": {
       "7_days": {
-        "average": 2.97,
-        "median": 3.46,
-        "sold": "11",
-        "standard_deviation": "41.99",
-        "lowest_price": 0.99,
-        "highest_price": 4.01
+        "average": 3.51,
+        "median": 3.64,
+        "sold": "58",
+        "standard_deviation": "13.35",
+        "lowest_price": 1.01,
+        "highest_price": 3.74
       },
       "30_days": {
         "average": 3.54,
-        "median": 3.83,
-        "sold": "259",
-        "standard_deviation": "25.37",
+        "median": 3.74,
+        "sold": "298",
+        "standard_deviation": "23.38",
         "lowest_price": 0.87,
-        "highest_price": 4.33
+        "highest_price": 4.36
       },
       "all_time": {
-        "average": 3.79,
-        "median": 3.89,
-        "sold": "52056",
-        "standard_deviation": "26.26",
+        "average": 3.86,
+        "median": 3.92,
+        "sold": "52165",
+        "standard_deviation": "25.99",
         "lowest_price": 0.87,
-        "highest_price": 7.53
+        "highest_price": 7.67
       }
     }
   },
@@ -1243,37 +1147,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/kitheory_01.00e97bde40259873dfe52ffe809c0a05418d11ff.png",
     "price": {
-      "24_hours": {
-        "average": 6.34,
-        "median": 6.26,
-        "sold": "3",
-        "standard_deviation": "2.67",
-        "lowest_price": 6.18,
-        "highest_price": 6.57
-      },
       "7_days": {
-        "average": 6.34,
-        "median": 6.24,
-        "sold": "18",
-        "standard_deviation": "7.68",
-        "lowest_price": 5.28,
-        "highest_price": 7.35
+        "average": 6.54,
+        "median": 6.39,
+        "sold": "14",
+        "standard_deviation": "5.83",
+        "lowest_price": 6.18,
+        "highest_price": 7.38
       },
       "30_days": {
-        "average": 6.74,
-        "median": 6.77,
-        "sold": "92",
-        "standard_deviation": "8.32",
-        "lowest_price": 5.26,
-        "highest_price": 7.68
+        "average": 6.76,
+        "median": 6.61,
+        "sold": "80",
+        "standard_deviation": "8.55",
+        "lowest_price": 5.36,
+        "highest_price": 7.83
       },
       "all_time": {
-        "average": 6.3,
-        "median": 6.32,
-        "sold": "19134",
-        "standard_deviation": "18.62",
-        "lowest_price": 3.92,
-        "highest_price": 10.77
+        "average": 6.42,
+        "median": 6.42,
+        "sold": "19150",
+        "standard_deviation": "18.51",
+        "lowest_price": 4,
+        "highest_price": 10.97
       }
     }
   },
@@ -1289,28 +1185,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/troelsfolmann_01.62c19e1f4ed3c30ec238d088ddc036671e574972.png",
     "price": {
       "7_days": {
-        "average": 3.25,
-        "median": 3.46,
-        "sold": "36",
-        "standard_deviation": "24.43",
-        "lowest_price": 0.91,
-        "highest_price": 3.73
+        "average": 3.43,
+        "median": 3.91,
+        "sold": "22",
+        "standard_deviation": "31.11",
+        "lowest_price": 0.97,
+        "highest_price": 4.24
       },
       "30_days": {
-        "average": 3.9,
-        "median": 4.08,
-        "sold": "178",
-        "standard_deviation": "21.95",
-        "lowest_price": 0.91,
-        "highest_price": 4.93
+        "average": 3.77,
+        "median": 3.99,
+        "sold": "159",
+        "standard_deviation": "23.99",
+        "lowest_price": 0.93,
+        "highest_price": 4.81
       },
       "all_time": {
-        "average": 4.1,
-        "median": 4.17,
-        "sold": "24646",
-        "standard_deviation": "22.94",
-        "lowest_price": 0.91,
-        "highest_price": 10.81
+        "average": 4.16,
+        "median": 4.22,
+        "sold": "24670",
+        "standard_deviation": "23.04",
+        "lowest_price": 0.93,
+        "highest_price": 10.99
       }
     }
   },
@@ -1325,29 +1221,21 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/troelsfolmann_01.62c19e1f4ed3c30ec238d088ddc036671e574972.png",
     "price": {
-      "7_days": {
-        "average": 7.37,
-        "median": 7.17,
-        "sold": "11",
-        "standard_deviation": "8.03",
-        "lowest_price": 6.6,
-        "highest_price": 8.01
-      },
       "30_days": {
-        "average": 7.93,
-        "median": 7.92,
-        "sold": "60",
-        "standard_deviation": "12.4",
-        "lowest_price": 5.93,
-        "highest_price": 10.24
+        "average": 7.78,
+        "median": 7.99,
+        "sold": "38",
+        "standard_deviation": "9.8",
+        "lowest_price": 6.53,
+        "highest_price": 9.58
       },
       "all_time": {
-        "average": 6.5,
-        "median": 6.41,
+        "average": 6.69,
+        "median": 6.61,
         "sold": "10781",
         "standard_deviation": "18.57",
-        "lowest_price": 3.5,
-        "highest_price": 12.87
+        "lowest_price": 3.61,
+        "highest_price": 13.27
       }
     }
   },
@@ -1363,28 +1251,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/kellybailey_01.5f62031bbb9d6859db2f1f8a575a6dcd1079c928.png",
     "price": {
       "7_days": {
-        "average": 4.13,
-        "median": 4.34,
-        "sold": "42",
-        "standard_deviation": "24.1",
-        "lowest_price": 1,
-        "highest_price": 4.87
+        "average": 4.11,
+        "median": 4.4,
+        "sold": "37",
+        "standard_deviation": "25.73",
+        "lowest_price": 1.04,
+        "highest_price": 4.84
       },
       "30_days": {
-        "average": 4.69,
-        "median": 4.79,
-        "sold": "261",
-        "standard_deviation": "13.54",
-        "lowest_price": 1,
-        "highest_price": 5.8
+        "average": 4.62,
+        "median": 4.76,
+        "sold": "233",
+        "standard_deviation": "16.98",
+        "lowest_price": 1.04,
+        "highest_price": 5.38
       },
       "all_time": {
-        "average": 4.12,
-        "median": 4.32,
-        "sold": "22372",
-        "standard_deviation": "19.28",
-        "lowest_price": 1,
-        "highest_price": 9.74
+        "average": 4.26,
+        "median": 4.45,
+        "sold": "22409",
+        "standard_deviation": "19.44",
+        "lowest_price": 1.04,
+        "highest_price": 10.07
       }
     }
   },
@@ -1399,29 +1287,21 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/kellybailey_01.5f62031bbb9d6859db2f1f8a575a6dcd1079c928.png",
     "price": {
-      "7_days": {
-        "average": 7.31,
-        "median": 7.46,
-        "sold": "12",
-        "standard_deviation": "8.39",
-        "lowest_price": 5.93,
-        "highest_price": 8.06
-      },
       "30_days": {
-        "average": 8.01,
-        "median": 7.85,
-        "sold": "97",
-        "standard_deviation": "11.62",
-        "lowest_price": 5.15,
-        "highest_price": 9.22
+        "average": 8,
+        "median": 7.95,
+        "sold": "70",
+        "standard_deviation": "11.44",
+        "lowest_price": 5.31,
+        "highest_price": 9.4
       },
       "all_time": {
-        "average": 6.82,
-        "median": 6.74,
+        "average": 7.03,
+        "median": 6.94,
         "sold": "10472",
         "standard_deviation": "24.65",
-        "lowest_price": 3.59,
-        "highest_price": 20.64
+        "lowest_price": 3.7,
+        "highest_price": 21.27
       }
     }
   },
@@ -1437,28 +1317,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/skog_02.eeb9ddb340f8a0b530b097f6a7f37cd922334f53.png",
     "price": {
       "7_days": {
-        "average": 3.83,
-        "median": 4.08,
-        "sold": "66",
-        "standard_deviation": "18.78",
-        "lowest_price": 0.91,
-        "highest_price": 4.26
+        "average": 3.54,
+        "median": 3.8,
+        "sold": "64",
+        "standard_deviation": "24.92",
+        "lowest_price": 0.96,
+        "highest_price": 4.32
       },
       "30_days": {
-        "average": 4.18,
-        "median": 4.18,
-        "sold": "404",
-        "standard_deviation": "15.44",
-        "lowest_price": 0.91,
-        "highest_price": 5
+        "average": 3.99,
+        "median": 4.14,
+        "sold": "352",
+        "standard_deviation": "18.85",
+        "lowest_price": 0.93,
+        "highest_price": 4.88
       },
       "all_time": {
-        "average": 3.71,
-        "median": 3.73,
-        "sold": "45897",
-        "standard_deviation": "18.23",
-        "lowest_price": 0.91,
-        "highest_price": 7.68
+        "average": 3.77,
+        "median": 3.77,
+        "sold": "45962",
+        "standard_deviation": "18.21",
+        "lowest_price": 0.93,
+        "highest_price": 7.8
       }
     }
   },
@@ -1473,29 +1353,21 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/skog_02.eeb9ddb340f8a0b530b097f6a7f37cd922334f53.png",
     "price": {
-      "7_days": {
-        "average": 6.65,
-        "median": 6.82,
-        "sold": "27",
-        "standard_deviation": "6.68",
-        "lowest_price": 5.48,
-        "highest_price": 7.18
-      },
       "30_days": {
-        "average": 7.03,
-        "median": 7.03,
-        "sold": "200",
-        "standard_deviation": "9.17",
-        "lowest_price": 5.24,
-        "highest_price": 8.03
+        "average": 7.06,
+        "median": 7.06,
+        "sold": "137",
+        "standard_deviation": "8.95",
+        "lowest_price": 5.4,
+        "highest_price": 8.15
       },
       "all_time": {
-        "average": 5.87,
-        "median": 5.77,
+        "average": 6.05,
+        "median": 5.94,
         "sold": "22946",
         "standard_deviation": "17.84",
-        "lowest_price": 3.1,
-        "highest_price": 15.49
+        "lowest_price": 3.19,
+        "highest_price": 15.96
       }
     }
   },
@@ -1511,28 +1383,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/danielsadowski_03.23f670f86d302907e1965780bf0fc145ab334235.png",
     "price": {
       "7_days": {
-        "average": 3.82,
-        "median": 4.09,
-        "sold": "108",
-        "standard_deviation": "26.32",
-        "lowest_price": 0.95,
-        "highest_price": 4.57
+        "average": 3.63,
+        "median": 4.05,
+        "sold": "96",
+        "standard_deviation": "26.73",
+        "lowest_price": 0.97,
+        "highest_price": 4.4
       },
       "30_days": {
-        "average": 4.28,
-        "median": 4.4,
-        "sold": "705",
-        "standard_deviation": "19.75",
-        "lowest_price": 0.95,
-        "highest_price": 5.14
+        "average": 4.12,
+        "median": 4.32,
+        "sold": "633",
+        "standard_deviation": "22.49",
+        "lowest_price": 0.97,
+        "highest_price": 5.07
       },
       "all_time": {
-        "average": 3.72,
-        "median": 3.82,
-        "sold": "113637",
-        "standard_deviation": "33.24",
-        "lowest_price": 0.95,
-        "highest_price": 9.92
+        "average": 3.79,
+        "median": 3.86,
+        "sold": "113736",
+        "standard_deviation": "33.33",
+        "lowest_price": 0.97,
+        "highest_price": 10.08
       }
     }
   },
@@ -1547,37 +1419,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/danielsadowski_03.23f670f86d302907e1965780bf0fc145ab334235.png",
     "price": {
-      "24_hours": {
-        "average": 6.95,
-        "median": 7.17,
-        "sold": "3",
-        "standard_deviation": "7.15",
-        "lowest_price": 6.25,
-        "highest_price": 7.42
-      },
       "7_days": {
-        "average": 7.05,
-        "median": 7.09,
-        "sold": "45",
-        "standard_deviation": "6.91",
-        "lowest_price": 6.06,
-        "highest_price": 7.78
+        "average": 6.7,
+        "median": 6.57,
+        "sold": "25",
+        "standard_deviation": "7.32",
+        "lowest_price": 5.79,
+        "highest_price": 7.65
       },
       "30_days": {
-        "average": 7.81,
-        "median": 7.89,
-        "sold": "258",
-        "standard_deviation": "8.4",
-        "lowest_price": 5.81,
-        "highest_price": 8.84
+        "average": 7.6,
+        "median": 7.65,
+        "sold": "221",
+        "standard_deviation": "8.9",
+        "lowest_price": 5.79,
+        "highest_price": 8.69
       },
       "all_time": {
-        "average": 6.45,
-        "median": 6.32,
-        "sold": "45006",
-        "standard_deviation": "25.41",
-        "lowest_price": 3.66,
-        "highest_price": 15.36
+        "average": 6.57,
+        "median": 6.42,
+        "sold": "45036",
+        "standard_deviation": "25.21",
+        "lowest_price": 3.74,
+        "highest_price": 15.65
       }
     }
   },
@@ -1593,28 +1457,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/awolnation_01.2ffc1650abdea909957237a616b8a85f8ca686e4.png",
     "price": {
       "7_days": {
-        "average": 4.01,
-        "median": 4.21,
-        "sold": "553",
-        "standard_deviation": "17.15",
-        "lowest_price": 0.95,
-        "highest_price": 4.52
+        "average": 3.71,
+        "median": 4.08,
+        "sold": "526",
+        "standard_deviation": "25",
+        "lowest_price": 0.92,
+        "highest_price": 4.31
       },
       "30_days": {
-        "average": 4.24,
-        "median": 4.34,
-        "sold": "3219",
-        "standard_deviation": "18.95",
-        "lowest_price": 0.95,
-        "highest_price": 5.22
+        "average": 4.04,
+        "median": 4.26,
+        "sold": "2997",
+        "standard_deviation": "21.56",
+        "lowest_price": 0.92,
+        "highest_price": 5.13
       },
       "all_time": {
-        "average": 4.26,
+        "average": 4.33,
         "median": 4.46,
-        "sold": "511214",
-        "standard_deviation": "34.49",
-        "lowest_price": 0.95,
-        "highest_price": 19.58
+        "sold": "511744",
+        "standard_deviation": "35.01",
+        "lowest_price": 0.92,
+        "highest_price": 19.89
       }
     }
   },
@@ -1629,37 +1493,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/awolnation_01.2ffc1650abdea909957237a616b8a85f8ca686e4.png",
     "price": {
-      "24_hours": {
-        "average": 7.89,
-        "median": 7.98,
-        "sold": "14",
-        "standard_deviation": "3.75",
-        "lowest_price": 7.28,
-        "highest_price": 8.1
-      },
       "7_days": {
-        "average": 7.96,
-        "median": 8.02,
-        "sold": "156",
-        "standard_deviation": "5.32",
-        "lowest_price": 6.52,
-        "highest_price": 8.51
+        "average": 7.74,
+        "median": 7.86,
+        "sold": "124",
+        "standard_deviation": "6.34",
+        "lowest_price": 5.38,
+        "highest_price": 8.11
       },
       "30_days": {
-        "average": 8.35,
-        "median": 8.36,
-        "sold": "905",
-        "standard_deviation": "6.84",
-        "lowest_price": 6.52,
-        "highest_price": 9.35
+        "average": 8.2,
+        "median": 8.15,
+        "sold": "769",
+        "standard_deviation": "6.78",
+        "lowest_price": 5.38,
+        "highest_price": 9.34
       },
       "all_time": {
-        "average": 7.39,
-        "median": 7.53,
-        "sold": "163175",
-        "standard_deviation": "25.89",
-        "lowest_price": 4.46,
-        "highest_price": 22.96
+        "average": 7.53,
+        "median": 7.63,
+        "sold": "163309",
+        "standard_deviation": "25.76",
+        "lowest_price": 4.56,
+        "highest_price": 23.39
       }
     }
   },
@@ -1674,29 +1530,21 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/mordfustang_01.19b15e98c183e4cf11f06ee9d59a890d91513a8b.png",
     "price": {
-      "7_days": {
-        "average": 3.05,
-        "median": 3.51,
-        "sold": "60",
-        "standard_deviation": "28.13",
-        "lowest_price": 0.99,
-        "highest_price": 3.76
-      },
       "30_days": {
-        "average": 3.43,
-        "median": 3.78,
-        "sold": "1878",
-        "standard_deviation": "23.46",
-        "lowest_price": 0.87,
-        "highest_price": 4.19
-      },
-      "all_time": {
         "average": 3.62,
         "median": 3.79,
+        "sold": "1228",
+        "standard_deviation": "20.78",
+        "lowest_price": 0.89,
+        "highest_price": 4.2
+      },
+      "all_time": {
+        "average": 3.73,
+        "median": 3.9,
         "sold": "289223",
         "standard_deviation": "30.12",
-        "lowest_price": 0.87,
-        "highest_price": 9.57
+        "lowest_price": 0.89,
+        "highest_price": 9.86
       }
     }
   },
@@ -1711,37 +1559,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/mordfustang_01.19b15e98c183e4cf11f06ee9d59a890d91513a8b.png",
     "price": {
-      "24_hours": {
-        "average": 6.15,
-        "median": 6.17,
-        "sold": "6",
-        "standard_deviation": "1.03",
-        "lowest_price": 6.03,
-        "highest_price": 6.17
-      },
       "7_days": {
-        "average": 6.5,
-        "median": 6.47,
-        "sold": "85",
-        "standard_deviation": "7",
-        "lowest_price": 4.55,
-        "highest_price": 7.18
+        "average": 6.2,
+        "median": 6.26,
+        "sold": "66",
+        "standard_deviation": "4.22",
+        "lowest_price": 5.74,
+        "highest_price": 6.61
       },
       "30_days": {
-        "average": 6.82,
-        "median": 6.87,
-        "sold": "442",
-        "standard_deviation": "8.68",
-        "lowest_price": 4.55,
-        "highest_price": 7.85
+        "average": 6.77,
+        "median": 6.68,
+        "sold": "395",
+        "standard_deviation": "8.7",
+        "lowest_price": 4.7,
+        "highest_price": 8.09
       },
       "all_time": {
-        "average": 6.25,
-        "median": 6.26,
-        "sold": "90140",
-        "standard_deviation": "19.8",
-        "lowest_price": 3.96,
-        "highest_price": 13.38
+        "average": 6.47,
+        "median": 6.43,
+        "sold": "90218",
+        "standard_deviation": "19.7",
+        "lowest_price": 4.1,
+        "highest_price": 13.84
       }
     }
   },
@@ -1758,27 +1598,27 @@
     "price": {
       "7_days": {
         "average": 3.04,
-        "median": 3.41,
-        "sold": "57",
-        "standard_deviation": "28.22",
-        "lowest_price": 0.89,
-        "highest_price": 3.84
+        "median": 3.58,
+        "sold": "39",
+        "standard_deviation": "34.41",
+        "lowest_price": 0.97,
+        "highest_price": 3.82
       },
       "30_days": {
-        "average": 3.37,
-        "median": 3.61,
-        "sold": "264",
-        "standard_deviation": "29.15",
-        "lowest_price": 0.89,
-        "highest_price": 4.5
+        "average": 3.36,
+        "median": 3.62,
+        "sold": "241",
+        "standard_deviation": "27.92",
+        "lowest_price": 0.9,
+        "highest_price": 4.41
       },
       "all_time": {
-        "average": 4.18,
-        "median": 4.24,
-        "sold": "38380",
-        "standard_deviation": "35.19",
-        "lowest_price": 0.89,
-        "highest_price": 15.78
+        "average": 4.24,
+        "median": 4.29,
+        "sold": "38419",
+        "standard_deviation": "35.22",
+        "lowest_price": 0.9,
+        "highest_price": 16.03
       }
     }
   },
@@ -1793,37 +1633,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/michaelbross_01.adff3cdea10bca94a92025cc1fd052b5a2327a8d.png",
     "price": {
-      "24_hours": {
-        "average": 5.93,
-        "median": 5.93,
-        "sold": "1",
-        "standard_deviation": "0",
-        "lowest_price": 5.93,
-        "highest_price": 5.93
-      },
       "7_days": {
-        "average": 6.32,
-        "median": 6.43,
-        "sold": "11",
-        "standard_deviation": "7.2",
-        "lowest_price": 5.68,
-        "highest_price": 6.89
+        "average": 6.27,
+        "median": 6.18,
+        "sold": "9",
+        "standard_deviation": "4.52",
+        "lowest_price": 5.83,
+        "highest_price": 6.65
       },
       "30_days": {
-        "average": 6.75,
-        "median": 6.75,
-        "sold": "76",
-        "standard_deviation": "8.78",
-        "lowest_price": 5.68,
-        "highest_price": 7.82
+        "average": 6.67,
+        "median": 6.64,
+        "sold": "71",
+        "standard_deviation": "9.8",
+        "lowest_price": 4.64,
+        "highest_price": 7.97
       },
       "all_time": {
-        "average": 6.98,
-        "median": 6.77,
-        "sold": "15045",
-        "standard_deviation": "33.48",
-        "lowest_price": 3.86,
-        "highest_price": 26.48
+        "average": 7.12,
+        "median": 6.89,
+        "sold": "15059",
+        "standard_deviation": "33.38",
+        "lowest_price": 3.93,
+        "highest_price": 26.98
       }
     }
   },
@@ -1860,29 +1692,21 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/newbeatfund_01.f711bcd037c0ccc121b3ef4d0d45b7646ba3ccce.png",
     "price": {
-      "7_days": {
-        "average": 2.63,
-        "median": 3.45,
-        "sold": "153",
-        "standard_deviation": "44.18",
-        "lowest_price": 0.83,
-        "highest_price": 3.85
-      },
       "30_days": {
-        "average": 3,
-        "median": 3.66,
-        "sold": "898",
-        "standard_deviation": "35.56",
-        "lowest_price": 0.83,
-        "highest_price": 3.99
+        "average": 3.14,
+        "median": 3.74,
+        "sold": "629",
+        "standard_deviation": "33.33",
+        "lowest_price": 0.85,
+        "highest_price": 4.07
       },
       "all_time": {
-        "average": 3.94,
-        "median": 4.08,
+        "average": 4.05,
+        "median": 4.21,
         "sold": "78970",
         "standard_deviation": "34.14",
-        "lowest_price": 0.83,
-        "highest_price": 9.7
+        "lowest_price": 0.85,
+        "highest_price": 10
       }
     }
   },
@@ -1897,37 +1721,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/newbeatfund_01.f711bcd037c0ccc121b3ef4d0d45b7646ba3ccce.png",
     "price": {
-      "24_hours": {
-        "average": 6.91,
-        "median": 6.91,
-        "sold": "1",
-        "standard_deviation": "0",
-        "lowest_price": 6.91,
-        "highest_price": 6.91
-      },
       "7_days": {
-        "average": 6.68,
-        "median": 6.59,
-        "sold": "25",
-        "standard_deviation": "7.13",
-        "lowest_price": 6.07,
-        "highest_price": 7.43
+        "average": 6.44,
+        "median": 6.39,
+        "sold": "20",
+        "standard_deviation": "5.58",
+        "lowest_price": 5.67,
+        "highest_price": 7.17
       },
       "30_days": {
-        "average": 7.17,
-        "median": 7.27,
-        "sold": "161",
-        "standard_deviation": "9.44",
-        "lowest_price": 5.51,
-        "highest_price": 8.38
+        "average": 7.06,
+        "median": 7.05,
+        "sold": "131",
+        "standard_deviation": "10.03",
+        "lowest_price": 5.62,
+        "highest_price": 8.2
       },
       "all_time": {
-        "average": 6.76,
-        "median": 6.93,
-        "sold": "27703",
-        "standard_deviation": "28.95",
-        "lowest_price": 3.42,
-        "highest_price": 17.82
+        "average": 6.89,
+        "median": 7.04,
+        "sold": "27724",
+        "standard_deviation": "28.96",
+        "lowest_price": 3.49,
+        "highest_price": 18.16
       }
     }
   },
@@ -1943,28 +1759,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/beartooth_01.7c8272a14a47916ceb4b59bc18b1f2d0036b5523.png",
     "price": {
       "7_days": {
-        "average": 4.19,
-        "median": 4.46,
-        "sold": "73",
-        "standard_deviation": "22.22",
-        "lowest_price": 1,
-        "highest_price": 4.72
+        "average": 4.1,
+        "median": 4.26,
+        "sold": "66",
+        "standard_deviation": "14.36",
+        "lowest_price": 1.06,
+        "highest_price": 4.68
       },
       "30_days": {
-        "average": 4.8,
-        "median": 4.81,
-        "sold": "466",
-        "standard_deviation": "14.54",
-        "lowest_price": 1,
-        "highest_price": 5.97
+        "average": 4.58,
+        "median": 4.64,
+        "sold": "415",
+        "standard_deviation": "15",
+        "lowest_price": 1.02,
+        "highest_price": 5.42
       },
       "all_time": {
-        "average": 4.32,
-        "median": 4.22,
-        "sold": "70535",
-        "standard_deviation": "22.55",
-        "lowest_price": 1,
-        "highest_price": 12.42
+        "average": 4.39,
+        "median": 4.24,
+        "sold": "70601",
+        "standard_deviation": "22.08",
+        "lowest_price": 1.02,
+        "highest_price": 12.62
       }
     }
   },
@@ -1979,29 +1795,21 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/beartooth_01.7c8272a14a47916ceb4b59bc18b1f2d0036b5523.png",
     "price": {
-      "7_days": {
-        "average": 7.74,
-        "median": 7.9,
-        "sold": "31",
-        "standard_deviation": "7.79",
-        "lowest_price": 6.48,
-        "highest_price": 8.46
-      },
       "30_days": {
-        "average": 8.16,
-        "median": 8.21,
-        "sold": "221",
-        "standard_deviation": "10.38",
-        "lowest_price": 5.44,
-        "highest_price": 10.16
+        "average": 8.03,
+        "median": 8.15,
+        "sold": "153",
+        "standard_deviation": "8.55",
+        "lowest_price": 5.6,
+        "highest_price": 9.1
       },
       "all_time": {
-        "average": 6.46,
-        "median": 6.41,
+        "average": 6.66,
+        "median": 6.61,
         "sold": "40871",
         "standard_deviation": "21.28",
-        "lowest_price": 3.39,
-        "highest_price": 15.26
+        "lowest_price": 3.49,
+        "highest_price": 15.73
       }
     }
   },
@@ -2017,28 +1825,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/lenniemoore_01.85efce33bf5d30452a8e84e4a55c78c9b44775d3.png",
     "price": {
       "7_days": {
-        "average": 5.06,
-        "median": 5.16,
-        "sold": "197",
-        "standard_deviation": "5.86",
-        "lowest_price": 3.89,
-        "highest_price": 5.38
+        "average": 5.18,
+        "median": 5.28,
+        "sold": "149",
+        "standard_deviation": "4.63",
+        "lowest_price": 4.45,
+        "highest_price": 5.43
       },
       "30_days": {
-        "average": 5.53,
-        "median": 5.43,
-        "sold": "1375",
-        "standard_deviation": "9.18",
-        "lowest_price": 3.89,
-        "highest_price": 6.5
+        "average": 5.48,
+        "median": 5.35,
+        "sold": "1094",
+        "standard_deviation": "9.54",
+        "lowest_price": 3.96,
+        "highest_price": 6.61
       },
       "all_time": {
-        "average": 4.47,
-        "median": 4.87,
-        "sold": "86315",
-        "standard_deviation": "30.02",
-        "lowest_price": 2.36,
-        "highest_price": 11.71
+        "average": 4.56,
+        "median": 4.93,
+        "sold": "86468",
+        "standard_deviation": "29.9",
+        "lowest_price": 2.4,
+        "highest_price": 11.9
       }
     }
   },
@@ -2053,37 +1861,21 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/lenniemoore_01.85efce33bf5d30452a8e84e4a55c78c9b44775d3.png",
     "price": {
-      "24_hours": {
-        "average": 7.97,
-        "median": 7.92,
-        "sold": "6",
-        "standard_deviation": "5.05",
-        "lowest_price": 7.3,
-        "highest_price": 8.42
-      },
-      "7_days": {
-        "average": 8.29,
-        "median": 8.44,
-        "sold": "85",
-        "standard_deviation": "4.34",
-        "lowest_price": 7.17,
-        "highest_price": 8.53
-      },
       "30_days": {
-        "average": 9.15,
-        "median": 8.7,
-        "sold": "564",
-        "standard_deviation": "11.45",
-        "lowest_price": 5.81,
-        "highest_price": 11.36
+        "average": 8.82,
+        "median": 8.74,
+        "sold": "369",
+        "standard_deviation": "9.15",
+        "lowest_price": 5.98,
+        "highest_price": 10.39
       },
       "all_time": {
-        "average": 7.36,
-        "median": 7.65,
+        "average": 7.59,
+        "median": 7.88,
         "sold": "33368",
         "standard_deviation": "24.28",
-        "lowest_price": 4.17,
-        "highest_price": 15.64
+        "lowest_price": 4.29,
+        "highest_price": 16.11
       }
     }
   },
@@ -2132,20 +1924,20 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/beartooth_02.6ec3c958567128d94455f7c3459b22ad2061a12c.png",
     "price": {
       "30_days": {
-        "average": 0.93,
-        "median": 0.93,
-        "sold": "4355",
-        "standard_deviation": "10.23",
-        "lowest_price": 0.6,
-        "highest_price": 1.08
+        "average": 0.92,
+        "median": 0.9,
+        "sold": "2664",
+        "standard_deviation": "9.52",
+        "lowest_price": 0.62,
+        "highest_price": 1.07
       },
       "all_time": {
-        "average": 2.26,
-        "median": 2.35,
+        "average": 2.33,
+        "median": 2.42,
         "sold": "271231",
         "standard_deviation": "54.67",
-        "lowest_price": 0.58,
-        "highest_price": 9.87
+        "lowest_price": 0.6,
+        "highest_price": 10.17
       }
     }
   },
@@ -2171,37 +1963,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/blitzkids_01.5f0480468f7b46a838bb761dfdfa0788469e3e17.png",
     "price": {
-      "24_hours": {
-        "average": 16.46,
-        "median": 16.46,
-        "sold": "3",
-        "standard_deviation": "0",
-        "lowest_price": 16.46,
-        "highest_price": 16.46
-      },
       "7_days": {
-        "average": 17.2,
-        "median": 17.07,
-        "sold": "221",
-        "standard_deviation": "4.37",
-        "lowest_price": 11.87,
-        "highest_price": 18.26
+        "average": 16.09,
+        "median": 15.99,
+        "sold": "161",
+        "standard_deviation": "3.39",
+        "lowest_price": 15.11,
+        "highest_price": 17.57
       },
       "30_days": {
-        "average": 17.93,
-        "median": 17.8,
-        "sold": "1356",
-        "standard_deviation": "7.08",
-        "lowest_price": 11.87,
-        "highest_price": 20.76
+        "average": 17.46,
+        "median": 17.39,
+        "sold": "1185",
+        "standard_deviation": "6.49",
+        "lowest_price": 12.09,
+        "highest_price": 20.43
       },
       "all_time": {
-        "average": 12.73,
-        "median": 16.86,
-        "sold": "117228",
-        "standard_deviation": "52.7",
-        "lowest_price": 2.7,
-        "highest_price": 26.72
+        "average": 12.97,
+        "median": 16.76,
+        "sold": "117431",
+        "standard_deviation": "52.02",
+        "lowest_price": 2.75,
+        "highest_price": 27.23
       }
     }
   },
@@ -2227,37 +2011,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/hundredth_01.f6032850a26e9b1fdc9e8435a574282b27792747.png",
     "price": {
-      "24_hours": {
-        "average": 0.66,
-        "median": 0.66,
-        "sold": "31",
-        "standard_deviation": "4.84",
-        "lowest_price": 0.57,
-        "highest_price": 0.7
-      },
       "7_days": {
-        "average": 0.68,
+        "average": 0.66,
         "median": 0.69,
-        "sold": "933",
-        "standard_deviation": "4.69",
-        "lowest_price": 0.57,
+        "sold": "523",
+        "standard_deviation": "4.92",
+        "lowest_price": 0.58,
         "highest_price": 0.71
       },
       "30_days": {
-        "average": 0.77,
-        "median": 0.76,
-        "sold": "5436",
-        "standard_deviation": "10.96",
-        "lowest_price": 0.57,
-        "highest_price": 0.91
+        "average": 0.74,
+        "median": 0.72,
+        "sold": "4427",
+        "standard_deviation": "10.29",
+        "lowest_price": 0.58,
+        "highest_price": 0.93
       },
       "all_time": {
-        "average": 1.97,
-        "median": 2.09,
-        "sold": "319295",
-        "standard_deviation": "45.16",
-        "lowest_price": 0.53,
-        "highest_price": 3.97
+        "average": 2.01,
+        "median": 2.14,
+        "sold": "319914",
+        "standard_deviation": "45.11",
+        "lowest_price": 0.55,
+        "highest_price": 4.04
       }
     }
   },
@@ -2305,37 +2081,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/roam_01.de919629f1df756d298d81cdb24e658eacf7090c.png",
     "price": {
-      "24_hours": {
-        "average": 1.65,
-        "median": 1.85,
-        "sold": "24",
-        "standard_deviation": "19.23",
-        "lowest_price": 1,
-        "highest_price": 1.94
-      },
       "7_days": {
-        "average": 1.77,
-        "median": 1.87,
-        "sold": "653",
-        "standard_deviation": "16.17",
-        "lowest_price": 0.83,
-        "highest_price": 1.97
+        "average": 1.73,
+        "median": 1.86,
+        "sold": "299",
+        "standard_deviation": "16.98",
+        "lowest_price": 0.84,
+        "highest_price": 2.01
       },
       "30_days": {
-        "average": 1.94,
-        "median": 1.96,
-        "sold": "3576",
-        "standard_deviation": "16.94",
-        "lowest_price": 0.74,
-        "highest_price": 2.4
+        "average": 1.96,
+        "median": 1.97,
+        "sold": "2745",
+        "standard_deviation": "15",
+        "lowest_price": 0.84,
+        "highest_price": 2.39
       },
       "all_time": {
-        "average": 3.35,
-        "median": 3.36,
-        "sold": "203711",
-        "standard_deviation": "31.55",
-        "lowest_price": 0.74,
-        "highest_price": 6.17
+        "average": 3.47,
+        "median": 3.48,
+        "sold": "204069",
+        "standard_deviation": "31.76",
+        "lowest_price": 0.84,
+        "highest_price": 6.39
       }
     }
   },
@@ -2362,28 +2130,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/twinatlantic_01.a3e60569d052721275943b7fa0a563e59dd2f105.png",
     "price": {
       "7_days": {
-        "average": 1.07,
-        "median": 1.07,
-        "sold": "661",
-        "standard_deviation": "6.93",
-        "lowest_price": 0.73,
-        "highest_price": 1.18
+        "average": 1.06,
+        "median": 1.08,
+        "sold": "375",
+        "standard_deviation": "5.15",
+        "lowest_price": 0.84,
+        "highest_price": 1.12
       },
       "30_days": {
-        "average": 1.21,
-        "median": 1.21,
-        "sold": "3907",
-        "standard_deviation": "10.53",
-        "lowest_price": 0.73,
-        "highest_price": 1.42
+        "average": 1.17,
+        "median": 1.12,
+        "sold": "3172",
+        "standard_deviation": "9.35",
+        "lowest_price": 0.74,
+        "highest_price": 1.4
       },
       "all_time": {
-        "average": 2.56,
-        "median": 2.64,
-        "sold": "206649",
-        "standard_deviation": "37.19",
-        "lowest_price": 0.73,
-        "highest_price": 5.3
+        "average": 2.59,
+        "median": 2.69,
+        "sold": "207179",
+        "standard_deviation": "37.82",
+        "lowest_price": 0.74,
+        "highest_price": 5.38
       }
     }
   },
@@ -2409,37 +2177,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/skog_03.2a6b65fe2443cd27414c8ea48614c4b9386c377a.png",
     "price": {
-      "24_hours": {
-        "average": 0.68,
-        "median": 0.68,
-        "sold": "1",
-        "standard_deviation": "0",
-        "lowest_price": 0.68,
-        "highest_price": 0.68
-      },
       "7_days": {
         "average": 0.69,
         "median": 0.7,
-        "sold": "816",
-        "standard_deviation": "4.62",
-        "lowest_price": 0.59,
-        "highest_price": 0.75
+        "sold": "520",
+        "standard_deviation": "4.76",
+        "lowest_price": 0.58,
+        "highest_price": 0.73
       },
       "30_days": {
-        "average": 0.79,
-        "median": 0.77,
-        "sold": "5051",
-        "standard_deviation": "10.67",
-        "lowest_price": 0.56,
-        "highest_price": 0.94
+        "average": 0.75,
+        "median": 0.73,
+        "sold": "4152",
+        "standard_deviation": "10.14",
+        "lowest_price": 0.58,
+        "highest_price": 0.93
       },
       "all_time": {
-        "average": 2.01,
-        "median": 2.12,
-        "sold": "295651",
-        "standard_deviation": "47.89",
-        "lowest_price": 0.54,
-        "highest_price": 6.75
+        "average": 2.05,
+        "median": 2.16,
+        "sold": "296296",
+        "standard_deviation": "48.4",
+        "lowest_price": 0.55,
+        "highest_price": 6.88
       }
     }
   },
@@ -2454,37 +2214,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/theverkkars_01.c76969d8c14a9a74c71f0d5efce6453f7b70bf43.png",
     "price": {
-      "24_hours": {
-        "average": 4.23,
-        "median": 4.19,
-        "sold": "34",
-        "standard_deviation": "2.75",
-        "lowest_price": 3.97,
-        "highest_price": 4.31
-      },
       "7_days": {
-        "average": 4.05,
-        "median": 4.2,
-        "sold": "1541",
-        "standard_deviation": "17.75",
-        "lowest_price": 0.96,
-        "highest_price": 4.52
+        "average": 4.02,
+        "median": 4.16,
+        "sold": "1368",
+        "standard_deviation": "14.36",
+        "lowest_price": 0.97,
+        "highest_price": 4.4
       },
       "30_days": {
-        "average": 4.57,
-        "median": 4.52,
-        "sold": "9526",
-        "standard_deviation": "13.89",
-        "lowest_price": 0.96,
-        "highest_price": 5.56
+        "average": 4.4,
+        "median": 4.34,
+        "sold": "8695",
+        "standard_deviation": "14.6",
+        "lowest_price": 0.97,
+        "highest_price": 5.23
       },
       "all_time": {
-        "average": 4.99,
-        "median": 4.89,
-        "sold": "608342",
-        "standard_deviation": "11.44",
-        "lowest_price": 0.96,
-        "highest_price": 6.53
+        "average": 5.08,
+        "median": 4.91,
+        "sold": "609676",
+        "standard_deviation": "12.23",
+        "lowest_price": 0.97,
+        "highest_price": 6.65
       }
     }
   },
@@ -2499,37 +2251,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/theverkkars_01.c76969d8c14a9a74c71f0d5efce6453f7b70bf43.png",
     "price": {
-      "24_hours": {
-        "average": 7.71,
-        "median": 7.71,
-        "sold": "4",
-        "standard_deviation": "0",
-        "lowest_price": 7.71,
-        "highest_price": 7.71
-      },
       "7_days": {
-        "average": 7.64,
-        "median": 7.67,
-        "sold": "310",
-        "standard_deviation": "4.43",
-        "lowest_price": 6.89,
-        "highest_price": 8.17
+        "average": 7.42,
+        "median": 7.46,
+        "sold": "202",
+        "standard_deviation": "5.43",
+        "lowest_price": 6.51,
+        "highest_price": 8.03
       },
       "30_days": {
-        "average": 8.24,
-        "median": 8.13,
-        "sold": "1984",
-        "standard_deviation": "7.45",
-        "lowest_price": 6.79,
-        "highest_price": 9.32
+        "average": 8.01,
+        "median": 7.97,
+        "sold": "1665",
+        "standard_deviation": "6.12",
+        "lowest_price": 6.51,
+        "highest_price": 8.76
       },
       "all_time": {
-        "average": 8.17,
-        "median": 8.03,
-        "sold": "142216",
-        "standard_deviation": "9.59",
-        "lowest_price": 5.79,
-        "highest_price": 10.82
+        "average": 8.32,
+        "median": 8.1,
+        "sold": "142478",
+        "standard_deviation": "9.31",
+        "lowest_price": 5.9,
+        "highest_price": 11.02
       }
     }
   },
@@ -2556,28 +2300,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/scarlxrd_01.f1deaed73c132260c8354198bc2f23e939b139b3.png",
     "price": {
       "7_days": {
-        "average": 2.91,
-        "median": 2.93,
-        "sold": "117",
-        "standard_deviation": "13.45",
-        "lowest_price": 0.99,
-        "highest_price": 3.01
+        "average": 2.79,
+        "median": 2.86,
+        "sold": "482",
+        "standard_deviation": "14.06",
+        "lowest_price": 0.97,
+        "highest_price": 3.06
       },
       "30_days": {
-        "average": 3.3,
-        "median": 3.35,
-        "sold": "2883",
-        "standard_deviation": "12.82",
-        "lowest_price": 0.81,
-        "highest_price": 3.8
+        "average": 3.15,
+        "median": 3.06,
+        "sold": "2977",
+        "standard_deviation": "13.49",
+        "lowest_price": 0.83,
+        "highest_price": 3.75
       },
       "all_time": {
-        "average": 3.83,
-        "median": 3.51,
-        "sold": "305008",
-        "standard_deviation": "16.02",
-        "lowest_price": 0.81,
-        "highest_price": 5.48
+        "average": 3.9,
+        "median": 3.46,
+        "sold": "305991",
+        "standard_deviation": "17.32",
+        "lowest_price": 0.83,
+        "highest_price": 5.58
       }
     }
   },
@@ -2593,28 +2337,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/scarlxrd_01.f1deaed73c132260c8354198bc2f23e939b139b3.png",
     "price": {
       "7_days": {
-        "average": 5.27,
-        "median": 5.28,
-        "sold": "120",
-        "standard_deviation": "5.42",
-        "lowest_price": 3.97,
-        "highest_price": 5.75
+        "average": 5.22,
+        "median": 5.4,
+        "sold": "78",
+        "standard_deviation": "12.32",
+        "lowest_price": 1.02,
+        "highest_price": 5.7
       },
       "30_days": {
-        "average": 5.83,
-        "median": 5.79,
-        "sold": "756",
-        "standard_deviation": "8.71",
-        "lowest_price": 2.95,
-        "highest_price": 6.68
+        "average": 5.68,
+        "median": 5.64,
+        "sold": "626",
+        "standard_deviation": "9.4",
+        "lowest_price": 1.02,
+        "highest_price": 6.73
       },
       "all_time": {
-        "average": 6.13,
-        "median": 5.77,
-        "sold": "68665",
-        "standard_deviation": "15.2",
-        "lowest_price": 2.95,
-        "highest_price": 8.76
+        "average": 6.25,
+        "median": 5.79,
+        "sold": "68767",
+        "standard_deviation": "15.36",
+        "lowest_price": 1.02,
+        "highest_price": 8.93
       }
     }
   },
@@ -2640,37 +2384,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/austinwintory_02.c8fb789fab88586d69b2bc822332a7a86afb83ed.png",
     "price": {
-      "24_hours": {
-        "average": 1.83,
-        "median": 1.95,
-        "sold": "18",
-        "standard_deviation": "20.81",
-        "lowest_price": 1,
-        "highest_price": 1.99
-      },
       "7_days": {
-        "average": 1.85,
-        "median": 1.93,
-        "sold": "327",
-        "standard_deviation": "17.14",
-        "lowest_price": 0.9,
-        "highest_price": 2.16
+        "average": 1.9,
+        "median": 1.94,
+        "sold": "301",
+        "standard_deviation": "14.37",
+        "lowest_price": 0.83,
+        "highest_price": 2.1
       },
       "30_days": {
-        "average": 2.08,
-        "median": 2.07,
-        "sold": "2085",
-        "standard_deviation": "17.77",
-        "lowest_price": 0.87,
-        "highest_price": 2.58
+        "average": 2.05,
+        "median": 2.05,
+        "sold": "1825",
+        "standard_deviation": "16.49",
+        "lowest_price": 0.83,
+        "highest_price": 2.57
       },
       "all_time": {
-        "average": 2.98,
-        "median": 2.41,
-        "sold": "92854",
-        "standard_deviation": "30.5",
-        "lowest_price": 0.75,
-        "highest_price": 5.95
+        "average": 3.04,
+        "median": 2.42,
+        "sold": "93137",
+        "standard_deviation": "30.82",
+        "lowest_price": 0.83,
+        "highest_price": 6.06
       }
     }
   },
@@ -2685,37 +2421,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/austinwintory_02.c8fb789fab88586d69b2bc822332a7a86afb83ed.png",
     "price": {
-      "24_hours": {
-        "average": 3.45,
-        "median": 3.49,
-        "sold": "9",
-        "standard_deviation": "2.76",
-        "lowest_price": 3.36,
-        "highest_price": 3.62
-      },
       "7_days": {
-        "average": 3.22,
-        "median": 3.45,
-        "sold": "124",
-        "standard_deviation": "18.75",
-        "lowest_price": 0.95,
-        "highest_price": 3.65
+        "average": 3.36,
+        "median": 3.7,
+        "sold": "75",
+        "standard_deviation": "24.03",
+        "lowest_price": 0.9,
+        "highest_price": 3.79
       },
       "30_days": {
-        "average": 3.9,
-        "median": 4.05,
-        "sold": "640",
-        "standard_deviation": "19.24",
-        "lowest_price": 0.89,
-        "highest_price": 4.81
+        "average": 3.85,
+        "median": 3.79,
+        "sold": "525",
+        "standard_deviation": "20.68",
+        "lowest_price": 0.9,
+        "highest_price": 4.96
       },
       "all_time": {
-        "average": 5.1,
-        "median": 4.43,
-        "sold": "29810",
-        "standard_deviation": "24.48",
-        "lowest_price": 0.89,
-        "highest_price": 9.03
+        "average": 5.28,
+        "median": 4.56,
+        "sold": "29891",
+        "standard_deviation": "25",
+        "lowest_price": 0.9,
+        "highest_price": 9.35
       }
     }
   },
@@ -2731,28 +2459,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/dren_02.63647ccdee069255f19589d7ce2d5b7de591aa6b.png",
     "price": {
       "7_days": {
-        "average": 18.12,
-        "median": 18.13,
-        "sold": "217",
-        "standard_deviation": "4.79",
-        "lowest_price": 15.68,
-        "highest_price": 19.45
+        "average": 18.02,
+        "median": 18.18,
+        "sold": "184",
+        "standard_deviation": "4.66",
+        "lowest_price": 15.86,
+        "highest_price": 19.4
       },
       "30_days": {
-        "average": 18.86,
-        "median": 18.87,
-        "sold": "1552",
-        "standard_deviation": "6.39",
-        "lowest_price": 11.39,
-        "highest_price": 20.89
+        "average": 18.66,
+        "median": 18.57,
+        "sold": "1324",
+        "standard_deviation": "6.13",
+        "lowest_price": 11.58,
+        "highest_price": 20.68
       },
       "all_time": {
-        "average": 16.17,
-        "median": 17.45,
-        "sold": "49273",
-        "standard_deviation": "13.54",
-        "lowest_price": 6.81,
-        "highest_price": 22.85
+        "average": 16.44,
+        "median": 17.63,
+        "sold": "49468",
+        "standard_deviation": "13.13",
+        "lowest_price": 6.92,
+        "highest_price": 23.22
       }
     }
   },
@@ -2767,37 +2495,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/dren_02.63647ccdee069255f19589d7ce2d5b7de591aa6b.png",
     "price": {
-      "24_hours": {
-        "average": 27.03,
-        "median": 26.98,
-        "sold": "7",
-        "standard_deviation": "0.82",
-        "lowest_price": 26.69,
-        "highest_price": 27.31
-      },
       "7_days": {
-        "average": 29.28,
-        "median": 29.69,
-        "sold": "102",
-        "standard_deviation": "12.75",
-        "lowest_price": 0.62,
-        "highest_price": 32.07
+        "average": 30.6,
+        "median": 31.15,
+        "sold": "59",
+        "standard_deviation": "6.06",
+        "lowest_price": 26.9,
+        "highest_price": 32.29
       },
       "30_days": {
-        "average": 31.1,
-        "median": 31.04,
-        "sold": "620",
-        "standard_deviation": "8.13",
-        "lowest_price": 0.62,
-        "highest_price": 35.62
+        "average": 31.03,
+        "median": 31.46,
+        "sold": "496",
+        "standard_deviation": "8.25",
+        "lowest_price": 0.63,
+        "highest_price": 34.6
       },
       "all_time": {
-        "average": 23.92,
-        "median": 26.55,
-        "sold": "22769",
-        "standard_deviation": "18.05",
-        "lowest_price": 0.62,
-        "highest_price": 35.85
+        "average": 24.38,
+        "median": 26.96,
+        "sold": "22841",
+        "standard_deviation": "17.75",
+        "lowest_price": 0.63,
+        "highest_price": 36.53
       }
     }
   },
@@ -2812,29 +2532,21 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/danielsadowski_04.6be221622292eabfe4da40d166fa75a6d0dcec55.png",
     "price": {
-      "7_days": {
-        "average": 1.6,
-        "median": 1.68,
-        "sold": "342",
-        "standard_deviation": "13.91",
-        "lowest_price": 0.92,
-        "highest_price": 1.82
-      },
       "30_days": {
         "average": 1.87,
-        "median": 1.85,
-        "sold": "2413",
-        "standard_deviation": "14.12",
-        "lowest_price": 0.88,
-        "highest_price": 2.32
+        "median": 1.86,
+        "sold": "1709",
+        "standard_deviation": "13.37",
+        "lowest_price": 0.92,
+        "highest_price": 2.23
       },
       "all_time": {
-        "average": 3.06,
-        "median": 2.14,
+        "average": 3.15,
+        "median": 2.2,
         "sold": "95764",
         "standard_deviation": "44.98",
-        "lowest_price": 0.75,
-        "highest_price": 7.71
+        "lowest_price": 0.77,
+        "highest_price": 7.95
       }
     }
   },
@@ -2849,37 +2561,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/danielsadowski_04.6be221622292eabfe4da40d166fa75a6d0dcec55.png",
     "price": {
-      "24_hours": {
-        "average": 3.21,
-        "median": 3.21,
-        "sold": "9",
-        "standard_deviation": "3.63",
-        "lowest_price": 2.96,
-        "highest_price": 3.3
-      },
       "7_days": {
-        "average": 2.84,
-        "median": 3.08,
-        "sold": "177",
-        "standard_deviation": "21.64",
-        "lowest_price": 0.9,
+        "average": 2.98,
+        "median": 3.23,
+        "sold": "88",
+        "standard_deviation": "20.15",
+        "lowest_price": 0.97,
         "highest_price": 3.44
       },
       "30_days": {
-        "average": 3.44,
-        "median": 3.47,
-        "sold": "998",
-        "standard_deviation": "18.77",
-        "lowest_price": 0.9,
-        "highest_price": 4.18
+        "average": 3.29,
+        "median": 3.42,
+        "sold": "730",
+        "standard_deviation": "20.2",
+        "lowest_price": 0.92,
+        "highest_price": 4.14
       },
       "all_time": {
-        "average": 5.35,
-        "median": 3.91,
-        "sold": "31447",
-        "standard_deviation": "39.33",
-        "lowest_price": 0.75,
-        "highest_price": 11.91
+        "average": 5.44,
+        "median": 3.98,
+        "sold": "31549",
+        "standard_deviation": "39.68",
+        "lowest_price": 0.92,
+        "highest_price": 12.13
       }
     }
   },
@@ -2894,37 +2598,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/treeadams_benbromfield_01.08ca88c8f650b524f709a3e2e05e3160579771c3.png",
     "price": {
-      "24_hours": {
-        "average": 0.51,
-        "median": 0.53,
-        "sold": "13",
-        "standard_deviation": "6.25",
-        "lowest_price": 0.47,
-        "highest_price": 0.54
-      },
       "7_days": {
         "average": 0.52,
-        "median": 0.53,
-        "sold": "415",
-        "standard_deviation": "6.12",
-        "lowest_price": 0.41,
-        "highest_price": 0.54
+        "median": 0.55,
+        "sold": "13",
+        "standard_deviation": "6.25",
+        "lowest_price": 0.48,
+        "highest_price": 0.56
       },
       "30_days": {
         "average": 0.59,
-        "median": 0.58,
-        "sold": "2147",
-        "standard_deviation": "10.71",
-        "lowest_price": 0.37,
+        "median": 0.56,
+        "sold": "1604",
+        "standard_deviation": "11.11",
+        "lowest_price": 0.38,
         "highest_price": 0.71
       },
       "all_time": {
-        "average": 1.34,
-        "median": 0.94,
+        "average": 1.38,
+        "median": 0.97,
         "sold": "135374",
         "standard_deviation": "39.37",
-        "lowest_price": 0.37,
-        "highest_price": 2.3
+        "lowest_price": 0.38,
+        "highest_price": 2.37
       }
     }
   },
@@ -2939,37 +2635,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/treeadams_benbromfield_01.08ca88c8f650b524f709a3e2e05e3160579771c3.png",
     "price": {
-      "24_hours": {
-        "average": 0.95,
-        "median": 0.94,
-        "sold": "6",
-        "standard_deviation": "3.33",
-        "lowest_price": 0.91,
-        "highest_price": 0.98
-      },
       "7_days": {
-        "average": 0.95,
+        "average": 0.93,
         "median": 0.96,
-        "sold": "175",
-        "standard_deviation": "5.56",
-        "lowest_price": 0.76,
-        "highest_price": 1.04
+        "sold": "91",
+        "standard_deviation": "7.06",
+        "lowest_price": 0.75,
+        "highest_price": 1
       },
       "30_days": {
-        "average": 1.06,
-        "median": 1.07,
-        "sold": "867",
-        "standard_deviation": "11",
+        "average": 1.02,
+        "median": 1.02,
+        "sold": "744",
+        "standard_deviation": "10.64",
         "lowest_price": 0.28,
-        "highest_price": 1.28
+        "highest_price": 1.25
       },
       "all_time": {
-        "average": 1.93,
-        "median": 1.59,
-        "sold": "45202",
-        "standard_deviation": "30.22",
+        "average": 1.95,
+        "median": 1.62,
+        "sold": "45316",
+        "standard_deviation": "30.73",
         "lowest_price": 0.28,
-        "highest_price": 3.12
+        "highest_price": 3.18
       }
     }
   },
@@ -2985,28 +2673,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/timhuling_01.518aa6b46cec0d809e1e984041c66fd00f22b005.png",
     "price": {
       "7_days": {
-        "average": 0.52,
+        "average": 0.51,
         "median": 0.52,
-        "sold": "389",
-        "standard_deviation": "6.12",
-        "lowest_price": 0.34,
-        "highest_price": 0.57
+        "sold": "302",
+        "standard_deviation": "6.38",
+        "lowest_price": 0.41,
+        "highest_price": 0.56
       },
       "30_days": {
-        "average": 0.61,
-        "median": 0.61,
-        "sold": "2262",
-        "standard_deviation": "12.07",
-        "lowest_price": 0.34,
+        "average": 0.59,
+        "median": 0.57,
+        "sold": "1951",
+        "standard_deviation": "12.96",
+        "lowest_price": 0.35,
         "highest_price": 0.73
       },
       "all_time": {
-        "average": 1.36,
-        "median": 0.95,
-        "sold": "147412",
-        "standard_deviation": "37.98",
-        "lowest_price": 0.34,
-        "highest_price": 2.34
+        "average": 1.38,
+        "median": 0.97,
+        "sold": "147716",
+        "standard_deviation": "38.58",
+        "lowest_price": 0.35,
+        "highest_price": 2.38
       }
     }
   },
@@ -3021,29 +2709,21 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/timhuling_01.518aa6b46cec0d809e1e984041c66fd00f22b005.png",
     "price": {
-      "7_days": {
-        "average": 1.1,
-        "median": 1.1,
-        "sold": "27",
-        "standard_deviation": "4.81",
-        "lowest_price": 1.02,
-        "highest_price": 1.18
-      },
       "30_days": {
-        "average": 1.18,
-        "median": 1.2,
-        "sold": "773",
-        "standard_deviation": "10.71",
-        "lowest_price": 0.55,
-        "highest_price": 1.4
+        "average": 1.2,
+        "median": 1.19,
+        "sold": "510",
+        "standard_deviation": "10",
+        "lowest_price": 0.57,
+        "highest_price": 1.41
       },
       "all_time": {
-        "average": 1.95,
-        "median": 1.6,
+        "average": 2.01,
+        "median": 1.65,
         "sold": "48677",
         "standard_deviation": "27.72",
-        "lowest_price": 0.51,
-        "highest_price": 3.11
+        "lowest_price": 0.52,
+        "highest_price": 3.2
       }
     }
   },
@@ -3058,37 +2738,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/sammarshall_01.05adc292af4abcfe6cd6b2d76a6020ab80122ada.png",
     "price": {
-      "24_hours": {
-        "average": 1.14,
-        "median": 1.16,
+      "7_days": {
+        "average": 1.18,
+        "median": 1.2,
         "sold": "19",
         "standard_deviation": "5.56",
-        "lowest_price": 0.98,
-        "highest_price": 1.17
-      },
-      "7_days": {
-        "average": 1.11,
-        "median": 1.13,
-        "sold": "401",
-        "standard_deviation": "7.62",
-        "lowest_price": 0.81,
-        "highest_price": 1.18
+        "lowest_price": 1.01,
+        "highest_price": 1.21
       },
       "30_days": {
-        "average": 1.18,
-        "median": 1.17,
-        "sold": "1768",
-        "standard_deviation": "9.82",
-        "lowest_price": 0.81,
-        "highest_price": 1.45
+        "average": 1.19,
+        "median": 1.2,
+        "sold": "1335",
+        "standard_deviation": "8.26",
+        "lowest_price": 0.84,
+        "highest_price": 1.42
       },
       "all_time": {
-        "average": 2.48,
-        "median": 1.6,
+        "average": 2.55,
+        "median": 1.65,
         "sold": "86732",
         "standard_deviation": "47.44",
-        "lowest_price": 0.75,
-        "highest_price": 8.26
+        "lowest_price": 0.77,
+        "highest_price": 8.51
       }
     }
   },
@@ -3103,37 +2775,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/sammarshall_01.05adc292af4abcfe6cd6b2d76a6020ab80122ada.png",
     "price": {
-      "24_hours": {
-        "average": 1.91,
-        "median": 1.9,
-        "sold": "7",
-        "standard_deviation": "4.97",
-        "lowest_price": 1.8,
-        "highest_price": 2.06
-      },
       "7_days": {
-        "average": 1.8,
-        "median": 1.96,
-        "sold": "114",
-        "standard_deviation": "22.94",
-        "lowest_price": 0.83,
-        "highest_price": 2.2
+        "average": 1.82,
+        "median": 2.01,
+        "sold": "63",
+        "standard_deviation": "20.96",
+        "lowest_price": 0.89,
+        "highest_price": 2.16
       },
       "30_days": {
-        "average": 1.97,
-        "median": 2.09,
-        "sold": "665",
-        "standard_deviation": "19.89",
-        "lowest_price": 0.76,
-        "highest_price": 2.43
+        "average": 1.95,
+        "median": 2.07,
+        "sold": "534",
+        "standard_deviation": "19.55",
+        "lowest_price": 0.77,
+        "highest_price": 2.4
       },
       "all_time": {
-        "average": 4.23,
-        "median": 2.75,
-        "sold": "29537",
-        "standard_deviation": "43.5",
-        "lowest_price": 0.75,
-        "highest_price": 14.26
+        "average": 4.31,
+        "median": 2.82,
+        "sold": "29606",
+        "standard_deviation": "43.8",
+        "lowest_price": 0.77,
+        "highest_price": 14.53
       }
     }
   },
@@ -3149,28 +2813,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/mattlevine_01.974b450e606547a138e15a540597164bcd70a8e8.png",
     "price": {
       "7_days": {
-        "average": 1.32,
+        "average": 1.31,
         "median": 1.35,
-        "sold": "360",
-        "standard_deviation": "8",
-        "lowest_price": 0.9,
-        "highest_price": 1.46
+        "sold": "253",
+        "standard_deviation": "8.33",
+        "lowest_price": 0.83,
+        "highest_price": 1.42
       },
       "30_days": {
-        "average": 1.47,
-        "median": 1.48,
-        "sold": "2191",
-        "standard_deviation": "11.51",
-        "lowest_price": 0.88,
+        "average": 1.45,
+        "median": 1.41,
+        "sold": "1909",
+        "standard_deviation": "11.28",
+        "lowest_price": 0.83,
         "highest_price": 1.72
       },
       "all_time": {
-        "average": 2.06,
-        "median": 1.69,
-        "sold": "109308",
-        "standard_deviation": "25.13",
-        "lowest_price": 0.75,
-        "highest_price": 4.07
+        "average": 2.09,
+        "median": 1.7,
+        "sold": "109568",
+        "standard_deviation": "25.52",
+        "lowest_price": 0.83,
+        "highest_price": 4.14
       }
     }
   },
@@ -3185,37 +2849,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/mattlevine_01.974b450e606547a138e15a540597164bcd70a8e8.png",
     "price": {
-      "24_hours": {
-        "average": 2.11,
-        "median": 2.36,
-        "sold": "4",
-        "standard_deviation": "32.16",
-        "lowest_price": 1,
-        "highest_price": 2.53
-      },
       "7_days": {
-        "average": 2.38,
-        "median": 2.52,
-        "sold": "114",
-        "standard_deviation": "17.78",
-        "lowest_price": 0.87,
-        "highest_price": 2.66
+        "average": 2.33,
+        "median": 2.58,
+        "sold": "55",
+        "standard_deviation": "18.69",
+        "lowest_price": 0.84,
+        "highest_price": 2.65
       },
       "30_days": {
-        "average": 2.66,
-        "median": 2.7,
-        "sold": "741",
-        "standard_deviation": "18.73",
-        "lowest_price": 0.87,
-        "highest_price": 3.23
+        "average": 2.62,
+        "median": 2.67,
+        "sold": "559",
+        "standard_deviation": "17.92",
+        "lowest_price": 0.84,
+        "highest_price": 3.27
       },
       "all_time": {
-        "average": 3.23,
-        "median": 2.94,
-        "sold": "35709",
-        "standard_deviation": "20.33",
-        "lowest_price": 0.75,
-        "highest_price": 5.8
+        "average": 3.34,
+        "median": 3.01,
+        "sold": "35779",
+        "standard_deviation": "20.59",
+        "lowest_price": 0.84,
+        "highest_price": 6
       }
     }
   },
@@ -3231,28 +2887,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/amontobin_01.2cf4f8b98a111fc847576bb6a8feb3364a2cfa1b.png",
     "price": {
       "7_days": {
-        "average": 2.99,
-        "median": 3.35,
-        "sold": "60",
-        "standard_deviation": "26.15",
-        "lowest_price": 0.87,
-        "highest_price": 3.42
+        "average": 2.95,
+        "median": 3.3,
+        "sold": "51",
+        "standard_deviation": "25.46",
+        "lowest_price": 0.83,
+        "highest_price": 3.43
       },
       "30_days": {
         "average": 3.1,
-        "median": 3.35,
-        "sold": "442",
-        "standard_deviation": "24.23",
-        "lowest_price": 0.76,
-        "highest_price": 3.65
+        "median": 3.31,
+        "sold": "352",
+        "standard_deviation": "22.54",
+        "lowest_price": 0.77,
+        "highest_price": 3.68
       },
       "all_time": {
-        "average": 3.06,
-        "median": 3.04,
-        "sold": "26152",
-        "standard_deviation": "18.69",
-        "lowest_price": 0.76,
-        "highest_price": 5.17
+        "average": 3.11,
+        "median": 3.08,
+        "sold": "26203",
+        "standard_deviation": "18.25",
+        "lowest_price": 0.77,
+        "highest_price": 5.25
       }
     }
   },
@@ -3267,21 +2923,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/amontobin_01.2cf4f8b98a111fc847576bb6a8feb3364a2cfa1b.png",
     "price": {
+      "7_days": {
+        "average": 4.96,
+        "median": 4.95,
+        "sold": "20",
+        "standard_deviation": "8.79",
+        "lowest_price": 4.04,
+        "highest_price": 5.54
+      },
       "30_days": {
-        "average": 6.16,
-        "median": 6.19,
-        "sold": "126",
-        "standard_deviation": "11.17",
-        "lowest_price": 4.82,
-        "highest_price": 7.88
+        "average": 6.02,
+        "median": 5.96,
+        "sold": "123",
+        "standard_deviation": "13.77",
+        "lowest_price": 4.04,
+        "highest_price": 7.9
       },
       "all_time": {
-        "average": 4.86,
-        "median": 4.86,
-        "sold": "8962",
-        "standard_deviation": "19.83",
-        "lowest_price": 2.41,
-        "highest_price": 8.2
+        "average": 4.87,
+        "median": 4.84,
+        "sold": "9013",
+        "standard_deviation": "19.69",
+        "lowest_price": 2.42,
+        "highest_price": 8.22
       }
     }
   },
@@ -3308,28 +2972,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/neckdeep_02.d00e38b24d5ca285fd34411afc34b874ab80cd1b.png",
     "price": {
       "7_days": {
-        "average": 3.62,
-        "median": 3.87,
-        "sold": "156",
-        "standard_deviation": "19.88",
-        "lowest_price": 1.03,
-        "highest_price": 4.02
+        "average": 3.39,
+        "median": 3.74,
+        "sold": "880",
+        "standard_deviation": "26.37",
+        "lowest_price": 0.83,
+        "highest_price": 4.12
       },
       "30_days": {
-        "average": 3.86,
-        "median": 4.12,
-        "sold": "2975",
-        "standard_deviation": "21.92",
-        "lowest_price": 0.81,
-        "highest_price": 4.81
+        "average": 3.68,
+        "median": 3.98,
+        "sold": "3400",
+        "standard_deviation": "25.44",
+        "lowest_price": 0.83,
+        "highest_price": 4.82
       },
       "all_time": {
-        "average": 4.07,
-        "median": 4.33,
-        "sold": "110798",
-        "standard_deviation": "20",
-        "lowest_price": 0.81,
-        "highest_price": 5.91
+        "average": 4.14,
+        "median": 4.16,
+        "sold": "112141",
+        "standard_deviation": "22.37",
+        "lowest_price": 0.83,
+        "highest_price": 6.03
       }
     }
   },
@@ -3345,28 +3009,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/neckdeep_02.d00e38b24d5ca285fd34411afc34b874ab80cd1b.png",
     "price": {
       "7_days": {
-        "average": 7.17,
-        "median": 7.24,
-        "sold": "114",
-        "standard_deviation": "5.16",
-        "lowest_price": 5.91,
-        "highest_price": 7.66
+        "average": 7.04,
+        "median": 7.17,
+        "sold": "98",
+        "standard_deviation": "6.97",
+        "lowest_price": 5.53,
+        "highest_price": 7.59
       },
       "30_days": {
-        "average": 7.7,
-        "median": 7.64,
-        "sold": "755",
-        "standard_deviation": "8.52",
-        "lowest_price": 4.08,
-        "highest_price": 8.66
+        "average": 7.53,
+        "median": 7.49,
+        "sold": "659",
+        "standard_deviation": "8.25",
+        "lowest_price": 4.15,
+        "highest_price": 8.69
       },
       "all_time": {
-        "average": 6.94,
-        "median": 7.29,
-        "sold": "33472",
-        "standard_deviation": "14.18",
-        "lowest_price": 4,
-        "highest_price": 9.56
+        "average": 7.05,
+        "median": 7.31,
+        "sold": "33593",
+        "standard_deviation": "13.45",
+        "lowest_price": 4.07,
+        "highest_price": 9.71
       }
     }
   },
@@ -3382,28 +3046,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/scarlxrd_02.9d630d5c49841c359e6def0bc2e4e24b62b2f233.png",
     "price": {
       "7_days": {
-        "average": 2.27,
-        "median": 2.32,
-        "sold": "604",
-        "standard_deviation": "10.7",
-        "lowest_price": 0.9,
-        "highest_price": 2.41
+        "average": 2.25,
+        "median": 2.27,
+        "sold": "497",
+        "standard_deviation": "10.68",
+        "lowest_price": 0.22,
+        "highest_price": 2.37
       },
       "30_days": {
-        "average": 2.63,
-        "median": 2.59,
-        "sold": "3730",
-        "standard_deviation": "13.65",
-        "lowest_price": 0.9,
-        "highest_price": 3.1
+        "average": 2.53,
+        "median": 2.44,
+        "sold": "3268",
+        "standard_deviation": "13.36",
+        "lowest_price": 0.22,
+        "highest_price": 3.12
       },
       "all_time": {
-        "average": 2.66,
-        "median": 2.57,
-        "sold": "203544",
-        "standard_deviation": "16.33",
-        "lowest_price": 0.75,
-        "highest_price": 5.42
+        "average": 2.7,
+        "median": 2.49,
+        "sold": "204067",
+        "standard_deviation": "16.13",
+        "lowest_price": 0.22,
+        "highest_price": 5.5
       }
     }
   },
@@ -3419,28 +3083,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/scarlxrd_02.9d630d5c49841c359e6def0bc2e4e24b62b2f233.png",
     "price": {
       "7_days": {
-        "average": 4.1,
-        "median": 4.33,
-        "sold": "150",
-        "standard_deviation": "19.07",
-        "lowest_price": 1,
+        "average": 4.25,
+        "median": 4.41,
+        "sold": "119",
+        "standard_deviation": "15.64",
+        "lowest_price": 1.01,
         "highest_price": 4.46
       },
       "30_days": {
-        "average": 4.72,
-        "median": 4.87,
-        "sold": "903",
-        "standard_deviation": "17.04",
-        "lowest_price": 1,
-        "highest_price": 5.49
+        "average": 4.51,
+        "median": 4.49,
+        "sold": "790",
+        "standard_deviation": "18.84",
+        "lowest_price": 1.01,
+        "highest_price": 5.46
       },
       "all_time": {
-        "average": 4.29,
-        "median": 4.34,
-        "sold": "48804",
-        "standard_deviation": "19.7",
-        "lowest_price": 1,
-        "highest_price": 8.66
+        "average": 4.36,
+        "median": 4.36,
+        "sold": "48948",
+        "standard_deviation": "19.25",
+        "lowest_price": 1.01,
+        "highest_price": 8.8
       }
     }
   },
@@ -3456,28 +3120,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/austinwintory_03.18f6213b11eccdb12237547a78c2cb70fb54d829.png",
     "price": {
       "7_days": {
-        "average": 1.61,
-        "median": 1.62,
-        "sold": "42",
-        "standard_deviation": "5.92",
-        "lowest_price": 1.23,
-        "highest_price": 1.76
+        "average": 1.57,
+        "median": 1.6,
+        "sold": "155",
+        "standard_deviation": "12.5",
+        "lowest_price": 0.83,
+        "highest_price": 1.77
       },
       "30_days": {
-        "average": 1.77,
-        "median": 1.81,
-        "sold": "954",
-        "standard_deviation": "15.57",
-        "lowest_price": 0.87,
-        "highest_price": 2.11
+        "average": 1.7,
+        "median": 1.68,
+        "sold": "958",
+        "standard_deviation": "14.74",
+        "lowest_price": 0.83,
+        "highest_price": 2.14
       },
       "all_time": {
-        "average": 2.25,
-        "median": 1.91,
-        "sold": "41156",
-        "standard_deviation": "18.31",
-        "lowest_price": 0.87,
-        "highest_price": 4.53
+        "average": 2.29,
+        "median": 1.87,
+        "sold": "41437",
+        "standard_deviation": "19.52",
+        "lowest_price": 0.83,
+        "highest_price": 4.61
       }
     }
   },
@@ -3492,37 +3156,21 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/austinwintory_03.18f6213b11eccdb12237547a78c2cb70fb54d829.png",
     "price": {
-      "24_hours": {
-        "average": 3.65,
-        "median": 3.65,
-        "sold": "4",
-        "standard_deviation": "0",
-        "lowest_price": 3.65,
-        "highest_price": 3.66
-      },
-      "7_days": {
-        "average": 3.15,
-        "median": 3.65,
-        "sold": "48",
-        "standard_deviation": "22.48",
-        "lowest_price": 0.9,
-        "highest_price": 3.72
-      },
       "30_days": {
-        "average": 3.51,
-        "median": 3.71,
-        "sold": "320",
-        "standard_deviation": "18.37",
-        "lowest_price": 0.9,
-        "highest_price": 4.14
+        "average": 3.55,
+        "median": 3.8,
+        "sold": "210",
+        "standard_deviation": "18.1",
+        "lowest_price": 0.93,
+        "highest_price": 4.26
       },
       "all_time": {
-        "average": 3.97,
-        "median": 3.47,
+        "average": 4.09,
+        "median": 3.58,
         "sold": "12910",
         "standard_deviation": "17.6",
-        "lowest_price": 0.9,
-        "highest_price": 7.14
+        "lowest_price": 0.93,
+        "highest_price": 7.36
       }
     }
   },
@@ -3537,29 +3185,21 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/chipzel_01.5f4d9f5a440a9b66807b3a1ca40bfe61bddc483c.png",
     "price": {
-      "7_days": {
-        "average": 1.27,
-        "median": 1.3,
-        "sold": "233",
-        "standard_deviation": "10.83",
-        "lowest_price": 0.73,
-        "highest_price": 1.39
-      },
       "30_days": {
-        "average": 1.43,
-        "median": 1.46,
-        "sold": "1273",
-        "standard_deviation": "13.33",
-        "lowest_price": 0.73,
-        "highest_price": 1.71
+        "average": 1.44,
+        "median": 1.44,
+        "sold": "928",
+        "standard_deviation": "12.88",
+        "lowest_price": 0.75,
+        "highest_price": 1.77
       },
       "all_time": {
-        "average": 1.98,
-        "median": 1.63,
+        "average": 2.04,
+        "median": 1.68,
         "sold": "46895",
         "standard_deviation": "19.25",
-        "lowest_price": 0.73,
-        "highest_price": 3.94
+        "lowest_price": 0.75,
+        "highest_price": 4.05
       }
     }
   },
@@ -3574,37 +3214,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/chipzel_01.5f4d9f5a440a9b66807b3a1ca40bfe61bddc483c.png",
     "price": {
-      "24_hours": {
-        "average": 2.55,
-        "median": 2.64,
-        "sold": "4",
-        "standard_deviation": "7.05",
-        "lowest_price": 2.27,
-        "highest_price": 2.66
-      },
       "7_days": {
-        "average": 2.32,
-        "median": 2.42,
-        "sold": "85",
-        "standard_deviation": "20.09",
-        "lowest_price": 0.88,
-        "highest_price": 2.71
+        "average": 2.41,
+        "median": 2.71,
+        "sold": "37",
+        "standard_deviation": "21.72",
+        "lowest_price": 0.89,
+        "highest_price": 2.86
       },
       "30_days": {
-        "average": 2.56,
-        "median": 2.64,
-        "sold": "411",
-        "standard_deviation": "19.83",
-        "lowest_price": 0.87,
-        "highest_price": 3.1
+        "average": 2.55,
+        "median": 2.68,
+        "sold": "320",
+        "standard_deviation": "18.38",
+        "lowest_price": 0.89,
+        "highest_price": 3.16
       },
       "all_time": {
-        "average": 3.22,
-        "median": 2.78,
-        "sold": "15364",
-        "standard_deviation": "17.43",
-        "lowest_price": 0.87,
-        "highest_price": 5.84
+        "average": 3.27,
+        "median": 2.81,
+        "sold": "15406",
+        "standard_deviation": "17.33",
+        "lowest_price": 0.89,
+        "highest_price": 5.95
       }
     }
   },
@@ -3622,26 +3254,26 @@
       "7_days": {
         "average": 8.79,
         "median": 8.95,
-        "sold": "165",
-        "standard_deviation": "5.17",
-        "lowest_price": 6.85,
-        "highest_price": 9.32
+        "sold": "119",
+        "standard_deviation": "4.84",
+        "lowest_price": 7.54,
+        "highest_price": 9.31
       },
       "30_days": {
-        "average": 9.48,
-        "median": 9.41,
-        "sold": "1075",
-        "standard_deviation": "7.48",
-        "lowest_price": 6.85,
-        "highest_price": 10.76
+        "average": 9.32,
+        "median": 9.24,
+        "sold": "899",
+        "standard_deviation": "7.37",
+        "lowest_price": 6.97,
+        "highest_price": 10.78
       },
       "all_time": {
-        "average": 8.75,
-        "median": 9.43,
-        "sold": "27417",
-        "standard_deviation": "14.03",
-        "lowest_price": 5.08,
-        "highest_price": 12.99
+        "average": 8.89,
+        "median": 9.42,
+        "sold": "27539",
+        "standard_deviation": "14.22",
+        "lowest_price": 5.16,
+        "highest_price": 13.2
       }
     }
   },
@@ -3656,29 +3288,21 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/freakydna_01.96afa403f5a9e023408e88496369361b4f557f44.png",
     "price": {
-      "7_days": {
-        "average": 15.24,
-        "median": 15.82,
-        "sold": "55",
-        "standard_deviation": "5.76",
-        "lowest_price": 13.34,
-        "highest_price": 16.17
-      },
       "30_days": {
-        "average": 16.28,
-        "median": 16.62,
-        "sold": "376",
-        "standard_deviation": "9.42",
-        "lowest_price": 1.3,
-        "highest_price": 19.44
+        "average": 16.55,
+        "median": 16.6,
+        "sold": "247",
+        "standard_deviation": "8.63",
+        "lowest_price": 13.43,
+        "highest_price": 20.03
       },
       "all_time": {
-        "average": 12.39,
-        "median": 14.32,
+        "average": 12.76,
+        "median": 14.76,
         "sold": "11641",
         "standard_deviation": "18.87",
-        "lowest_price": 1.3,
-        "highest_price": 19.82
+        "lowest_price": 1.34,
+        "highest_price": 20.43
       }
     }
   },
@@ -3694,28 +3318,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/jesseharlin_01.8698a32cdebbee16225c231bad5b422256a4dfe2.png",
     "price": {
       "7_days": {
-        "average": 1.29,
-        "median": 1.31,
-        "sold": "31",
-        "standard_deviation": "6.56",
-        "lowest_price": 1.22,
-        "highest_price": 1.44
+        "average": 1.26,
+        "median": 1.25,
+        "sold": "117",
+        "standard_deviation": "10.34",
+        "lowest_price": 0.93,
+        "highest_price": 1.41
       },
       "30_days": {
-        "average": 1.42,
-        "median": 1.44,
-        "sold": "835",
-        "standard_deviation": "12.69",
-        "lowest_price": 0.86,
-        "highest_price": 1.65
+        "average": 1.38,
+        "median": 1.4,
+        "sold": "803",
+        "standard_deviation": "11.81",
+        "lowest_price": 0.83,
+        "highest_price": 1.66
       },
       "all_time": {
-        "average": 1.5,
-        "median": 1.47,
-        "sold": "46397",
-        "standard_deviation": "14.79",
-        "lowest_price": 0.75,
-        "highest_price": 2.07
+        "average": 1.54,
+        "median": 1.46,
+        "sold": "46640",
+        "standard_deviation": "14.89",
+        "lowest_price": 0.83,
+        "highest_price": 2.11
       }
     }
   },
@@ -3730,37 +3354,21 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/jesseharlin_01.8698a32cdebbee16225c231bad5b422256a4dfe2.png",
     "price": {
-      "24_hours": {
-        "average": 2.19,
-        "median": 3.09,
-        "sold": "7",
-        "standard_deviation": "44.93",
-        "lowest_price": 0.99,
-        "highest_price": 3.1
-      },
-      "7_days": {
-        "average": 2.67,
-        "median": 3.01,
-        "sold": "62",
-        "standard_deviation": "26.59",
-        "lowest_price": 0.92,
-        "highest_price": 3.16
-      },
       "30_days": {
-        "average": 2.79,
-        "median": 3.04,
-        "sold": "383",
-        "standard_deviation": "21.59",
-        "lowest_price": 0.75,
-        "highest_price": 3.16
+        "average": 2.91,
+        "median": 3.14,
+        "sold": "253",
+        "standard_deviation": "20.22",
+        "lowest_price": 0.9,
+        "highest_price": 3.26
       },
       "all_time": {
-        "average": 2.52,
-        "median": 2.69,
+        "average": 2.59,
+        "median": 2.77,
         "sold": "15254",
         "standard_deviation": "18.49",
-        "lowest_price": 0.75,
-        "highest_price": 3.44
+        "lowest_price": 0.77,
+        "highest_price": 3.54
       }
     }
   },
@@ -3775,37 +3383,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/laurashigihara_01.6ccd2d1904530773115ba88c2cbb389d3da46df3.png",
     "price": {
-      "24_hours": {
-        "average": 3.32,
-        "median": 3.49,
+      "7_days": {
+        "average": 3.42,
+        "median": 3.6,
         "sold": "9",
         "standard_deviation": "18.47",
-        "lowest_price": 2.26,
-        "highest_price": 3.94
-      },
-      "7_days": {
-        "average": 3.19,
-        "median": 3.59,
-        "sold": "150",
-        "standard_deviation": "31.79",
-        "lowest_price": 0.87,
-        "highest_price": 3.94
+        "lowest_price": 2.33,
+        "highest_price": 4.05
       },
       "30_days": {
-        "average": 3.5,
-        "median": 3.76,
-        "sold": "815",
-        "standard_deviation": "26.89",
-        "lowest_price": 0.87,
-        "highest_price": 4.62
+        "average": 3.52,
+        "median": 3.75,
+        "sold": "571",
+        "standard_deviation": "25.7",
+        "lowest_price": 0.89,
+        "highest_price": 4.6
       },
       "all_time": {
-        "average": 5.81,
-        "median": 4.43,
+        "average": 5.98,
+        "median": 4.57,
         "sold": "25396",
         "standard_deviation": "25.87",
-        "lowest_price": 0.87,
-        "highest_price": 10.56
+        "lowest_price": 0.89,
+        "highest_price": 10.88
       }
     }
   },
@@ -3820,37 +3420,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/laurashigihara_01.6ccd2d1904530773115ba88c2cbb389d3da46df3.png",
     "price": {
-      "24_hours": {
-        "average": 7.58,
-        "median": 7.86,
-        "sold": "6",
-        "standard_deviation": "2.65",
-        "lowest_price": 7.44,
-        "highest_price": 7.88
-      },
       "7_days": {
-        "average": 7.3,
-        "median": 7.43,
-        "sold": "36",
-        "standard_deviation": "6.09",
-        "lowest_price": 6.43,
-        "highest_price": 7.88
+        "average": 7.53,
+        "median": 7.96,
+        "sold": "17",
+        "standard_deviation": "9.84",
+        "lowest_price": 5.2,
+        "highest_price": 8.22
       },
       "30_days": {
-        "average": 7.88,
-        "median": 7.87,
-        "sold": "192",
-        "standard_deviation": "8.99",
-        "lowest_price": 6.02,
+        "average": 7.91,
+        "median": 7.98,
+        "sold": "153",
+        "standard_deviation": "8.4",
+        "lowest_price": 5.2,
         "highest_price": 9.1
       },
       "all_time": {
-        "average": 10.32,
-        "median": 7.99,
-        "sold": "9252",
-        "standard_deviation": "16.91",
-        "lowest_price": 5.08,
-        "highest_price": 16.94
+        "average": 10.67,
+        "median": 8.23,
+        "sold": "9274",
+        "standard_deviation": "16.96",
+        "lowest_price": 5.2,
+        "highest_price": 17.52
       }
     }
   },
@@ -3866,28 +3458,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/sarahschachner_01.5a5bef300a44f8f54ba3d817245cb32f66d1c85f.png",
     "price": {
       "7_days": {
-        "average": 3.82,
-        "median": 3.97,
-        "sold": "31",
-        "standard_deviation": "13.02",
-        "lowest_price": 2.22,
-        "highest_price": 4.4
+        "average": 3.65,
+        "median": 3.83,
+        "sold": "133",
+        "standard_deviation": "22.09",
+        "lowest_price": 0.97,
+        "highest_price": 4.11
       },
       "30_days": {
-        "average": 4.34,
-        "median": 4.51,
-        "sold": "785",
-        "standard_deviation": "15.37",
-        "lowest_price": 0.88,
-        "highest_price": 5.02
+        "average": 4.02,
+        "median": 4.17,
+        "sold": "818",
+        "standard_deviation": "21.68",
+        "lowest_price": 0.89,
+        "highest_price": 5.09
       },
       "all_time": {
-        "average": 4.2,
-        "median": 4.52,
-        "sold": "40946",
-        "standard_deviation": "20.65",
-        "lowest_price": 0.88,
-        "highest_price": 6.54
+        "average": 4.27,
+        "median": 4.32,
+        "sold": "41209",
+        "standard_deviation": "22.45",
+        "lowest_price": 0.89,
+        "highest_price": 6.66
       }
     }
   },
@@ -3902,37 +3494,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/sarahschachner_01.5a5bef300a44f8f54ba3d817245cb32f66d1c85f.png",
     "price": {
-      "24_hours": {
-        "average": 6.84,
-        "median": 6.84,
-        "sold": "1",
-        "standard_deviation": "0",
-        "lowest_price": 6.84,
-        "highest_price": 6.84
-      },
       "7_days": {
-        "average": 6.82,
-        "median": 6.98,
-        "sold": "35",
-        "standard_deviation": "7.29",
-        "lowest_price": 6.17,
-        "highest_price": 7.62
+        "average": 6.95,
+        "median": 7.02,
+        "sold": "32",
+        "standard_deviation": "5.8",
+        "lowest_price": 6.29,
+        "highest_price": 7.4
       },
       "30_days": {
-        "average": 7.73,
-        "median": 7.88,
-        "sold": "257",
-        "standard_deviation": "10.67",
-        "lowest_price": 4.95,
-        "highest_price": 8.92
+        "average": 7.51,
+        "median": 7.39,
+        "sold": "208",
+        "standard_deviation": "11.47",
+        "lowest_price": 5.05,
+        "highest_price": 9.08
       },
       "all_time": {
-        "average": 6.77,
-        "median": 7.18,
-        "sold": "13473",
-        "standard_deviation": "20.47",
-        "lowest_price": 3.19,
-        "highest_price": 10.93
+        "average": 6.9,
+        "median": 7.22,
+        "sold": "13510",
+        "standard_deviation": "20.22",
+        "lowest_price": 3.26,
+        "highest_price": 11.13
       }
     }
   },
@@ -3947,37 +3531,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/bbnos_01.41bea5be0ec1c11d2f9c58cc24d175ab62870b74.png",
     "price": {
-      "24_hours": {
-        "average": 4.33,
-        "median": 4.38,
-        "sold": "50",
-        "standard_deviation": "2.93",
-        "lowest_price": 4.14,
-        "highest_price": 4.46
-      },
       "7_days": {
-        "average": 4.13,
-        "median": 4.22,
-        "sold": "1083",
-        "standard_deviation": "11.54",
-        "lowest_price": 1,
-        "highest_price": 4.46
+        "average": 4.25,
+        "median": 4.33,
+        "sold": "852",
+        "standard_deviation": "11.03",
+        "lowest_price": 1.04,
+        "highest_price": 4.61
       },
       "30_days": {
-        "average": 4.57,
-        "median": 4.49,
-        "sold": "6675",
-        "standard_deviation": "12.27",
-        "lowest_price": 0.95,
-        "highest_price": 5.34
+        "average": 4.52,
+        "median": 4.4,
+        "sold": "5905",
+        "standard_deviation": "12.53",
+        "lowest_price": 0.98,
+        "highest_price": 5.42
       },
       "all_time": {
-        "average": 4.88,
-        "median": 4.8,
-        "sold": "185098",
-        "standard_deviation": "12.15",
-        "lowest_price": 0.95,
-        "highest_price": 6.99
+        "average": 5.04,
+        "median": 4.82,
+        "sold": "185900",
+        "standard_deviation": "12.55",
+        "lowest_price": 0.98,
+        "highest_price": 7.24
       }
     }
   },
@@ -3993,28 +3569,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/bbnos_01.41bea5be0ec1c11d2f9c58cc24d175ab62870b74.png",
     "price": {
       "7_days": {
-        "average": 7.63,
-        "median": 7.71,
-        "sold": "289",
-        "standard_deviation": "4.3",
-        "lowest_price": 6.81,
-        "highest_price": 8.11
+        "average": 7.36,
+        "median": 7.44,
+        "sold": "208",
+        "standard_deviation": "4.74",
+        "lowest_price": 6.34,
+        "highest_price": 7.98
       },
       "30_days": {
-        "average": 8.35,
-        "median": 8.22,
-        "sold": "1808",
-        "standard_deviation": "8.62",
-        "lowest_price": 5.66,
-        "highest_price": 9.55
+        "average": 8.01,
+        "median": 7.92,
+        "sold": "1520",
+        "standard_deviation": "7.48",
+        "lowest_price": 5.76,
+        "highest_price": 9.16
       },
       "all_time": {
-        "average": 7.89,
-        "median": 7.99,
-        "sold": "50306",
-        "standard_deviation": "11.13",
-        "lowest_price": 5.35,
-        "highest_price": 10.93
+        "average": 8.01,
+        "median": 7.97,
+        "sold": "50572",
+        "standard_deviation": "10.34",
+        "lowest_price": 5.44,
+        "highest_price": 11.11
       }
     }
   },
@@ -4029,37 +3605,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/theverkkars_02.329034c68612e8f00f0f18e20d7a84f7d2b68627.png",
     "price": {
-      "24_hours": {
-        "average": 3.62,
-        "median": 3.98,
+      "7_days": {
+        "average": 3.73,
+        "median": 4.1,
         "sold": "40",
         "standard_deviation": "27.49",
-        "lowest_price": 1,
-        "highest_price": 4.03
-      },
-      "7_days": {
-        "average": 2.93,
-        "median": 3.92,
-        "sold": "1647",
-        "standard_deviation": "39.35",
-        "lowest_price": 0.9,
-        "highest_price": 4.2
+        "lowest_price": 1.04,
+        "highest_price": 4.15
       },
       "30_days": {
-        "average": 3.85,
-        "median": 4.28,
-        "sold": "7092",
-        "standard_deviation": "27.75",
-        "lowest_price": 0.89,
-        "highest_price": 5.27
+        "average": 3.73,
+        "median": 4.24,
+        "sold": "5807",
+        "standard_deviation": "30.41",
+        "lowest_price": 0.92,
+        "highest_price": 5.17
       },
       "all_time": {
-        "average": 4.49,
-        "median": 4.65,
+        "average": 4.62,
+        "median": 4.8,
         "sold": "200647",
         "standard_deviation": "22.41",
-        "lowest_price": 0.89,
-        "highest_price": 7.01
+        "lowest_price": 0.92,
+        "highest_price": 7.23
       }
     }
   },
@@ -4074,37 +3642,21 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/theverkkars_02.329034c68612e8f00f0f18e20d7a84f7d2b68627.png",
     "price": {
-      "24_hours": {
-        "average": 7.79,
-        "median": 7.79,
-        "sold": "4",
-        "standard_deviation": "0",
-        "lowest_price": 7.78,
-        "highest_price": 7.79
-      },
-      "7_days": {
-        "average": 7.56,
-        "median": 7.65,
-        "sold": "253",
-        "standard_deviation": "5.03",
-        "lowest_price": 5.46,
-        "highest_price": 8.09
-      },
       "30_days": {
         "average": 8.1,
-        "median": 8,
-        "sold": "1558",
-        "standard_deviation": "7.31",
-        "lowest_price": 5.46,
-        "highest_price": 9.39
+        "median": 8.06,
+        "sold": "1126",
+        "standard_deviation": "5.79",
+        "lowest_price": 5.62,
+        "highest_price": 9.03
       },
       "all_time": {
-        "average": 7.93,
-        "median": 7.93,
+        "average": 8.18,
+        "median": 8.18,
         "sold": "44537",
         "standard_deviation": "9.2",
-        "lowest_price": 5.27,
-        "highest_price": 10.53
+        "lowest_price": 5.43,
+        "highest_price": 10.85
       }
     }
   },
@@ -4120,28 +3672,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/3kliksphilip_01.376011867dada400b17c357748d344c1491a2881.png",
     "price": {
       "7_days": {
-        "average": 0.7,
-        "median": 0.71,
-        "sold": "978",
-        "standard_deviation": "4.55",
-        "lowest_price": 0.58,
-        "highest_price": 0.76
+        "average": 0.69,
+        "median": 0.7,
+        "sold": "677",
+        "standard_deviation": "6.35",
+        "lowest_price": 0.56,
+        "highest_price": 0.75
       },
       "30_days": {
-        "average": 0.78,
-        "median": 0.77,
-        "sold": "6171",
-        "standard_deviation": "9.46",
-        "lowest_price": 0.57,
-        "highest_price": 0.93
+        "average": 0.76,
+        "median": 0.75,
+        "sold": "5018",
+        "standard_deviation": "10",
+        "lowest_price": 0.56,
+        "highest_price": 0.95
       },
       "all_time": {
-        "average": 1.2,
+        "average": 1.21,
         "median": 0.81,
-        "sold": "148401",
-        "standard_deviation": "25.66",
-        "lowest_price": 0.53,
-        "highest_price": 4.36
+        "sold": "149089",
+        "standard_deviation": "26.13",
+        "lowest_price": 0.55,
+        "highest_price": 4.43
       }
     }
   },
@@ -4156,37 +3708,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/3kliksphilip_01.376011867dada400b17c357748d344c1491a2881.png",
     "price": {
-      "24_hours": {
-        "average": 1.79,
-        "median": 1.82,
-        "sold": "11",
-        "standard_deviation": "6.51",
-        "lowest_price": 1.49,
-        "highest_price": 1.84
-      },
       "7_days": {
-        "average": 1.69,
-        "median": 1.78,
-        "sold": "308",
-        "standard_deviation": "11.88",
-        "lowest_price": 0.83,
-        "highest_price": 1.88
+        "average": 1.72,
+        "median": 1.82,
+        "sold": "166",
+        "standard_deviation": "11.39",
+        "lowest_price": 1.04,
+        "highest_price": 1.9
       },
       "30_days": {
-        "average": 1.94,
-        "median": 1.95,
-        "sold": "1878",
-        "standard_deviation": "13.66",
-        "lowest_price": 0.81,
-        "highest_price": 2.3
+        "average": 1.92,
+        "median": 1.91,
+        "sold": "1460",
+        "standard_deviation": "13.07",
+        "lowest_price": 0.84,
+        "highest_price": 2.35
       },
       "all_time": {
-        "average": 2.84,
+        "average": 2.93,
         "median": 2.02,
-        "sold": "41036",
-        "standard_deviation": "22.01",
-        "lowest_price": 0.81,
-        "highest_price": 9.55
+        "sold": "41231",
+        "standard_deviation": "22.3",
+        "lowest_price": 0.84,
+        "highest_price": 9.88
       }
     }
   },
@@ -4223,37 +3767,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/juelz_01.0d590b3dd6c58dba054ee00f52a8165966beb310.png",
     "price": {
-      "24_hours": {
-        "average": 0.68,
-        "median": 0.69,
-        "sold": "34",
-        "standard_deviation": "3.13",
-        "lowest_price": 0.63,
-        "highest_price": 0.71
-      },
       "7_days": {
-        "average": 0.67,
-        "median": 0.69,
-        "sold": "1218",
-        "standard_deviation": "6.35",
-        "lowest_price": 0.43,
+        "average": 0.66,
+        "median": 0.68,
+        "sold": "917",
+        "standard_deviation": "4.92",
+        "lowest_price": 0.58,
         "highest_price": 0.73
       },
       "30_days": {
-        "average": 0.76,
-        "median": 0.75,
-        "sold": "6736",
-        "standard_deviation": "9.72",
-        "lowest_price": 0.43,
-        "highest_price": 0.91
+        "average": 0.74,
+        "median": 0.72,
+        "sold": "5771",
+        "standard_deviation": "10.29",
+        "lowest_price": 0.45,
+        "highest_price": 0.93
       },
       "all_time": {
-        "average": 1.08,
-        "median": 0.8,
-        "sold": "168093",
-        "standard_deviation": "22.55",
-        "lowest_price": 0.43,
-        "highest_price": 2.17
+        "average": 1.1,
+        "median": 0.78,
+        "sold": "168976",
+        "standard_deviation": "22.77",
+        "lowest_price": 0.45,
+        "highest_price": 2.21
       }
     }
   },
@@ -4269,28 +3805,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/juelz_01.0d590b3dd6c58dba054ee00f52a8165966beb310.png",
     "price": {
       "7_days": {
-        "average": 1.43,
-        "median": 1.46,
-        "sold": "78",
-        "standard_deviation": "7.41",
-        "lowest_price": 0.98,
-        "highest_price": 1.53
+        "average": 1.4,
+        "median": 1.45,
+        "sold": "229",
+        "standard_deviation": "8.59",
+        "lowest_price": 0.83,
+        "highest_price": 1.5
       },
       "30_days": {
-        "average": 1.65,
-        "median": 1.67,
-        "sold": "1857",
-        "standard_deviation": "12.82",
-        "lowest_price": 0.75,
-        "highest_price": 2.02
+        "average": 1.55,
+        "median": 1.52,
+        "sold": "1751",
+        "standard_deviation": "12.68",
+        "lowest_price": 0.83,
+        "highest_price": 1.9
       },
       "all_time": {
-        "average": 2.04,
-        "median": 1.77,
-        "sold": "44165",
-        "standard_deviation": "16.58",
-        "lowest_price": 0.75,
-        "highest_price": 3.37
+        "average": 2.07,
+        "median": 1.69,
+        "sold": "44715",
+        "standard_deviation": "17.89",
+        "lowest_price": 0.83,
+        "highest_price": 3.43
       }
     }
   },
@@ -4306,28 +3842,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/knock2_01.b7cf197447a161b82c11c8e2d460d510ea58acb4.png",
     "price": {
       "7_days": {
-        "average": 15.16,
-        "median": 15.28,
-        "sold": "753",
-        "standard_deviation": "3.56",
-        "lowest_price": 14.01,
-        "highest_price": 16.08
+        "average": 14.94,
+        "median": 15.01,
+        "sold": "642",
+        "standard_deviation": "3.57",
+        "lowest_price": 13.66,
+        "highest_price": 15.83
       },
       "30_days": {
-        "average": 16.66,
-        "median": 15.96,
-        "sold": "6460",
-        "standard_deviation": "7.94",
-        "lowest_price": 13.93,
-        "highest_price": 19.39
+        "average": 16.34,
+        "median": 15.89,
+        "sold": "5071",
+        "standard_deviation": "7.47",
+        "lowest_price": 13.66,
+        "highest_price": 19.06
       },
       "all_time": {
-        "average": 17.4,
-        "median": 16.88,
-        "sold": "86353",
-        "standard_deviation": "9.24",
-        "lowest_price": 13.93,
-        "highest_price": 22.45
+        "average": 17.93,
+        "median": 16.56,
+        "sold": "87055",
+        "standard_deviation": "9.91",
+        "lowest_price": 13.66,
+        "highest_price": 23.16
       }
     }
   },
@@ -4343,28 +3879,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/knock2_01.b7cf197447a161b82c11c8e2d460d510ea58acb4.png",
     "price": {
       "7_days": {
-        "average": 27.68,
-        "median": 28.03,
-        "sold": "235",
-        "standard_deviation": "5.62",
-        "lowest_price": 20.83,
-        "highest_price": 29.2
+        "average": 27.27,
+        "median": 27.5,
+        "sold": "138",
+        "standard_deviation": "5.44",
+        "lowest_price": 21.83,
+        "highest_price": 29.29
       },
       "30_days": {
-        "average": 30.23,
-        "median": 29.57,
-        "sold": "1712",
-        "standard_deviation": "7.66",
-        "lowest_price": 20.83,
-        "highest_price": 35.64
+        "average": 29.19,
+        "median": 28.99,
+        "sold": "1259",
+        "standard_deviation": "6.91",
+        "lowest_price": 21.17,
+        "highest_price": 33.01
       },
       "all_time": {
-        "average": 27.68,
-        "median": 28.89,
-        "sold": "26347",
-        "standard_deviation": "10.01",
-        "lowest_price": 20.83,
-        "highest_price": 36.01
+        "average": 28.13,
+        "median": 28.91,
+        "sold": "26530",
+        "standard_deviation": "9.57",
+        "lowest_price": 21.17,
+        "highest_price": 36.6
       }
     }
   },
@@ -4379,29 +3915,21 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/meechydarko_01.5dbe99ff8a2ef9922d84ac61beb9cd685746b886.png",
     "price": {
-      "7_days": {
-        "average": 0.91,
-        "median": 0.93,
-        "sold": "260",
-        "standard_deviation": "4.65",
-        "lowest_price": 0.85,
-        "highest_price": 0.97
-      },
       "30_days": {
-        "average": 1.1,
-        "median": 1.11,
-        "sold": "7879",
-        "standard_deviation": "10.58",
-        "lowest_price": 0.84,
-        "highest_price": 1.27
+        "average": 1.09,
+        "median": 1.08,
+        "sold": "5401",
+        "standard_deviation": "11",
+        "lowest_price": 0.86,
+        "highest_price": 1.3
       },
       "all_time": {
-        "average": 1.43,
-        "median": 1.21,
+        "average": 1.47,
+        "median": 1.24,
         "sold": "192301",
         "standard_deviation": "20",
-        "lowest_price": 0.74,
-        "highest_price": 2.41
+        "lowest_price": 0.76,
+        "highest_price": 2.49
       }
     }
   },
@@ -4417,28 +3945,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/meechydarko_01.5dbe99ff8a2ef9922d84ac61beb9cd685746b886.png",
     "price": {
       "7_days": {
-        "average": 2.64,
+        "average": 2.67,
         "median": 2.75,
-        "sold": "399",
-        "standard_deviation": "13.2",
-        "lowest_price": 1,
-        "highest_price": 2.87
+        "sold": "221",
+        "standard_deviation": "6.94",
+        "lowest_price": 1.73,
+        "highest_price": 2.82
       },
       "30_days": {
-        "average": 2.99,
-        "median": 2.96,
-        "sold": "2303",
-        "standard_deviation": "14.84",
-        "lowest_price": 0.8,
-        "highest_price": 3.55
+        "average": 2.9,
+        "median": 2.87,
+        "sold": "1911",
+        "standard_deviation": "13.91",
+        "lowest_price": 0.82,
+        "highest_price": 3.51
       },
       "all_time": {
-        "average": 3.21,
-        "median": 3.04,
-        "sold": "47647",
-        "standard_deviation": "14.85",
-        "lowest_price": 0.8,
-        "highest_price": 4.35
+        "average": 3.25,
+        "median": 2.98,
+        "sold": "47940",
+        "standard_deviation": "15.1",
+        "lowest_price": 0.82,
+        "highest_price": 4.41
       }
     }
   },
@@ -4453,29 +3981,21 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/sullivanking_01.770772c90c1acf349d26cacbbad1a966a825243c.png",
     "price": {
-      "7_days": {
-        "average": 0.58,
-        "median": 0.59,
-        "sold": "1219",
-        "standard_deviation": "5.45",
-        "lowest_price": 0.5,
-        "highest_price": 0.63
-      },
       "30_days": {
         "average": 0.68,
-        "median": 0.68,
-        "sold": "6948",
-        "standard_deviation": "10.94",
-        "lowest_price": 0.5,
-        "highest_price": 0.83
+        "median": 0.65,
+        "sold": "5072",
+        "standard_deviation": "11.29",
+        "lowest_price": 0.51,
+        "highest_price": 0.85
       },
       "all_time": {
-        "average": 0.91,
-        "median": 0.72,
+        "average": 0.94,
+        "median": 0.74,
         "sold": "174601",
         "standard_deviation": "23.26",
-        "lowest_price": 0.45,
-        "highest_price": 2.11
+        "lowest_price": 0.47,
+        "highest_price": 2.17
       }
     }
   },
@@ -4491,28 +4011,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/sullivanking_01.770772c90c1acf349d26cacbbad1a966a825243c.png",
     "price": {
       "7_days": {
-        "average": 1.28,
+        "average": 1.29,
         "median": 1.31,
-        "sold": "404",
-        "standard_deviation": "9.92",
-        "lowest_price": 0.81,
-        "highest_price": 1.41
+        "sold": "227",
+        "standard_deviation": "6.78",
+        "lowest_price": 1.01,
+        "highest_price": 1.37
       },
       "30_days": {
-        "average": 1.47,
-        "median": 1.46,
-        "sold": "2238",
-        "standard_deviation": "13.67",
-        "lowest_price": 0.81,
+        "average": 1.42,
+        "median": 1.38,
+        "sold": "1860",
+        "standard_deviation": "12.31",
+        "lowest_price": 0.83,
         "highest_price": 1.77
       },
       "all_time": {
-        "average": 1.85,
-        "median": 1.57,
-        "sold": "45701",
-        "standard_deviation": "18.29",
-        "lowest_price": 0.75,
-        "highest_price": 3.6
+        "average": 1.89,
+        "median": 1.52,
+        "sold": "45989",
+        "standard_deviation": "18.5",
+        "lowest_price": 0.83,
+        "highest_price": 3.67
       }
     }
   },
@@ -4550,28 +4070,28 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/denzelcurry_01.c6308be51b40c63c0addb512fff5d2c9713aceca.png",
     "price": {
       "7_days": {
-        "average": 3.08,
-        "median": 3.15,
-        "sold": "360",
-        "standard_deviation": "9.62",
-        "lowest_price": 1.98,
-        "highest_price": 3.19
+        "average": 3.03,
+        "median": 3.1,
+        "sold": "1364",
+        "standard_deviation": "8.27",
+        "lowest_price": 1.07,
+        "highest_price": 3.24
       },
       "30_days": {
-        "average": 3.36,
-        "median": 3.46,
-        "sold": "9620",
-        "standard_deviation": "13.21",
-        "lowest_price": 0.89,
-        "highest_price": 3.84
+        "average": 3.27,
+        "median": 3.2,
+        "sold": "8976",
+        "standard_deviation": "12.33",
+        "lowest_price": 0.92,
+        "highest_price": 3.92
       },
       "all_time": {
-        "average": 3.79,
-        "median": 3.6,
-        "sold": "160225",
-        "standard_deviation": "14.25",
-        "lowest_price": 0.89,
-        "highest_price": 5.84
+        "average": 3.85,
+        "median": 3.26,
+        "sold": "162898",
+        "standard_deviation": "14.73",
+        "lowest_price": 0.92,
+        "highest_price": 5.95
       }
     }
   },
@@ -4586,37 +4106,29 @@
     "exclusive": false,
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/denzelcurry_01.c6308be51b40c63c0addb512fff5d2c9713aceca.png",
     "price": {
-      "24_hours": {
-        "average": 6.84,
-        "median": 6.93,
-        "sold": "17",
-        "standard_deviation": "5.87",
-        "lowest_price": 5.93,
-        "highest_price": 7.17
-      },
       "7_days": {
-        "average": 7.01,
-        "median": 7.11,
-        "sold": "354",
-        "standard_deviation": "5.28",
-        "lowest_price": 5.93,
-        "highest_price": 7.44
+        "average": 6.86,
+        "median": 6.98,
+        "sold": "190",
+        "standard_deviation": "6.04",
+        "lowest_price": 5.61,
+        "highest_price": 7.48
       },
       "30_days": {
-        "average": 7.67,
-        "median": 7.45,
-        "sold": "2010",
-        "standard_deviation": "9.1",
-        "lowest_price": 5.93,
-        "highest_price": 8.77
+        "average": 7.59,
+        "median": 7.46,
+        "sold": "1667",
+        "standard_deviation": "9.2",
+        "lowest_price": 5.61,
+        "highest_price": 8.83
       },
       "all_time": {
-        "average": 7.25,
-        "median": 7.39,
-        "sold": "27364",
-        "standard_deviation": "10.8",
-        "lowest_price": 5.47,
-        "highest_price": 9.16
+        "average": 7.5,
+        "median": 7.49,
+        "sold": "27588",
+        "standard_deviation": "10.61",
+        "lowest_price": 5.61,
+        "highest_price": 9.47
       }
     }
   }
