@@ -116,10 +116,17 @@ export async function GET(_request: Request) {
     }
   );
 
+  const currentDate = new Date();
+
+  const finalObject = {
+    merged,
+    UpdatedAt: currentDate,
+  };
+
   fs.writeFileSync(
     "app/api/skins/data/skins.json",
-    JSON.stringify(merged, null, 2)
+    JSON.stringify(finalObject, null, 2)
   );
 
-  return NextResponse.json(merged, { status: 200 });
+  return NextResponse.json(finalObject, { status: 200 });
 }
