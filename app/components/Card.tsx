@@ -1,4 +1,4 @@
-import React, { ReactNode } from "react";
+import React, { ReactNode, useEffect, useState } from "react";
 import Image from "next/image";
 import { Badge } from "../components";
 
@@ -28,8 +28,14 @@ export const Card = ({
   price,
   hasFloat,
 }: CardProps) => {
+  const userSkins = localStorage.getItem("fileData");
+  const hasSkin = userSkins?.includes(name ?? "");
   return (
-    <div className="h-[350px] px-10 bg-base-100 shadow-xl bg-slate-100 dark:bg-gray-950 dark:text-white">
+    <div
+      className={`h-[350px] px-10 bg-base-100 shadow-xl bg-slate-100 dark:bg-gray-950 dark:text-white ${
+        hasSkin ? "border-2 border-green-500" : ""
+      }`}
+    >
       <figure>
         <Image src={image} alt={name || ""} width={300} height={200} />
       </figure>
@@ -38,6 +44,9 @@ export const Card = ({
           {name && name}
           <div className="badge badge-secondary">{rarity?.name}</div>
         </h2>
+        {userSkins && userSkins.includes(name ?? "") && (
+          <p>You own this skin</p>
+        )}
         {hasFloat && (
           <p>
             {max_float && min_float ? (
